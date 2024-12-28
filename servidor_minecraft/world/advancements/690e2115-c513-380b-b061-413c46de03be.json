@@ -3712,12 +3712,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-12-28 01:48:42 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/nether_boots": {
     "criteria": {
       "has_filled_goblet": "2024-12-28 01:33:11 +0000"
@@ -3727,12 +3721,6 @@
   "knightquest:recipes/misc/blaze_helmet": {
     "criteria": {
       "has_filled_goblet": "2024-12-28 01:33:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-12-28 01:48:42 +0000"
     },
     "done": true
   },
@@ -3769,12 +3757,6 @@
   "knightquest:recipes/misc/paladin_sword": {
     "criteria": {
       "has_filled_goblet": "2024-12-28 01:33:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-12-28 01:48:42 +0000"
     },
     "done": true
   },
@@ -3820,33 +3802,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-12-28 01:48:42 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/hollow_leggings": {
     "criteria": {
       "has_filled_goblet": "2024-12-28 01:33:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-12-28 01:48:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2024-12-28 01:45:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-12-28 01:48:42 +0000"
     },
     "done": true
   },
@@ -3862,12 +3820,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-12-28 01:48:42 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/phantom_boots": {
     "criteria": {
       "has_filled_goblet": "2024-12-28 01:33:11 +0000"
@@ -3877,12 +3829,6 @@
   "knightquest:recipes/misc/nether_leggings": {
     "criteria": {
       "has_filled_goblet": "2024-12-28 01:33:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-12-28 01:48:42 +0000"
     },
     "done": true
   },
@@ -3907,12 +3853,6 @@
   "knightquest:recipes/misc/apple_leggings": {
     "criteria": {
       "has_filled_goblet": "2024-12-28 01:33:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-12-28 01:48:42 +0000"
     },
     "done": true
   },
@@ -3982,12 +3922,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-12-28 01:48:42 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/sea_leggings": {
     "criteria": {
       "has_filled_goblet": "2024-12-28 01:33:11 +0000"
@@ -4012,21 +3946,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-12-28 01:48:42 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/dragon_leggings": {
     "criteria": {
       "has_filled_goblet": "2024-12-28 01:33:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2024-12-28 01:48:42 +0000"
     },
     "done": true
   },
@@ -4075,6 +3997,84 @@
   "knightquest:recipes/misc/squire_boots": {
     "criteria": {
       "has_filled_goblet": "2024-12-28 01:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-28 01:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-28 01:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-28 01:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-28 01:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-28 01:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-28 01:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-28 01:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-28 01:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-28 01:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-28 01:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-28 01:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-28 01:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-28 01:48:42 +0000"
     },
     "done": true
   },

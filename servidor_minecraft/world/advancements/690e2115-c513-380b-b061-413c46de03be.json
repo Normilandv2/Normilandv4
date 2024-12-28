@@ -4132,6 +4132,12 @@
     },
     "done": true
   },
+  "man:thetear": {
+    "criteria": {
+      "thetear_0": "2024-12-28 03:16:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-12-28 02:19:24 +0000"

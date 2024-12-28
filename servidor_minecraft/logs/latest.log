@@ -578,3 +578,53 @@
 [28Dec2024 03:00:12.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> toma
 [28Dec2024 03:02:14.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> necesita mas comida
 [28Dec2024 03:02:22.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> aqui esta
+[28Dec2024 03:02:33.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[28Dec2024 03:02:55.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[28Dec2024 03:03:48.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> bueno
+[28Dec2024 03:03:56.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[28Dec2024 03:04:08.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has reached the goal [Hired Help]
+[28Dec2024 03:04:39.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
+[28Dec2024 03:04:39.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[28Dec2024 03:04:39.196] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Doglas777
+[28Dec2024 03:05:01.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:54827] logged in with entity id 42184 at (-19.239553142386555, 66.0, 2630.9929902634126)
+[28Dec2024 03:05:01.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[28Dec2024 03:05:01.746] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[28Dec2024 03:05:04.624] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Doglas777 (18)
+[28Dec2024 03:05:04.624] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Doglas777
+[28Dec2024 03:05:19.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> este we pega?
+[28Dec2024 03:05:31.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Timed out
+[28Dec2024 03:05:31.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[28Dec2024 03:05:31.891] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Doglas777
+[28Dec2024 03:05:39.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:54834] logged in with entity id 42277 at (-19.239553142386555, 66.0, 2630.9929902634126)
+[28Dec2024 03:05:39.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[28Dec2024 03:05:39.303] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[28Dec2024 03:05:39.441] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Doglas777 (18)
+[28Dec2024 03:05:39.442] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Doglas777
+[28Dec2024 03:05:42.114] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[28Dec2024 03:05:43.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[28Dec2024 03:05:43.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf) successfully connected to voice chat
+[28Dec2024 03:05:48.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> aa
+[28Dec2024 03:06:09.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> entonces
+[28Dec2024 03:06:11.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> a espera
+[28Dec2024 03:06:21.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pasate un ojito de estos de chill
+[28Dec2024 03:06:56.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> intenta que te ataque
+[28Dec2024 03:07:00.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> y yo le doy con el veneno
+[28Dec2024 03:08:32.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> O MAN FROM THE FOG
+[28Dec2024 03:08:39.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> FOLLATE ALAN TE LO SUPLICO
+[28Dec2024 03:08:45.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ESTA OFRENDA TE OFREZCO
+[28Dec2024 03:08:48.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> PARA TU PLACER
+[28Dec2024 03:08:49.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> GGG
+[28Dec2024 03:08:52.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> YTYYYIIYIYIY
+[28Dec2024 03:09:17.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> Y EL ORNO
+[28Dec2024 03:10:41.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> we tengo lag
+[28Dec2024 03:10:46.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> gg
+[28Dec2024 03:10:52.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pasate una perla de cristal
+[28Dec2024 03:10:56.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pasa guardar a este wey
+[28Dec2024 03:11:01.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> no tengo
+[28Dec2024 03:11:07.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ya llegó
+[28Dec2024 03:11:29.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> tmr
+[28Dec2024 03:12:01.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ayer pense que iba a salir otro episodio de dandandan
+[28Dec2024 03:12:06.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pero me recorde que se acabo
+[28Dec2024 03:12:07.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> gg
+[28Dec2024 03:12:10.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> gggggggg
+[28Dec2024 03:12:13.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> que menso

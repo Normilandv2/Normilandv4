@@ -7,3 +7,27 @@
 [28Dec2024 00:15:18.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
 [28Dec2024 00:39:38.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
 [28Dec2024 00:39:56.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[28Dec2024 00:42:13.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[28Dec2024 00:43:39.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[28Dec2024 00:45:36.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlanJCR[/100.109.225.113:49986] logged in with entity id 8726 at (337.96607639156036, 72.8296985436764, 2699.235201630954)
+[28Dec2024 00:45:36.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR joined the game
+[28Dec2024 00:45:36.264] [Server thread/INFO] [Jade/]: Syncing config to AlanJCR (690e2115-c513-380b-b061-413c46de03be)
+[28Dec2024 00:45:37.579] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlanJCR (18)
+[28Dec2024 00:45:37.581] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlanJCR
+[28Dec2024 00:45:41.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 690e2115-c513-380b-b061-413c46de03be
+[28Dec2024 00:45:42.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 690e2115-c513-380b-b061-413c46de03be
+[28Dec2024 00:45:42.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player AlanJCR (690e2115-c513-380b-b061-413c46de03be) successfully connected to voice chat
+[28Dec2024 00:45:53.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pasen coords de la base
+[28Dec2024 00:46:04.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported AlanJCR to Doglas777]
+[28Dec2024 00:46:43.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> estoy en lagrimas alan
+[28Dec2024 00:46:45.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> porfin la termine
+[28Dec2024 00:47:53.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> mojo dojo casa house
+[28Dec2024 00:48:11.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> creo que es la mejor casa que he hecho hasta ahora
+[28Dec2024 00:48:51.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> que opinas we
+[28Dec2024 00:48:53.686] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/8411, l='ServerLevel[world]', x=-82.88, y=58.00, z=2639.92] died: Angry Creeper fell from a high place
+[28Dec2024 00:48:54.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> bancas o no
+[28Dec2024 00:48:58.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ta god
+[28Dec2024 00:49:52.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya porfin tenemos techo
+[28Dec2024 00:50:48.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> alan
+[28Dec2024 00:50:50.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> q
+[28Dec2024 00:50:54.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> como se hacia una mesa de encantamientos

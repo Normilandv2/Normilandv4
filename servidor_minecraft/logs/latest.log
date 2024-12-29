@@ -1093,3 +1093,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 02:04:31.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
 [29Dec2024 02:04:31.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
 [29Dec2024 02:04:31.175] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Doglas777
+[29Dec2024 02:11:59.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:50084] logged in with entity id 15368 at (1567.756325414548, 71.0, 2518.9191891719274)
+[29Dec2024 02:11:59.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[29Dec2024 02:11:59.605] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[29Dec2024 02:12:00.599] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Doglas777 (18)
+[29Dec2024 02:12:00.599] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Doglas777
+[29Dec2024 02:12:04.339] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[29Dec2024 02:12:05.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[29Dec2024 02:12:05.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf) successfully connected to voice chat
+[29Dec2024 02:12:20.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]

@@ -3360,21 +3360,15 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-12-27 02:41:12 +0000"
+      "has_tool_swapper_upgrade": "2024-12-27 02:25:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-27 02:41:11 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
-    "criteria": {
-      "has_tool_swapper_upgrade": "2024-12-27 02:25:54 +0000"
     },
     "done": true
   },
@@ -3383,6 +3377,12 @@
       "entered_nether": "2024-12-27 02:41:11 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-27 02:41:12 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

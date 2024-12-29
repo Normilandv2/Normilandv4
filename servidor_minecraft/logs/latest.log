@@ -1194,3 +1194,46 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 02:48:36.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7 timed out
 [29Dec2024 02:48:36.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player tacaz1707
 [29Dec2024 02:48:36.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to tacaz1707
+[29Dec2024 02:48:50.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> dios
+[29Dec2024 02:48:53.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> quedda god
+[29Dec2024 02:49:00.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacaz1707 lost connection: Timed out
+[29Dec2024 02:49:00.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 left the game
+[29Dec2024 02:49:00.527] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client tacaz1707
+[29Dec2024 02:50:17.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacaz1707[/100.102.237.7:52220] logged in with entity id 27508 at (-74.23750001192093, 127.0, 2643.355045860729)
+[29Dec2024 02:50:17.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 joined the game
+[29Dec2024 02:50:17.146] [Server thread/INFO] [Jade/]: Syncing config to tacaz1707 (2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7)
+[29Dec2024 02:50:17.316] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of tacaz1707 (18)
+[29Dec2024 02:50:17.317] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to tacaz1707
+[29Dec2024 02:50:18.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7
+[29Dec2024 02:50:20.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7
+[29Dec2024 02:50:20.008] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player tacaz1707 (2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7) successfully connected to voice chat
+[29Dec2024 02:50:30.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ahora
+[29Dec2024 02:50:33.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> te la hago
+[29Dec2024 02:50:42.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> eta baina ta asimetrica
+[29Dec2024 02:51:08.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> q baboso
+[29Dec2024 02:51:14.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> falta we
+[29Dec2024 02:51:18.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> se lo tire a tu armadura
+[29Dec2024 02:51:24.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> kuanto?
+[29Dec2024 02:51:24.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> qye pedo
+[29Dec2024 02:52:05.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> hace otras botas de hierro
+[29Dec2024 02:52:44.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> hago otras?
+[29Dec2024 02:52:49.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> solo una
+[29Dec2024 02:52:55.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> ba
+[29Dec2024 02:53:27.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> ahi t la deje
+[29Dec2024 02:53:52.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> we
+[29Dec2024 02:53:57.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> falta lana blanca XDD
+[29Dec2024 02:54:17.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> tienes 2 de hilo?
+[29Dec2024 02:54:40.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya no
+[29Dec2024 02:54:44.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> solo uno
+[29Dec2024 02:54:59.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> deja busco una madafaka araña
+[29Dec2024 02:55:01.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> me diste la pluma?
+[29Dec2024 02:55:13.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> no voyu
+[29Dec2024 02:55:33.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> ya
+[29Dec2024 02:56:22.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> solo falta la lana y ya gg
+[29Dec2024 02:56:29.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> dame tp
+[29Dec2024 02:56:42.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported tacaz1707 to Doglas777]
+[29Dec2024 02:56:44.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> ya la consegui
+[29Dec2024 02:56:59.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> yiyi
+[29Dec2024 02:57:42.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> VOY A CAGAR
+[29Dec2024 02:57:44.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> YA REGRESO
+[29Dec2024 02:57:50.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> xd ba

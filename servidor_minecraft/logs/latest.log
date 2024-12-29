@@ -1072,3 +1072,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 01:45:52.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
 [29Dec2024 01:46:16.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
 [29Dec2024 01:47:31.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved too quickly! 6.0180146330042135,-1.127890238205481,-8.083966893259458
+[29Dec2024 01:51:40.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[29Dec2024 01:51:58.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacaz1707 lost connection: Disconnected
+[29Dec2024 01:51:58.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 left the game
+[29Dec2024 01:51:58.794] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client tacaz1707
+[29Dec2024 01:52:44.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[29Dec2024 01:53:04.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[29Dec2024 01:53:50.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [Ol' Betsy]
+[29Dec2024 01:56:43.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1bdb8232-be48-3cf6-b686-dd936bd66cbf timed out
+[29Dec2024 01:56:43.152] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Doglas777
+[29Dec2024 01:56:43.152] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Doglas777
+[29Dec2024 01:56:47.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved too quickly! 0.728460689974554,0.41999998688697815,10.39321524959314
+[29Dec2024 01:56:48.262] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[29Dec2024 01:56:49.264] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[29Dec2024 01:56:49.264] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf) successfully connected to voice chat
+[29Dec2024 01:57:53.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[29Dec2024 01:58:11.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[29Dec2024 02:00:36.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [Voluntary Exile]
+[29Dec2024 02:01:37.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[29Dec2024 02:04:31.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
+[29Dec2024 02:04:31.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[29Dec2024 02:04:31.175] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Doglas777

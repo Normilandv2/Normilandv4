@@ -1290,3 +1290,41 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 03:26:41.556] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Packet queue has 48 packets
 [29Dec2024 03:26:41.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8400ms or 168 ticks behind
 [29Dec2024 03:28:42.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> oye w q le paso a las texturas de los cofres
+[29Dec2024 03:30:34.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 is bleeding. Doglas777 was shot by Pillager
+[29Dec2024 03:30:40.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 was shot by Pillager
+[29Dec2024 03:30:58.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> alaberga
+[29Dec2024 03:30:59.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1bdb8232-be48-3cf6-b686-dd936bd66cbf timed out
+[29Dec2024 03:30:59.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Doglas777
+[29Dec2024 03:30:59.954] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Doglas777
+[29Dec2024 03:31:13.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Timed out
+[29Dec2024 03:31:13.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[29Dec2024 03:31:13.274] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Doglas777
+[29Dec2024 03:31:28.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:50217] logged in with entity id 38004 at (-96.5, 121.0, 2641.5)
+[29Dec2024 03:31:28.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[29Dec2024 03:31:28.597] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[29Dec2024 03:31:29.016] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Doglas777 (18)
+[29Dec2024 03:31:29.016] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Doglas777
+[29Dec2024 03:31:39.867] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[29Dec2024 03:31:40.869] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[29Dec2024 03:31:40.870] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf) successfully connected to voice chat
+[29Dec2024 03:31:49.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> que pussy los saqueadores
+[29Dec2024 03:32:02.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> zy
+[29Dec2024 03:32:42.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to 1587.500000, 71.500000, 2548.500000]
+[29Dec2024 03:32:42.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3433ms or 68 ticks behind
+[29Dec2024 03:32:42.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacaz1707 moved too quickly! 3.501020682599602,-0.7531999805212024,-9.385319032233838
+[29Dec2024 03:35:38.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the weather to clear]
+[29Dec2024 03:35:42.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
+[29Dec2024 03:35:42.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[29Dec2024 03:35:42.389] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Doglas777
+[29Dec2024 03:36:05.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Dec2024 03:36:05.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Dec2024 03:36:05.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Dec2024 03:36:05.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Dec2024 03:36:05.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Dec2024 03:36:05.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Dec2024 03:36:05.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Dec2024 03:36:05.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Dec2024 03:36:05.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Dec2024 03:36:05.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Dec2024 03:36:05.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Dec2024 03:36:05.800] [Server thread/INFO] [Framework/]: Unloading server configs...

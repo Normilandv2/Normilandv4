@@ -1102,3 +1102,44 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 02:12:05.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
 [29Dec2024 02:12:05.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf) successfully connected to voice chat
 [29Dec2024 02:12:20.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[29Dec2024 02:18:47.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1bdb8232-be48-3cf6-b686-dd936bd66cbf timed out
+[29Dec2024 02:18:47.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Doglas777
+[29Dec2024 02:18:47.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Doglas777
+[29Dec2024 02:18:48.483] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[29Dec2024 02:18:49.485] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[29Dec2024 02:18:49.486] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf) successfully connected to voice chat
+[29Dec2024 02:21:14.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[29Dec2024 02:25:36.442] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacaz1707[/100.102.237.7:51261] logged in with entity id 19785 at (-125.45143188995142, -33.0, 2673.0604452978864)
+[29Dec2024 02:25:36.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 joined the game
+[29Dec2024 02:25:36.454] [Server thread/INFO] [Jade/]: Syncing config to tacaz1707 (2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7)
+[29Dec2024 02:25:37.177] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of tacaz1707 (18)
+[29Dec2024 02:25:37.178] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to tacaz1707
+[29Dec2024 02:25:39.186] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7
+[29Dec2024 02:25:40.199] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7
+[29Dec2024 02:25:40.199] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player tacaz1707 (2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7) successfully connected to voice chat
+[29Dec2024 02:25:49.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> estas en casa?
+[29Dec2024 02:26:26.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[29Dec2024 02:27:40.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> ya tengo las cosas exepto la lana w
+[29Dec2024 02:29:36.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> que hace el mal prestagio
+[29Dec2024 02:29:50.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the weather to clear]
+[29Dec2024 02:30:13.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> invoca pilagers si estas en una aldea y activa las madres esa del desafio
+[29Dec2024 02:30:40.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> es qe encontre una estructura lleno de esos niggas
+[29Dec2024 02:30:57.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1bdb8232-be48-3cf6-b686-dd936bd66cbf timed out
+[29Dec2024 02:30:57.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Doglas777
+[29Dec2024 02:30:57.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Doglas777
+[29Dec2024 02:31:16.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Timed out
+[29Dec2024 02:31:16.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[29Dec2024 02:31:16.388] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Doglas777
+[29Dec2024 02:31:23.385] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:50156] logged in with entity id 22456 at (1468.229782219047, 64.0, 2526.374144589009)
+[29Dec2024 02:31:23.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[29Dec2024 02:31:23.406] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[29Dec2024 02:31:24.062] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Doglas777 (18)
+[29Dec2024 02:31:24.063] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Doglas777
+[29Dec2024 02:31:26.108] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[29Dec2024 02:31:27.264] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[29Dec2024 02:31:27.265] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf) successfully connected to voice chat
+[29Dec2024 02:32:28.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[29Dec2024 02:32:54.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[29Dec2024 02:33:16.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> dios
+[29Dec2024 02:34:21.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> y como hago que el krasu recupere vida?
+[29Dec2024 02:35:45.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]

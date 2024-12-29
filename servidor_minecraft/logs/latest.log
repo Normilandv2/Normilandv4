@@ -954,3 +954,40 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 23:34:02.262] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7
 [29Dec2024 23:34:03.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7
 [29Dec2024 23:34:03.256] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player tacaz1707 (2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7) successfully connected to voice chat
+[29Dec2024 23:44:15.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlanJCR[/100.109.225.113:50021] logged in with entity id 2351 at (-74.95481186230015, 120.0, 2653.2986143995827)
+[29Dec2024 23:44:15.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR joined the game
+[29Dec2024 23:44:15.796] [Server thread/INFO] [Jade/]: Syncing config to AlanJCR (690e2115-c513-380b-b061-413c46de03be)
+[29Dec2024 23:44:17.086] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlanJCR (18)
+[29Dec2024 23:44:17.087] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlanJCR
+[29Dec2024 23:44:21.106] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 690e2115-c513-380b-b061-413c46de03be
+[29Dec2024 23:44:22.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 690e2115-c513-380b-b061-413c46de03be
+[29Dec2024 23:44:22.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player AlanJCR (690e2115-c513-380b-b061-413c46de03be) successfully connected to voice chat
+[29Dec2024 23:44:30.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> a la mrd
+[29Dec2024 23:44:42.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> estaba en el precipicio
+[29Dec2024 23:44:43.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> m escuchas?
+[29Dec2024 23:44:56.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> si, pero no puedo jugar hablando loco
+[29Dec2024 23:45:02.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> a ok
+[29Dec2024 23:45:09.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> asi que voy a desactivar el audio
+[29Dec2024 23:45:17.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 was doomed to fall by AlanJCR
+[29Dec2024 23:45:18.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> NOOOOO
+[29Dec2024 23:45:21.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> JAJAJA
+[29Dec2024 23:45:28.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> malditoooo
+[29Dec2024 23:45:37.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> que descarao
+[29Dec2024 23:45:40.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 fell from a high place
+[29Dec2024 23:46:24.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> hay que hacer algo
+[29Dec2024 23:46:33.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> vamo a minar
+[29Dec2024 23:49:13.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> aguanta
+[29Dec2024 23:49:23.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> ba
+[29Dec2024 23:49:46.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> void al baño loco
+[29Dec2024 23:49:49.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> xd
+[29Dec2024 23:49:53.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> alrato vuelvo
+[29Dec2024 23:49:55.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR lost connection: Disconnected
+[29Dec2024 23:49:55.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR left the game
+[29Dec2024 23:49:55.961] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlanJCR
+[29Dec2024 23:51:18.716] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7 timed out
+[29Dec2024 23:51:18.716] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player tacaz1707
+[29Dec2024 23:51:18.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to tacaz1707
+[29Dec2024 23:51:28.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacaz1707 lost connection: Timed out
+[29Dec2024 23:51:28.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 left the game
+[29Dec2024 23:51:28.605] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client tacaz1707
+[29Dec2024 23:51:28.671] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

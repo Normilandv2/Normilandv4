@@ -4078,9 +4078,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_book": "2024-12-28 02:29:44 +0000"
+      "has_iron_block": "2024-12-28 02:19:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-28 02:19:24 +0000"
     },
     "done": true
   },
@@ -4090,27 +4096,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_the_recipe": "2024-12-28 03:10:30 +0000"
+      "has_paper": "2024-12-28 02:28:56 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/summon_iron_golem": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "summoned_golem": "2024-12-28 03:04:08 +0000"
+      "has_book": "2024-12-28 02:29:44 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-28 02:29:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2024-12-28 02:31:27 +0000"
     },
     "done": true
   },
@@ -4126,33 +4126,33 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-28 02:31:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2024-12-28 03:04:03 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2024-12-28 03:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_the_recipe": "2024-12-28 03:10:30 +0000"
+    },
+    "done": true
+  },
   "man:thetear": {
     "criteria": {
       "thetear_0": "2024-12-28 03:16:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-12-28 02:19:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2024-12-28 02:28:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2024-12-28 02:19:24 +0000"
     },
     "done": true
   },

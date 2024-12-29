@@ -1237,3 +1237,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 02:57:42.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> VOY A CAGAR
 [29Dec2024 02:57:44.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> YA REGRESO
 [29Dec2024 02:57:50.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> xd ba
+[29Dec2024 03:07:09.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7 timed out
+[29Dec2024 03:07:09.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player tacaz1707
+[29Dec2024 03:07:09.566] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to tacaz1707
+[29Dec2024 03:07:18.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacaz1707 lost connection: Timed out
+[29Dec2024 03:07:18.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 left the game
+[29Dec2024 03:07:18.477] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client tacaz1707
+[29Dec2024 03:08:44.482] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacaz1707[/100.102.237.7:53033] logged in with entity id 30212 at (-75.28605137086403, 127.0, 2640.8165101212253)
+[29Dec2024 03:08:44.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 joined the game
+[29Dec2024 03:08:44.535] [Server thread/INFO] [Jade/]: Syncing config to tacaz1707 (2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7)
+[29Dec2024 03:08:44.694] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of tacaz1707 (18)
+[29Dec2024 03:08:44.695] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to tacaz1707
+[29Dec2024 03:08:46.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7
+[29Dec2024 03:08:47.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7
+[29Dec2024 03:08:47.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player tacaz1707 (2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7) successfully connected to voice chat

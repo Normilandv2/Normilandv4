@@ -635,6 +635,7 @@
       "golden_apple": "2024-12-29 02:34:37 +0000",
       "rotten_flesh": "2024-12-21 00:28:06 +0000",
       "cookie": "2024-12-29 02:35:56 +0000",
+      "golden_carrot": "2024-12-30 01:03:32 +0000",
       "cooked_chicken": "2024-12-21 02:54:11 +0000",
       "carrot": "2024-12-25 00:50:06 +0000"
     },
@@ -1046,7 +1047,9 @@
     "criteria": {
       "minecraft:pillager": "2024-12-29 01:43:16 +0000",
       "minecraft:skeleton": "2024-12-21 02:12:43 +0000",
+      "minecraft:hoglin": "2024-12-30 01:01:03 +0000",
       "minecraft:spider": "2024-12-21 02:14:52 +0000",
+      "minecraft:piglin_brute": "2024-12-30 01:00:12 +0000",
       "minecraft:creeper": "2024-12-21 01:53:41 +0000",
       "minecraft:zombified_piglin": "2024-12-23 02:06:49 +0000",
       "minecraft:enderman": "2024-12-25 02:49:11 +0000",
@@ -2360,6 +2363,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-30 00:58:46 +0000",
       "minecraft:nether_wastes": "2024-12-23 02:04:07 +0000"
     },
     "done": false
@@ -3354,6 +3358,18 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-30 00:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-30 00:50:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-12-30 00:51:45 +0000"
@@ -3384,23 +3400,137 @@
     },
     "done": true
   },
-  "minecraft:nether/distract_piglin": {
-    "criteria": {
-      "distract_piglin": "2024-12-30 00:50:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-30 00:51:45 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
-      "bastion": "2024-12-30 00:50:13 +0000"
+      "has_blackstone": "2024-12-30 00:53:07 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 00:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 00:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 00:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 00:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 00:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 00:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 00:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 00:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 00:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 00:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 00:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 00:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 00:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 00:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 00:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-30 00:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-30 00:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-30 00:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-30 00:55:52 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_crimson": "2024-12-30 01:00:23 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

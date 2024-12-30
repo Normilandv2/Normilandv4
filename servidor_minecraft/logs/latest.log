@@ -280,3 +280,116 @@
 [30Dec2024 00:50:58.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pinche alan
 [30Dec2024 00:51:13.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> q
 [30Dec2024 00:51:14.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> me huebieras dicho que los cerdos estos son remplazados
+[30Dec2024 00:52:28.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> de que vergas hablas wey
+[30Dec2024 00:52:46.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ES QUE JAU UN VERGO QUE NO ACEPTAN ORO
+[30Dec2024 00:52:58.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pendejo
+[30Dec2024 00:53:04.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> hay zombie pigman
+[30Dec2024 00:53:07.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> y los piglins
+[30Dec2024 00:53:14.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> gg
+[30Dec2024 00:53:35.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> los que tiene hacha tampoco aceptan oro
+[30Dec2024 00:53:39.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> zzzzzz
+[30Dec2024 00:53:49.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> zzzzzzzzzzzzzz
+[30Dec2024 00:53:52.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> voy
+[30Dec2024 00:54:04.754] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18760_(ProcessorMailbox.java:131) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_6937_(ProcessorMailbox.java:124) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at java.util.concurrent.CompletableFuture.uniApplyNow(CompletableFuture.java:681) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniApplyStage(CompletableFuture.java:662) ~[?:?]
+	at java.util.concurrent.CompletableFuture.thenApplyAsync(CompletableFuture.java:2178) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_141930_(EntityStorage.java:46) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157562_(PersistentEntitySectionManager.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157512_(PersistentEntitySectionManager.java:214) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157568_(PersistentEntitySectionManager.java:234) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157583_(PersistentEntitySectionManager.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at it.unimi.dsi.fastutil.longs.LongCollection.removeIf(LongCollection.java:274) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.LongCollection.removeIf(LongCollection.java:306) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.AbstractLongCollection.removeIf(AbstractLongCollection.java:159) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157577_(PersistentEntitySectionManager.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157506_(PersistentEntitySectionManager.java:270) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:355) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	... 43 more
+[30Dec2024 00:54:57.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> vamos a minar w
+[30Dec2024 00:55:05.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> aguanta
+[30Dec2024 00:55:09.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> voy a encantar
+[30Dec2024 00:55:16.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> ba
+[30Dec2024 00:55:52.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [War Pigs]
+[30Dec2024 00:56:18.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pico de diamante de eficiencia 4
+[30Dec2024 00:56:30.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> mejor mierda
+[30Dec2024 00:57:58.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> loco
+[30Dec2024 00:57:58.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 fell from a high place
+[30Dec2024 00:58:01.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> tienes madera?
+[30Dec2024 00:58:06.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 fell from a high place
+[30Dec2024 00:58:13.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> yiyi
+[30Dec2024 00:58:28.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[30Dec2024 00:58:34.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[30Dec2024 00:58:57.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[30Dec2024 01:00:44.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 fell from a high place
+[30Dec2024 01:00:50.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 fell from a high place
+[30Dec2024 01:00:53.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> no loco
+[30Dec2024 01:01:17.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> vamo a minar
+[30Dec2024 01:01:43.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ya voy...
+[30Dec2024 01:02:39.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> el nether se volvio de verdad el infierno
+[30Dec2024 01:02:46.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> el hombre de la niebla esta en todas partes gg
+[30Dec2024 01:03:01.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ñiñiñiñiñiñiñiñiñiñiññiñiñiñiñiñiñiñiñiñiñiñiñiñiñi
+[30Dec2024 01:03:12.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[30Dec2024 01:03:57.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2595ms or 51 ticks behind
+[30Dec2024 01:06:30.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> vamo
+[30Dec2024 01:06:32.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
+[30Dec2024 01:06:32.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[30Dec2024 01:06:32.421] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Doglas777
+[30Dec2024 01:06:41.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> vamo
+[30Dec2024 01:07:19.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> donde tas
+[30Dec2024 01:07:38.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> aqui
+[30Dec2024 01:07:49.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> CORREE
+[30Dec2024 01:08:11.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> rosemari xd
+[30Dec2024 01:08:43.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> vamo adormir primero mi loko
+[30Dec2024 01:08:51.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> si
+[30Dec2024 01:09:40.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> vamo
+[30Dec2024 01:10:40.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:50078] logged in with entity id 28088 at (215.3779883476252, 15.0, 362.42067269199765)
+[30Dec2024 01:10:40.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[30Dec2024 01:10:40.282] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[30Dec2024 01:10:40.810] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Doglas777 (18)
+[30Dec2024 01:10:40.810] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Doglas777
+[30Dec2024 01:10:43.692] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[30Dec2024 01:10:44.691] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[30Dec2024 01:10:44.692] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf) successfully connected to voice chat
+[30Dec2024 01:10:46.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> oh no hermano
+[30Dec2024 01:10:54.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> añam
+[30Dec2024 01:11:06.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> te sirven las flechas esprectales?
+[30Dec2024 01:11:11.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> sipis
+[30Dec2024 01:11:16.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> vamo
+[30Dec2024 01:11:29.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[30Dec2024 01:11:56.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[30Dec2024 01:12:14.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> QUE VERGA
+[30Dec2024 01:12:31.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]

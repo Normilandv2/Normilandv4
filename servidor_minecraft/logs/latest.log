@@ -940,3 +940,103 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [30Dec2024 03:23:51.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ven pe
 [30Dec2024 03:24:22.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> voy
 [30Dec2024 03:24:32.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> deja encanto algo
+[30Dec2024 03:25:06.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> será que se quede en un bote?
+[30Dec2024 03:25:14.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> hay que averiguarlo
+[30Dec2024 03:25:23.810] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.106.219.65:58102 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[30Dec2024 03:25:26.459] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.106.219.65:58103 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[30Dec2024 03:25:37.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TPpa[/100.91.189.123:62235] logged in with entity id 62421 at (-1083.3057984015895, 71.875, 4516.300000011921)
+[30Dec2024 03:25:37.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPpa joined the game
+[30Dec2024 03:25:37.585] [Server thread/INFO] [Jade/]: Syncing config to TPpa (35e65f61-b632-3bb8-9ea2-fd57ed65a2c9)
+[30Dec2024 03:25:40.175] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TPpa (18)
+[30Dec2024 03:25:40.176] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TPpa
+[30Dec2024 03:25:44.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> y luego?
+[30Dec2024 03:25:47.186] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 35e65f61-b632-3bb8-9ea2-fd57ed65a2c9
+[30Dec2024 03:25:48.186] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 35e65f61-b632-3bb8-9ea2-fd57ed65a2c9
+[30Dec2024 03:25:48.187] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TPpa (35e65f61-b632-3bb8-9ea2-fd57ed65a2c9) successfully connected to voice chat
+[30Dec2024 03:25:49.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> viste we
+[30Dec2024 03:25:51.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> era eso
+[30Dec2024 03:25:55.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> se atrapó?
+[30Dec2024 03:25:58.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> no
+[30Dec2024 03:25:59.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPpa> deso
+[30Dec2024 03:26:03.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pero se murió?
+[30Dec2024 03:26:06.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> esta ahi arriba
+[30Dec2024 03:26:10.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPpa> un buen tepesito no?
+[30Dec2024 03:26:28.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> dame un beso puercote y lo hago
+[30Dec2024 03:26:40.867] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.106.219.65:58141 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[30Dec2024 03:26:44.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPpa> premio o premio
+[30Dec2024 03:26:52.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> en primer lugar
+[30Dec2024 03:26:55.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> en que lugar estas
+[30Dec2024 03:27:06.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPpa> -1064 4496
+[30Dec2024 03:27:12.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> quiero que se haga de noche para sacar niveles
+[30Dec2024 03:27:16.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> en la nieble?
+[30Dec2024 03:27:20.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPpa> no
+[30Dec2024 03:27:24.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPpa> sabana
+[30Dec2024 03:27:29.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> SABANA
+[30Dec2024 03:27:34.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pasa cordenadas entonces
+[30Dec2024 03:27:36.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> yo te busco
+[30Dec2024 03:27:45.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> para abandonarte despues jiji
+[30Dec2024 03:27:46.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ya te las pasó w
+[30Dec2024 03:27:47.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPpa> -1064 4502
+[30Dec2024 03:28:12.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya me dio hueva
+[30Dec2024 03:28:14.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> mejor te hago tp
+[30Dec2024 03:28:18.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pero en lugar asi hard
+[30Dec2024 03:28:28.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPpa> smn
+[30Dec2024 03:28:30.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KLSC[/100.106.219.65:58170] logged in with entity id 63789 at (-11.5, 63.0, 61.5)
+[30Dec2024 03:28:30.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC joined the game
+[30Dec2024 03:28:30.183] [Server thread/INFO] [Jade/]: Syncing config to KLSC (1862d42b-e6d7-3bb2-a1d6-6523f1ac180e)
+[30Dec2024 03:28:41.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> cabrones justo se unene
+[30Dec2024 03:28:44.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ayay
+[30Dec2024 03:28:45.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> Dios
+[30Dec2024 03:28:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> hazle tp a ese vergin igual
+[30Dec2024 03:28:53.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> yo en 10 minutos apago server
+[30Dec2024 03:28:59.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> nmms
+[30Dec2024 03:29:03.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to TPpa]
+[30Dec2024 03:29:07.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> que mamón
+[30Dec2024 03:29:21.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ´pero me tengo que ir we
+[30Dec2024 03:29:25.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ola we
+[30Dec2024 03:29:30.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> deja la pc encendida
+[30Dec2024 03:29:35.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> NO CABRON
+[30Dec2024 03:29:39.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> no es laptop
+[30Dec2024 03:29:55.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ???
+[30Dec2024 03:30:01.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=64, z=73}
+[30Dec2024 03:30:04.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPpa is bleeding. TPpa was slain by Man From The Fog
+[30Dec2024 03:30:04.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPpa> yiyi
+[30Dec2024 03:30:08.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> up te sañbp
+[30Dec2024 03:30:14.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> no te mueras
+[30Dec2024 03:30:20.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> yo te revivo cuando se vaya est ewe
+[30Dec2024 03:30:37.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPpa> dios eres tu?
+[30Dec2024 03:31:13.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported KLSC to Doglas777]
+[30Dec2024 03:31:21.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> bienvenidos a mi hogar chavaes
+[30Dec2024 03:31:50.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya en serio
+[30Dec2024 03:31:54.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> le llevare a mi choza
+[30Dec2024 03:31:55.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPpa is bleeding. TPpa was slain by Elephant
+[30Dec2024 03:32:00.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPpa> ala mierdaaa
+[30Dec2024 03:32:06.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> JAJAJA
+[30Dec2024 03:32:19.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> por elefante
+[30Dec2024 03:32:21.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> de la nada
+[30Dec2024 03:32:25.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has reached the goal [Feeling Watched]
+[30Dec2024 03:32:26.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -88.500000, 140.500000, 2633.500000]
+[30Dec2024 03:32:29.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KLSC moved too quickly! -9.794887263913097,0.7967356006687112,-2.7744392454842455
+[30Dec2024 03:32:30.235] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/62456, l='ServerLevel[world]', x=-1044.72, y=66.00, z=4502.89] died, message: 'Fisherman was slain by TPpa'
+[30Dec2024 03:32:37.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KLSC lost connection: Timed out
+[30Dec2024 03:32:37.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC left the game
+[30Dec2024 03:32:37.866] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KLSC
+[30Dec2024 03:32:48.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KLSC[/100.106.219.65:58196] logged in with entity id 66250 at (-1051.0481494546646, 67.02442408821369, 4500.193545228423)
+[30Dec2024 03:32:48.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC joined the game
+[30Dec2024 03:32:48.542] [Server thread/INFO] [Jade/]: Syncing config to KLSC (1862d42b-e6d7-3bb2-a1d6-6523f1ac180e)
+[30Dec2024 03:32:52.336] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/62430, l='ServerLevel[world]', x=-1064.14, y=68.00, z=4501.53] died, message: 'Cartographer was slain by TPpa'
+[30Dec2024 03:32:56.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported TPpa to Doglas777]
+[30Dec2024 03:32:59.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPpa> yoiyi
+[30Dec2024 03:33:00.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC is bleeding. KLSC was slain by Man From The Fog
+[30Dec2024 03:33:05.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Stone Age]
+[30Dec2024 03:33:05.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> bienvenido a mi house
+[30Dec2024 03:33:07.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> xD
+[30Dec2024 03:33:30.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPpa> esta bien fea esta kk
+[30Dec2024 03:33:35.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> OK NIGGA
+[30Dec2024 03:33:36.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> Rial
+[30Dec2024 03:33:49.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported KLSC to Doglas777]
+[30Dec2024 03:33:53.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> XD
+[30Dec2024 03:33:56.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> xd
+[30Dec2024 03:34:06.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPpa> denme awa wee
+[30Dec2024 03:34:15.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> un besito y te la doy
+[30Dec2024 03:34:49.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> que carajos

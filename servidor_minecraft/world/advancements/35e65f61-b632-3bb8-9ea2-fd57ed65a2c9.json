@@ -2296,33 +2296,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/witch_helmet": {
-    "criteria": {
-      "has_glass_bottle": "2024-12-23 01:45:20 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/witch_leggings": {
-    "criteria": {
-      "has_glass_bottle": "2024-12-23 01:45:20 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/bamboo_green_leggings": {
     "criteria": {
       "has_bamboo": "2024-12-23 01:40:50 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/witch_boots": {
-    "criteria": {
-      "has_glass_bottle": "2024-12-23 01:45:20 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/witch_chestplate": {
-    "criteria": {
-      "has_glass_bottle": "2024-12-23 01:45:20 +0000"
     },
     "done": true
   },
@@ -2359,6 +2335,36 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-12-23 01:40:50 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_helmet": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-23 01:45:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_leggings": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-23 01:45:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_boots": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-23 01:45:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_chestplate": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-23 01:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-30 03:27:08 +0000"
     },
     "done": true
   },

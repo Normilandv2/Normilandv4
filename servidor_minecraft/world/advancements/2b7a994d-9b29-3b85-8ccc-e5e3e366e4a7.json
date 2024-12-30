@@ -3587,6 +3587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-30 02:19:36 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/ghostly_pickaxe": {
     "criteria": {
       "ghostly_pickaxe": "2024-12-30 00:14:08 +0000"
@@ -3617,6 +3623,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-30 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-30 02:19:36 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/skulk_chestplate": {
     "criteria": {
       "has_filled_goblet": "2024-12-30 00:43:49 +0000"
@@ -3632,6 +3650,12 @@
   "knightquest:recipes/misc/dragon_boots": {
     "criteria": {
       "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-30 02:19:36 +0000"
     },
     "done": true
   },
@@ -3662,6 +3686,24 @@
   "knightquest:recipes/misc/nail_glaive": {
     "criteria": {
       "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-30 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-30 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-30 02:19:36 +0000"
     },
     "done": true
   },
@@ -3701,6 +3743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-30 02:19:36 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/sea_helmet": {
     "criteria": {
       "has_filled_goblet": "2024-12-30 00:43:49 +0000"
@@ -3725,9 +3773,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-30 02:19:36 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/silverfish_boots": {
     "criteria": {
       "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-30 02:19:36 +0000"
     },
     "done": true
   },
@@ -3746,6 +3806,12 @@
   "knightquest:recipes/misc/dragon_helmet": {
     "criteria": {
       "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-30 02:19:36 +0000"
     },
     "done": true
   },
@@ -3773,6 +3839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-30 02:19:36 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/sea_leggings": {
     "criteria": {
       "has_filled_goblet": "2024-12-30 00:43:49 +0000"
@@ -3782,6 +3854,12 @@
   "knightquest:recipes/misc/apple_boots": {
     "criteria": {
       "has_golden_apple": "2024-12-30 00:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 02:21:10 +0000"
     },
     "done": true
   },
@@ -3866,6 +3944,12 @@
   "knightquest:recipes/misc/squire_boots": {
     "criteria": {
       "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-30 02:19:36 +0000"
     },
     "done": true
   },

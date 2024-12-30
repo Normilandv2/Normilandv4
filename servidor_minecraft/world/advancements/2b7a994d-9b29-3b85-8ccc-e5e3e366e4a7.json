@@ -3597,6 +3597,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-30 00:38:00 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/apple_leggings": {
     "criteria": {
       "has_golden_apple": "2024-12-30 00:12:55 +0000"

@@ -802,3 +802,74 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [30Dec2024 02:54:01.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
 [30Dec2024 02:54:01.666] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Doglas777
 [30Dec2024 02:54:01.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33882ms or 677 ticks behind
+[30Dec2024 02:54:25.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:50272] logged in with entity id 58575 at (-90.91541436502044, 126.0, 2630.8651060235848)
+[30Dec2024 02:54:25.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[30Dec2024 02:54:25.725] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[30Dec2024 02:54:29.697] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Doglas777 (18)
+[30Dec2024 02:54:29.697] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Doglas777
+[30Dec2024 02:54:44.523] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[30Dec2024 02:54:45.525] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[30Dec2024 02:54:45.526] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf) successfully connected to voice chat
+[30Dec2024 02:56:01.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17579ms or 351 ticks behind
+[30Dec2024 02:57:01.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
+[30Dec2024 02:57:01.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[30Dec2024 02:57:01.679] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Doglas777
+[30Dec2024 02:57:01.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30296ms or 605 ticks behind
+[30Dec2024 02:57:17.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:50281] logged in with entity id 58840 at (-85.45822321396369, 126.0, 2629.8649825475327)
+[30Dec2024 02:57:17.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[30Dec2024 02:57:17.672] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[30Dec2024 02:57:18.328] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Doglas777 (18)
+[30Dec2024 02:57:18.328] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Doglas777
+[30Dec2024 02:57:20.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[30Dec2024 02:57:21.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[30Dec2024 02:57:21.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf) successfully connected to voice chat
+[30Dec2024 02:57:38.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
+[30Dec2024 02:57:38.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[30Dec2024 02:57:38.755] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Doglas777
+[30Dec2024 02:59:31.549] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.106.219.65:57821 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[30Dec2024 02:59:34.600] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.106.219.65:57824 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[30Dec2024 02:59:40.399] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /100.106.219.65:57825 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[30Dec2024 03:00:01.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:50324] logged in with entity id 58954 at (-85.45822321396369, 126.0, 2629.8649825475327)
+[30Dec2024 03:00:01.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[30Dec2024 03:00:01.576] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[30Dec2024 03:00:04.478] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Doglas777 (18)
+[30Dec2024 03:00:04.479] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Doglas777
+[30Dec2024 03:00:12.373] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[30Dec2024 03:00:13.359] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[30Dec2024 03:00:13.359] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf) successfully connected to voice chat
+[30Dec2024 03:01:01.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12962ms or 259 ticks behind
+[30Dec2024 03:01:42.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11060ms or 221 ticks behind
+[30Dec2024 03:01:45.069] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlanJCR[/100.109.225.113:49994] logged in with entity id 59168 at (218.69999998807907, 54.0, 2571.5685306198807)
+[30Dec2024 03:01:45.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR joined the game
+[30Dec2024 03:01:45.083] [Server thread/INFO] [Jade/]: Syncing config to AlanJCR (690e2115-c513-380b-b061-413c46de03be)
+[30Dec2024 03:01:46.482] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlanJCR (18)
+[30Dec2024 03:01:46.482] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlanJCR
+[30Dec2024 03:01:50.699] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 690e2115-c513-380b-b061-413c46de03be
+[30Dec2024 03:01:51.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 690e2115-c513-380b-b061-413c46de03be
+[30Dec2024 03:01:51.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player AlanJCR (690e2115-c513-380b-b061-413c46de03be) successfully connected to voice chat
+[30Dec2024 03:01:57.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> y tacaz
+[30Dec2024 03:02:00.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported AlanJCR to Doglas777]
+[30Dec2024 03:02:02.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> se fue
+[30Dec2024 03:02:18.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> gg
+[30Dec2024 03:02:21.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> que mierda de mod puso serpientes esqueletos
+[30Dec2024 03:02:23.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> o algo asi
+[30Dec2024 03:02:25.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> porque neta
+[30Dec2024 03:02:28.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> que jodido
+[30Dec2024 03:02:33.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> alexs mobs
+[30Dec2024 03:02:36.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> supongo
+[30Dec2024 03:02:40.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> maldito alexs mobs
+[30Dec2024 03:02:46.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> puso gremlis que son molestos
+[30Dec2024 03:02:58.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> y la puta serpiente esta cabrona que me tenia que escapar
+[30Dec2024 03:03:00.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pero hey
+[30Dec2024 03:03:00.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> que dijiste de alex deidad
+[30Dec2024 03:03:06.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> tengo que netherita
+[30Dec2024 03:03:22.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> yo tambien quiero...
+[30Dec2024 03:03:33.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> todo por la puta serpiente perdi 4 de netherita de una mochila
+[30Dec2024 03:03:35.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> puta madre
+[30Dec2024 03:03:37.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pero tengo 18
+[30Dec2024 03:03:39.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> 19
+[30Dec2024 03:03:45.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> y que hacen
+[30Dec2024 03:03:59.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> no se we
+[30Dec2024 03:04:06.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> me aparecia una y como son grandes
+[30Dec2024 03:04:08.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> me cagaba
+[30Dec2024 03:04:20.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pegan duro

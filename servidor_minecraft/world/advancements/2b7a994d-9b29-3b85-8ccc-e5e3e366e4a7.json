@@ -3591,9 +3591,45 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/nail_sword": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/apple_helmet": {
     "criteria": {
       "has_golden_apple": "2024-12-30 00:12:55 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/khopesh": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk3_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/dragon_boots": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
     },
     "done": true
   },
@@ -3603,9 +3639,129 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/phantom_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/khopesh_claymore": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_glaive": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk2_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_boots": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_boots": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/apple_leggings": {
     "criteria": {
       "has_golden_apple": "2024-12-30 00:12:55 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_boots": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/dragon_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/pirate2_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
     },
     "done": true
   },
@@ -3615,15 +3771,81 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/pirate3_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/apple_chestplate": {
     "criteria": {
       "has_golden_apple": "2024-12-30 00:12:55 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/dragon_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_boots": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tengu_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2024-12-30 00:13:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk_boots": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/dragon_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_boots": {
+    "criteria": {
+      "has_filled_goblet": "2024-12-30 00:43:49 +0000"
     },
     "done": true
   },

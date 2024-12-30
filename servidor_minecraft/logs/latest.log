@@ -564,3 +564,28 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [30Dec2024 01:52:56.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
 [30Dec2024 01:52:57.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [30Dec2024 01:53:10.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[30Dec2024 01:53:17.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacaz1707 moved too quickly! 0.19238680876961212,-11.528982325430013,-0.4267548171205817
+[30Dec2024 01:53:20.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[30Dec2024 01:53:37.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[30Dec2024 01:53:38.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> we
+[30Dec2024 01:53:44.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> te voy a regalar la armadura que encontre
+[30Dec2024 01:53:47.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> eo
+[30Dec2024 01:53:53.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pero no se los digas a alan
+[30Dec2024 01:53:53.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> awbs
+[30Dec2024 01:53:54.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> shh
+[30Dec2024 01:54:11.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[30Dec2024 01:54:30.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4034ms or 80 ticks behind
+[30Dec2024 01:54:48.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
+[30Dec2024 01:55:06.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2971ms or 59 ticks behind
+[30Dec2024 01:55:56.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[30Dec2024 01:56:20.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[30Dec2024 01:56:22.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[30Dec2024 01:56:41.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5898ms or 117 ticks behind
+[30Dec2024 01:56:46.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya regreso
+[30Dec2024 01:56:49.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> voy a cenar
+[30Dec2024 01:56:52.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> smn
+[30Dec2024 01:56:54.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
+[30Dec2024 01:56:54.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[30Dec2024 01:56:54.987] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Doglas777
+[30Dec2024 01:59:34.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 was slain by Zombie
+[30Dec2024 01:59:41.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 was slain by Zombie

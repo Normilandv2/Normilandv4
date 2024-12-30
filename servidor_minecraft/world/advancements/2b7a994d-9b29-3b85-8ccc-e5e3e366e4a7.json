@@ -3755,6 +3755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-30 02:01:56 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/sea_chestplate": {
     "criteria": {
       "has_filled_goblet": "2024-12-30 00:43:49 +0000"
@@ -3824,6 +3830,12 @@
   "knightquest:recipes/misc/tengu_helmet": {
     "criteria": {
       "has_filled_goblet": "2024-12-30 00:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-30 02:01:56 +0000"
     },
     "done": true
   },

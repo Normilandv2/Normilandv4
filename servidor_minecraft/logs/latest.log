@@ -589,3 +589,46 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [30Dec2024 01:56:54.987] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Doglas777
 [30Dec2024 01:59:34.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 was slain by Zombie
 [30Dec2024 01:59:41.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 was slain by Zombie
+[30Dec2024 02:08:55.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:50177] logged in with entity id 49179 at (77.30000001192093, 14.0, 316.48067556568355)
+[30Dec2024 02:08:55.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[30Dec2024 02:08:55.528] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[30Dec2024 02:08:58.866] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Doglas777 (18)
+[30Dec2024 02:08:58.867] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Doglas777
+[30Dec2024 02:09:05.381] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[30Dec2024 02:09:06.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1bdb8232-be48-3cf6-b686-dd936bd66cbf
+[30Dec2024 02:09:06.384] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf) successfully connected to voice chat
+[30Dec2024 02:09:07.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[30Dec2024 02:09:14.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> alan murio
+[30Dec2024 02:09:30.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[30Dec2024 02:09:44.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[30Dec2024 02:10:24.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2406ms or 48 ticks behind
+[30Dec2024 02:10:37.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> we
+[30Dec2024 02:10:42.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2678ms or 53 ticks behind
+[30Dec2024 02:10:44.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> jugaste celeste
+[30Dec2024 02:10:53.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> o conoces celeste
+[30Dec2024 02:11:03.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[30Dec2024 02:11:08.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[30Dec2024 02:11:25.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2554ms or 51 ticks behind
+[30Dec2024 02:11:28.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> no w
+[30Dec2024 02:11:43.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2690ms or 53 ticks behind
+[30Dec2024 02:11:46.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ijoles
+[30Dec2024 02:11:51.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> pq w
+[30Dec2024 02:12:05.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> esque la musica acual la hace alguien llamada leina
+[30Dec2024 02:12:06.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7633ms or 152 ticks behind
+[30Dec2024 02:12:12.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> tambien hizo la musica de celeste
+[30Dec2024 02:12:23.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2945ms or 58 ticks behind
+[30Dec2024 02:12:25.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> a ya
+[30Dec2024 02:12:25.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pero en el nether se nota un vergo que ella hizo la musica
+[30Dec2024 02:12:32.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> xd
+[30Dec2024 02:12:32.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> suena igual a las canciones de celeste
+[30Dec2024 02:12:39.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> te recomiendo jugar celeste
+[30Dec2024 02:12:48.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> es dificil pero es demasiado god
+[30Dec2024 02:12:52.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> requisitos minimos?
+[30Dec2024 02:12:55.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[30Dec2024 02:13:07.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> una papa lo corre
+[30Dec2024 02:13:13.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> es juego asi de pixeles
+[30Dec2024 02:13:15.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4835ms or 96 ticks behind
+[30Dec2024 02:13:19.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> a ya xd
+[30Dec2024 02:13:24.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> lo probare
+[30Dec2024 02:13:33.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2956ms or 59 ticks behind
+[30Dec2024 02:13:38.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> no te arrepentiras we

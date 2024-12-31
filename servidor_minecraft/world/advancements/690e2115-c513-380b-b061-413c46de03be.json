@@ -671,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-31 02:20:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-31 00:13:06 +0000"
@@ -930,6 +936,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2024-12-31 02:20:34 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/strawhat_chestplate": {
     "criteria": {
       "has_ink_sac": "2024-12-31 00:18:22 +0000"
@@ -981,6 +993,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-31 00:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-31 02:20:34 +0000"
     },
     "done": true
   },
@@ -1041,6 +1059,12 @@
   "knightquest:recipes/misc/strawhat_helmet": {
     "criteria": {
       "has_ink_sac": "2024-12-31 00:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-12-31 02:20:34 +0000"
     },
     "done": true
   },
@@ -1164,6 +1188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-12-31 02:20:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-31 00:28:27 +0000"
@@ -1215,6 +1245,12 @@
   "knightquest:recipes/misc/horn_helmet": {
     "criteria": {
       "has_sand": "2024-12-31 00:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-31 02:20:05 +0000"
     },
     "done": true
   },
@@ -1899,6 +1935,12 @@
   "knightquest:recipes/misc/forze_leggings": {
     "criteria": {
       "has_spider_eye": "2024-12-31 00:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-31 02:20:34 +0000"
     },
     "done": true
   },

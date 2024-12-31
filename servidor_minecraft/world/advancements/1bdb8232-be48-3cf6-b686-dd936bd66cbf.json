@@ -2149,6 +2149,78 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-31 01:57:23 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_sword": {
+    "criteria": {
+      "has_iron_block": "2024-12-31 01:57:50 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_glaive": {
+    "criteria": {
+      "has_iron_block": "2024-12-31 01:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-31 01:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-31 01:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-31 01:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-31 02:01:31 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-31 02:08:11 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-31 02:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-31 02:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-31 02:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-31 02:08:11 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/warlord_leggings": {
     "criteria": {
       "has_filled_goblet": "2024-12-31 02:09:26 +0000"
@@ -2161,12 +2233,6 @@
     },
     "done": true
   },
-  "spartanshields:recipes/copper_basic_shield": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-31 02:08:11 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/veteran_helmet": {
     "criteria": {
       "has_filled_goblet": "2024-12-31 02:09:26 +0000"
@@ -2176,12 +2242,6 @@
   "knightquest:recipes/misc/enderman_helmet": {
     "criteria": {
       "has_filled_goblet": "2024-12-31 02:09:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2024-12-31 01:58:01 +0000"
     },
     "done": true
   },
@@ -2200,12 +2260,6 @@
   "knightquest:recipes/misc/blaze_helmet": {
     "criteria": {
       "has_filled_goblet": "2024-12-31 02:09:26 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/nail_sword": {
-    "criteria": {
-      "has_iron_block": "2024-12-31 01:57:50 +0000"
     },
     "done": true
   },
@@ -2287,12 +2341,6 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2024-12-31 02:01:31 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/conquistador2_helmet": {
     "criteria": {
       "has_filled_goblet": "2024-12-31 02:09:26 +0000"
@@ -2302,18 +2350,6 @@
   "knightquest:recipes/misc/shinobi_boots": {
     "criteria": {
       "has_filled_goblet": "2024-12-31 02:09:26 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/copper_tower_shield": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-31 02:08:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-31 02:08:11 +0000"
     },
     "done": true
   },
@@ -2359,12 +2395,6 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/nail_glaive": {
-    "criteria": {
-      "has_iron_block": "2024-12-31 01:57:50 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/warlord_helmet": {
     "criteria": {
       "has_filled_goblet": "2024-12-31 02:09:26 +0000"
@@ -2374,12 +2404,6 @@
   "knightquest:recipes/misc/deepslate_chestplate": {
     "criteria": {
       "has_filled_goblet": "2024-12-31 02:09:26 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-31 01:57:23 +0000"
     },
     "done": true
   },
@@ -2467,12 +2491,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-31 02:08:11 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/skulk4_helmet": {
     "criteria": {
       "has_filled_goblet": "2024-12-31 02:09:26 +0000"
@@ -2494,12 +2512,6 @@
   "knightquest:recipes/misc/bat_chestplate": {
     "criteria": {
       "has_filled_goblet": "2024-12-31 02:09:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-31 02:08:11 +0000"
     },
     "done": true
   },
@@ -2560,12 +2572,6 @@
   "knightquest:recipes/misc/blaze_boots": {
     "criteria": {
       "has_filled_goblet": "2024-12-31 02:09:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-12-31 01:57:50 +0000"
     },
     "done": true
   },
@@ -2680,12 +2686,6 @@
   "knightquest:recipes/misc/bamboo_green_chestplate": {
     "criteria": {
       "has_filled_goblet": "2024-12-31 02:09:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2024-12-31 01:57:50 +0000"
     },
     "done": true
   },

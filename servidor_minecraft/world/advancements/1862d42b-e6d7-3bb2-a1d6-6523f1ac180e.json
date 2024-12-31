@@ -8,9 +8,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-31 00:25:02 +0000",
+      "minecraft:birch_forest": "2024-12-31 02:19:40 +0000",
+      "minecraft:windswept_hills": "2024-12-31 02:17:24 +0000",
+      "minecraft:beach": "2024-12-31 02:20:51 +0000",
       "minecraft:river": "2024-12-31 00:21:31 +0000",
       "minecraft:swamp": "2024-12-31 01:48:53 +0000",
       "minecraft:forest": "2024-12-31 00:18:59 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-31 02:19:53 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-31 01:45:34 +0000",
       "minecraft:plains": "2024-12-31 00:29:34 +0000"
     },
@@ -887,6 +891,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-31 01:15:50 +0000",
       "minecraft:skeleton": "2024-12-31 00:45:44 +0000",
+      "minecraft:vindicator": "2024-12-31 02:17:58 +0000",
       "minecraft:spider": "2024-12-31 01:02:14 +0000",
       "minecraft:creeper": "2024-12-31 00:51:44 +0000",
       "minecraft:witch": "2024-12-31 00:55:29 +0000",
@@ -2118,6 +2123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-31 02:21:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_leggings": "2024-12-31 02:05:06 +0000"
@@ -2136,9 +2147,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/silver_helmet": {
+    "criteria": {
+      "has_feather": "2024-12-31 02:21:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-31 02:21:05 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/apple_leggings": {
     "criteria": {
       "has_golden_apple": "2024-12-31 02:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-31 02:16:30 +0000"
     },
     "done": true
   },
@@ -2154,9 +2183,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/silver_leggings": {
+    "criteria": {
+      "has_feather": "2024-12-31 02:21:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-31 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_chestplate": {
+    "criteria": {
+      "has_feather": "2024-12-31 02:21:28 +0000"
     },
     "done": true
   },
@@ -2187,6 +2228,18 @@
   "knightquest:recipes/misc/apple_chestplate": {
     "criteria": {
       "has_golden_apple": "2024-12-31 02:05:05 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_sword": {
+    "criteria": {
+      "has_feather": "2024-12-31 02:21:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_boots": {
+    "criteria": {
+      "has_feather": "2024-12-31 02:21:28 +0000"
     },
     "done": true
   },

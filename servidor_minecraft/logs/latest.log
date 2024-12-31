@@ -3885,3 +3885,152 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 00:32:30.524] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
 [31Dec2024 00:32:31.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> GG PERDIDO EN CUEVA
 [31Dec2024 00:32:32.890] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[31Dec2024 00:32:49.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Not Today, Thank You]
+[31Dec2024 00:33:10.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Monster Hunter]
+[31Dec2024 00:33:15.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR is bleeding. AlanJCR was pummeled by Spider
+[31Dec2024 00:33:20.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ayudaaaa
+[31Dec2024 00:33:43.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Knight Quest]
+[31Dec2024 00:33:43.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Acquire Hardware]
+[31Dec2024 00:33:45.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR was pummeled by Spider
+[31Dec2024 00:33:52.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Sweet Dreams]
+[31Dec2024 00:34:09.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [Acquire Hardware]
+[31Dec2024 00:34:35.019] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/8214, l='ServerLevel[world]', x=-425.78, y=77.00, z=-329.60] died, message: 'Cleric was slain by Spider'
+[31Dec2024 00:34:59.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [Knight Quest]
+[31Dec2024 00:35:12.323] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/8213, l='ServerLevel[world]', x=-324.51, y=65.94, z=-246.37] died, message: 'Nitwit was shot by Skeleton'
+[31Dec2024 00:35:17.267] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/8160, l='ServerLevel[world]', x=-318.34, y=64.00, z=-289.11] died, message: 'Farmer was slain by Spider'
+[31Dec2024 00:36:09.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Mine? Mine? Mine?]
+[31Dec2024 00:36:26.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8211, l='ServerLevel[world]', x=-309.22, y=64.94, z=-298.50] died, message: 'Unemployed was shot by Skeleton'
+[31Dec2024 00:37:41.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ME AVISAN CUANDO ES DE DIA
+[31Dec2024 00:37:42.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> gg
+[31Dec2024 00:37:57.161] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8210, l='ServerLevel[world]', x=-335.30, y=65.42, z=-242.55] died, message: 'Unemployed was shot by Skeleton'
+[31Dec2024 00:40:10.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> DONDE ESTAS ALAN
+[31Dec2024 00:40:25.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> -31 74 167
+[31Dec2024 00:41:07.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 is bleeding. Doglas777 fell from a high place
+[31Dec2024 00:41:14.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 fell from a high place
+[31Dec2024 00:42:21.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ALAB
+[31Dec2024 00:42:32.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> q
+[31Dec2024 00:42:34.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> holis
+[31Dec2024 00:45:12.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> doglas
+[31Dec2024 00:45:16.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> Q
+[31Dec2024 00:45:16.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> vamonos w
+[31Dec2024 00:45:33.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> porque we
+[31Dec2024 00:45:42.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> hay que explorar
+[31Dec2024 00:45:43.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Not Today, Thank You]
+[31Dec2024 00:45:56.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [Isn't It Iron Pick]
+[31Dec2024 00:48:43.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> te metiste a mi cueva
+[31Dec2024 00:48:46.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> perra
+[31Dec2024 00:48:48.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> buscate otra
+[31Dec2024 00:49:05.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> envidiosa
+[31Dec2024 00:50:13.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Ol' Betsy]
+[31Dec2024 00:50:14.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Take Aim]
+[31Dec2024 00:50:14.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR is bleeding. AlanJCR was pummeled by Spider
+[31Dec2024 00:50:16.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> aaaaaaaaaaa
+[31Dec2024 00:50:20.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ayudame doglas
+[31Dec2024 00:50:27.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
+[31Dec2024 00:50:27.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[31Dec2024 00:50:40.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> cabronazo
+[31Dec2024 00:50:51.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:50198] logged in with entity id 18112 at (-224.13480839271878, 20.0, 345.3232930613631)
+[31Dec2024 00:50:51.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[31Dec2024 00:50:51.608] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[31Dec2024 00:50:59.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR was pummeled by Spider
+[31Dec2024 00:51:08.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Isn't It Iron Pick]
+[31Dec2024 00:51:43.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 was kicked for floating too long!
+[31Dec2024 00:51:43.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Flying is not enabled on this server
+[31Dec2024 00:51:43.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[31Dec2024 00:51:55.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Diamonds!]
+[31Dec2024 00:51:58.485] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:50201] logged in with entity id 18905 at (-214.415425177782, 23.166109260938214, 304.75800922425)
+[31Dec2024 00:51:58.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[31Dec2024 00:51:58.530] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[31Dec2024 00:52:13.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Hot Stuff]
+[31Dec2024 00:52:33.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
+[31Dec2024 00:52:33.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[31Dec2024 00:52:53.531] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[31Dec2024 00:55:09.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:50255] logged in with entity id 20474 at (-209.51679528310615, 23.0, 313.8983035121858)
+[31Dec2024 00:55:09.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[31Dec2024 00:55:09.748] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[31Dec2024 00:55:56.559] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[31Dec2024 00:58:06.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC is bleeding. KLSC was pummeled by Spider
+[31Dec2024 00:58:15.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Doglas777 a server operator
+[31Dec2024 00:58:27.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[31Dec2024 00:58:30.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC was pummeled by Spider
+[31Dec2024 00:58:43.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Acquire Hardware]
+[31Dec2024 00:58:52.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Suit Up]
+[31Dec2024 00:59:01.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[31Dec2024 00:59:26.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC is bleeding. KLSC was slain by Zombie
+[31Dec2024 00:59:27.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> GG
+[31Dec2024 00:59:32.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> alan me esta robando la cueva
+[31Dec2024 00:59:35.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC was slain by Zombie
+[31Dec2024 00:59:36.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> gracias por todo alan
+[31Dec2024 00:59:38.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pendejo
+[31Dec2024 00:59:41.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> esoy afuera
+[31Dec2024 00:59:42.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> matalo
+[31Dec2024 00:59:42.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> XD
+[31Dec2024 00:59:53.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[31Dec2024 01:00:11.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[31Dec2024 01:00:29.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [Suit Up]
+[31Dec2024 01:00:38.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Isn't It Iron Pick]
+[31Dec2024 01:02:16.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC is bleeding. KLSC was slain by Zombie Villager
+[31Dec2024 01:02:20.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> Dios
+[31Dec2024 01:02:26.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC was slain by Zombie Villager
+[31Dec2024 01:05:14.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 is bleeding. Doglas777 was shot by Skeleton
+[31Dec2024 01:05:20.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 was shot by Skeleton
+[31Dec2024 01:05:26.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -204.500000, 23.500000, 273.500000]
+[31Dec2024 01:05:43.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC is bleeding. KLSC was slain by Zombie
+[31Dec2024 01:06:04.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 is bleeding. Doglas777 was slain by Zombie
+[31Dec2024 01:06:10.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 was slain by Zombie
+[31Dec2024 01:06:12.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC was slain by Zombie
+[31Dec2024 01:06:19.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -177.500000, 23.500000, 345.500000]
+[31Dec2024 01:06:36.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> alv
+[31Dec2024 01:06:38.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> aldeanos
+[31Dec2024 01:08:24.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[31Dec2024 01:08:51.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC is bleeding. KLSC died because of Vapor
+[31Dec2024 01:08:55.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> q pdo
+[31Dec2024 01:09:00.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> gg
+[31Dec2024 01:09:08.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> q es esa madre
+[31Dec2024 01:09:12.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[31Dec2024 01:09:14.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC died
+[31Dec2024 01:09:18.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC is bleeding. KLSC fell from a high place
+[31Dec2024 01:09:21.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> xD
+[31Dec2024 01:09:27.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC fell from a high place
+[31Dec2024 01:09:34.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> es el vapor deidad
+[31Dec2024 01:09:43.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> Dios
+[31Dec2024 01:10:38.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ay
+[31Dec2024 01:10:45.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> la novia de doglas
+[31Dec2024 01:11:07.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> le spawneo a uno de ustedes
+[31Dec2024 01:11:12.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> porque to no la tengo cerca
+[31Dec2024 01:11:13.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> q cosa
+[31Dec2024 01:11:23.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> la rosemary
+[31Dec2024 01:11:43.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> ni idea hermano
+[31Dec2024 01:11:50.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ahhh
+[31Dec2024 01:11:54.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> me spawneo a mi
+[31Dec2024 01:12:19.567] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Dec2024 01:12:19.568] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Dec2024 01:12:19.568] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Dec2024 01:12:19.569] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Dec2024 01:13:15.136] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
+[31Dec2024 01:13:30.326] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[31Dec2024 01:13:31.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> la grava
+[31Dec2024 01:13:36.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> la peor mierda de minecraft
+[31Dec2024 01:14:46.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> encontre oupost
+[31Dec2024 01:16:19.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pasa coords
+[31Dec2024 01:16:58.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> -701 -355
+[31Dec2024 01:17:07.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> alan
+[31Dec2024 01:17:09.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ok
+[31Dec2024 01:17:10.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya full hierro
+[31Dec2024 01:17:16.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> deja pasa la lluvia
+[31Dec2024 01:17:22.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> q
+[31Dec2024 01:18:36.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30799, l='ServerLevel[world]', x=-749.70, y=64.00, z=-317.70] died, message: 'Unemployed was slain by Zombie'
+[31Dec2024 01:19:12.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> Dio
+[31Dec2024 01:19:14.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> Dios
+[31Dec2024 01:19:22.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> otra vez esa madre
+[31Dec2024 01:19:23.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> uff
+[31Dec2024 01:19:25.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> el vapor
+[31Dec2024 01:19:36.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> me venía a mi
+[31Dec2024 01:20:02.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> duerman
+[31Dec2024 01:20:35.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> zzzzzz
+[31Dec2024 01:21:01.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-727, y=64, z=-321} BlockPos{x=-727, y=62, z=-321}
+[31Dec2024 01:22:10.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ahora si camarillo
+[31Dec2024 01:22:13.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> donde estás
+[31Dec2024 01:22:29.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> puta madre
+[31Dec2024 01:22:30.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ya dejameeee
+[31Dec2024 01:22:39.510] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe

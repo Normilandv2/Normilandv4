@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-31 02:05:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-31 00:28:27 +0000"
@@ -302,6 +308,12 @@
   "knightquest:recipes/misc/bat_leggings": {
     "criteria": {
       "has_ink_sac": "2024-12-31 00:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-31 01:44:28 +0000"
     },
     "done": true
   },
@@ -527,6 +539,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-31 02:06:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-31 00:41:35 +0000"
@@ -542,6 +560,12 @@
   "spartanshields:recipes/wooden_tower_shield": {
     "criteria": {
       "has_planks": "2024-12-31 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-31 01:44:28 +0000"
     },
     "done": true
   },
@@ -662,6 +686,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-31 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador2_helmet": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-31 02:05:56 +0000"
     },
     "done": true
   },
@@ -819,6 +849,12 @@
   "knightquest:recipes/misc/silver_helmet": {
     "criteria": {
       "has_feather": "2024-12-31 00:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-31 01:46:49 +0000"
     },
     "done": true
   },
@@ -1140,6 +1176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-31 02:12:41 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bamboo_boots": {
     "criteria": {
       "has_coal": "2024-12-31 00:10:02 +0000"
@@ -1197,6 +1239,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-31 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-31 02:12:41 +0000"
     },
     "done": true
   },
@@ -1500,6 +1548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-31 01:52:14 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/husk_helmet2": {
     "criteria": {
       "has_emerald": "2024-12-31 00:32:38 +0000"
@@ -1710,6 +1764,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-31 01:44:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-31 00:25:30 +0000"
@@ -1740,14 +1800,25 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-31 02:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-31 01:42:48 +0000",
       "minecraft:taiga": "2024-12-31 00:36:31 +0000",
       "minecraft:sunflower_plains": "2024-12-31 01:12:30 +0000",
+      "minecraft:birch_forest": "2024-12-31 01:30:30 +0000",
+      "minecraft:dark_forest": "2024-12-31 01:31:56 +0000",
       "minecraft:river": "2024-12-31 00:13:32 +0000",
       "minecraft:stony_shore": "2024-12-31 00:36:04 +0000",
       "minecraft:forest": "2024-12-31 00:03:35 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-31 01:43:54 +0000",
       "minecraft:flower_forest": "2024-12-31 00:27:21 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-31 01:29:56 +0000",
       "minecraft:meadow": "2024-12-31 00:26:58 +0000",
       "minecraft:plains": "2024-12-31 00:04:12 +0000"
     },
@@ -1841,7 +1912,8 @@
     "criteria": {
       "cooked_porkchop": "2024-12-31 01:14:28 +0000",
       "cooked_mutton": "2024-12-31 00:58:25 +0000",
-      "cooked_beef": "2024-12-31 00:28:31 +0000"
+      "cooked_beef": "2024-12-31 00:28:31 +0000",
+      "cooked_chicken": "2024-12-31 01:38:46 +0000"
     },
     "done": false
   },
@@ -1983,9 +2055,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-31 02:12:41 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/spider_leggings": {
     "criteria": {
       "has_spider_eye": "2024-12-31 00:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-31 02:05:56 +0000"
     },
     "done": true
   },

@@ -4422,3 +4422,35 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 02:50:08.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> con razon w
 [31Dec2024 02:52:21.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> tp
 [31Dec2024 02:52:22.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> tp
+[31Dec2024 02:54:44.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> soy imbecil
+[31Dec2024 02:54:56.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> en mi mochila tengo para hacer esas mamadas para el caliz
+[31Dec2024 02:55:13.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[31Dec2024 02:55:34.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[31Dec2024 02:56:15.484] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[31Dec2024 02:56:15.485] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[31Dec2024 02:56:15.485] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[31Dec2024 02:56:15.485] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[31Dec2024 02:56:15.485] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[31Dec2024 02:56:15.485] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[31Dec2024 02:56:15.485] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[31Dec2024 02:56:15.486] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[31Dec2024 02:56:15.486] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[31Dec2024 02:56:33.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Chest Slayer]
+[31Dec2024 02:56:38.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ala
+[31Dec2024 02:56:42.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> que te dió
+[31Dec2024 02:56:47.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> cofre todo culero
+[31Dec2024 02:56:52.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> no dio nada
+[31Dec2024 02:56:58.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> checa bien
+[31Dec2024 02:57:05.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> neta
+[31Dec2024 02:57:07.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> siempre dejan un item
+[31Dec2024 02:57:07.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> nada
+[31Dec2024 02:57:26.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> no w
+[31Dec2024 02:57:27.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> kkkk que menso
+[31Dec2024 02:57:29.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> nada
+[31Dec2024 02:57:33.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> alan
+[31Dec2024 02:57:42.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> quitaste todo el agua de la cueva?
+[31Dec2024 02:57:42.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> q
+[31Dec2024 02:57:49.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> no
+[31Dec2024 02:59:57.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -103.500000, 71.500000, 313.500000]
+[31Dec2024 03:00:30.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[31Dec2024 03:00:49.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]

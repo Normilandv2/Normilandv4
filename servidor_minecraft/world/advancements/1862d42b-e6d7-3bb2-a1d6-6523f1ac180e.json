@@ -592,7 +592,8 @@
       "cooked_beef": "2024-12-31 00:30:21 +0000",
       "beef": "2024-12-31 00:28:53 +0000",
       "apple": "2024-12-31 01:24:46 +0000",
-      "bread": "2024-12-31 00:34:45 +0000"
+      "bread": "2024-12-31 00:34:45 +0000",
+      "golden_apple": "2024-12-31 03:01:40 +0000"
     },
     "done": false
   },
@@ -2116,6 +2117,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-31 02:56:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-31 01:34:28 +0000"
@@ -2146,6 +2153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/spider_boots": {
     "criteria": {
       "has_spider_eye": "2024-12-31 02:39:00 +0000"
@@ -2161,6 +2174,12 @@
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2024-12-31 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
     },
     "done": true
   },
@@ -2182,9 +2201,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2024-12-31 02:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-31 02:55:29 +0000"
     },
     "done": true
   },
@@ -2218,9 +2255,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/forze_chestplate": {
     "criteria": {
       "has_spider_eye": "2024-12-31 02:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
     },
     "done": true
   },
@@ -2233,6 +2282,18 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-31 02:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
     },
     "done": true
   },
@@ -2257,6 +2318,12 @@
   "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2024-12-31 01:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
     },
     "done": true
   },
@@ -2290,6 +2357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-31 02:55:29 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-12-31 02:25:37 +0000"
@@ -2314,6 +2387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/silver_boots": {
     "criteria": {
       "has_feather": "2024-12-31 02:21:28 +0000"
@@ -2323,6 +2402,12 @@
   "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2024-12-31 01:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-31 02:55:29 +0000"
     },
     "done": true
   },

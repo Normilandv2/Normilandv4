@@ -1017,3 +1017,55 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 23:26:33.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> y si te hago la casa
 [31Dec2024 23:26:52.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> no quiero hacer la base
 [31Dec2024 23:27:09.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> rey gueon
+[31Dec2024 23:28:24.900] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/2195, l='ServerLevel[world]', x=-198.60, y=72.00, z=328.72] died: Angry Creeper was slain by tacaz1707
+[31Dec2024 23:28:33.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> alv mate al creeper
+[31Dec2024 23:28:52.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> mauro
+[31Dec2024 23:28:56.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> tienes mochila?
+[31Dec2024 23:29:01.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> si
+[31Dec2024 23:29:06.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> de que
+[31Dec2024 23:29:18.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> cobre
+[31Dec2024 23:29:36.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> gracias men
+[31Dec2024 23:29:45.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> deneme tierra
+[31Dec2024 23:31:10.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 is bleeding. Doglas777 fell from a high place
+[31Dec2024 23:31:15.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 fell from a high place
+[31Dec2024 23:32:33.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 was slain by Zombie
+[31Dec2024 23:32:39.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 was slain by Zombie
+[31Dec2024 23:33:01.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 was shot by Skeleton
+[31Dec2024 23:33:25.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 was shot by Skeleton
+[31Dec2024 23:33:52.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR moved too quickly! -0.19333665672888856,-2.1661092609382138,-9.954938810562055
+[31Dec2024 23:35:03.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 was slain by Zombie
+[31Dec2024 23:35:03.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 is bleeding. Doglas777 hit the ground too hard
+[31Dec2024 23:35:09.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 was slain by Zombie
+[31Dec2024 23:35:09.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 hit the ground too hard
+[31Dec2024 23:35:14.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -184.500000, 84.500000, 333.500000]
+[31Dec2024 23:36:13.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has reached the goal [Half a flight]
+[31Dec2024 23:36:42.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> w
+[31Dec2024 23:36:45.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> si pueden
+[31Dec2024 23:36:46.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> eo
+[31Dec2024 23:36:50.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> me dan tus troncos de madera xfis
+[31Dec2024 23:36:58.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> o consigan troncos de madera
+[31Dec2024 23:37:15.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> deja me repongo economicamente
+[31Dec2024 23:37:37.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacaz1707 lost connection: Disconnected
+[31Dec2024 23:37:37.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 left the game
+[31Dec2024 23:39:22.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> doglas
+[31Dec2024 23:39:25.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> tienes redstone?
+[31Dec2024 23:39:29.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> q
+[31Dec2024 23:39:37.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> dame madera
+[31Dec2024 23:39:47.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> la necesito
+[31Dec2024 23:39:50.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> la madera
+[31Dec2024 23:41:33.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> sabes que
+[31Dec2024 23:41:39.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> a la chingada
+[31Dec2024 23:41:43.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> dejare asi la casa
+[31Dec2024 23:41:47.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> lo dejare de ultimo
+[31Dec2024 23:43:33.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR was kicked for floating too long!
+[31Dec2024 23:43:33.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR lost connection: Disconnected
+[31Dec2024 23:43:33.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR left the game
+[31Dec2024 23:43:33.238] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Dec2024 23:44:46.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlanJCR[/100.109.225.113:53900] logged in with entity id 6372 at (-178.86694888559978, 73.00133597911214, 257.16357747047806)
+[31Dec2024 23:44:46.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR joined the game
+[31Dec2024 23:44:46.767] [Server thread/INFO] [Jade/]: Syncing config to AlanJCR (690e2115-c513-380b-b061-413c46de03be)
+[31Dec2024 23:45:05.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> oye alan
+[31Dec2024 23:45:14.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> en el nether se puede encontrar estas armaduras?
+[31Dec2024 23:45:24.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -2.500000, 83.500000, 112.500000]
+[31Dec2024 23:45:24.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> no sé
+[31Dec2024 23:46:34.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -103.500000, 71.500000, 313.500000]

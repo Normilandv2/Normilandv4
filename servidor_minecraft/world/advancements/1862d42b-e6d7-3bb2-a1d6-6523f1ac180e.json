@@ -13,6 +13,7 @@
       "minecraft:beach": "2024-12-31 02:20:51 +0000",
       "minecraft:dark_forest": "2024-12-31 02:50:34 +0000",
       "minecraft:river": "2024-12-31 00:21:31 +0000",
+      "minecraft:stony_shore": "2024-12-31 03:22:42 +0000",
       "minecraft:swamp": "2024-12-31 01:48:53 +0000",
       "minecraft:forest": "2024-12-31 00:18:59 +0000",
       "minecraft:lush_caves": "2024-12-31 02:23:36 +0000",
@@ -593,7 +594,8 @@
       "beef": "2024-12-31 00:28:53 +0000",
       "apple": "2024-12-31 01:24:46 +0000",
       "bread": "2024-12-31 00:34:45 +0000",
-      "golden_apple": "2024-12-31 03:01:40 +0000"
+      "golden_apple": "2024-12-31 03:01:40 +0000",
+      "mushroom_stew": "2024-12-31 03:37:42 +0000"
     },
     "done": false
   },
@@ -2111,219 +2113,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/forze_boots": {
-    "criteria": {
-      "has_spider_eye": "2024-12-31 02:39:00 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2024-12-31 02:56:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-31 01:34:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_leggings": "2024-12-31 02:05:06 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/apple_helmet": {
-    "criteria": {
-      "has_golden_apple": "2024-12-31 02:05:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2024-12-31 02:21:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_leggings": "2024-12-31 02:05:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-31 02:55:19 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/spider_boots": {
-    "criteria": {
-      "has_spider_eye": "2024-12-31 02:39:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2024-12-31 01:38:27 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2024-12-31 02:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-31 02:55:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2024-12-31 02:00:13 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/silver_helmet": {
-    "criteria": {
-      "has_feather": "2024-12-31 02:21:28 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-31 02:21:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-31 02:55:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2024-12-31 02:35:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2024-12-31 02:55:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2024-12-31 02:55:29 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/apple_leggings": {
-    "criteria": {
-      "has_golden_apple": "2024-12-31 02:05:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2024-12-31 02:16:30 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
-    "criteria": {
-      "has_goddess_statue": "2024-12-31 01:49:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2024-12-31 02:09:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2024-12-31 02:35:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2024-12-31 02:55:19 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/forze_chestplate": {
-    "criteria": {
-      "has_spider_eye": "2024-12-31 02:39:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-31 02:55:19 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/silver_leggings": {
-    "criteria": {
-      "has_feather": "2024-12-31 02:21:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2024-12-31 02:39:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2024-12-31 02:55:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-31 02:55:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-31 02:09:15 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/silver_chestplate": {
-    "criteria": {
-      "has_feather": "2024-12-31 02:21:28 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/forze_helmet": {
-    "criteria": {
-      "has_spider_eye": "2024-12-31 02:39:00 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
-    "criteria": {
-      "has_goddess_statue": "2024-12-31 01:49:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2024-12-31 02:55:19 +0000"
     },
     "done": true
   },
@@ -2333,15 +2125,27 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/spider_helmet": {
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
-      "has_spider_eye": "2024-12-31 02:39:00 +0000"
+      "has_backpack": "2024-12-31 01:34:55 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/apple_boots": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_golden_apple": "2024-12-31 02:05:05 +0000"
+      "shot_arrow": "2024-12-31 01:38:27 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-31 01:49:15 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-31 01:49:15 +0000"
     },
     "done": true
   },
@@ -2351,21 +2155,177 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-31 01:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-31 02:00:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_helmet": {
+    "criteria": {
+      "has_golden_apple": "2024-12-31 02:05:05 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_leggings": {
+    "criteria": {
+      "has_golden_apple": "2024-12-31 02:05:05 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_boots": {
+    "criteria": {
+      "has_golden_apple": "2024-12-31 02:05:05 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/apple_chestplate": {
     "criteria": {
       "has_golden_apple": "2024-12-31 02:05:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/moss_carpet": {
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "has_moss_block": "2024-12-31 02:55:29 +0000"
+      "has_golden_leggings": "2024-12-31 02:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-31 02:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-31 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-31 02:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-31 02:16:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-31 02:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-31 02:21:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_helmet": {
+    "criteria": {
+      "has_feather": "2024-12-31 02:21:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_leggings": {
+    "criteria": {
+      "has_feather": "2024-12-31 02:21:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_chestplate": {
+    "criteria": {
+      "has_feather": "2024-12-31 02:21:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_sword": {
+    "criteria": {
+      "has_feather": "2024-12-31 02:21:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_boots": {
+    "criteria": {
+      "has_feather": "2024-12-31 02:21:28 +0000"
     },
     "done": true
   },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-12-31 02:25:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-31 02:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-31 02:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-31 02:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-31 02:35:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_boots": {
+    "criteria": {
+      "has_spider_eye": "2024-12-31 02:39:00 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_boots": {
+    "criteria": {
+      "has_spider_eye": "2024-12-31 02:39:00 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_chestplate": {
+    "criteria": {
+      "has_spider_eye": "2024-12-31 02:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-31 02:39:00 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_helmet": {
+    "criteria": {
+      "has_spider_eye": "2024-12-31 02:39:00 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_helmet": {
+    "criteria": {
+      "has_spider_eye": "2024-12-31 02:39:00 +0000"
     },
     "done": true
   },
@@ -2381,9 +2341,63 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/steel_sword": {
+  "knightquest:recipes/misc/spider_leggings": {
     "criteria": {
-      "has_feather": "2024-12-31 02:21:28 +0000"
+      "has_spider_eye": "2024-12-31 02:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-31 02:55:19 +0000"
     },
     "done": true
   },
@@ -2393,15 +2407,15 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/silver_boots": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
-      "has_feather": "2024-12-31 02:21:28 +0000"
+      "has_moss_block": "2024-12-31 02:55:29 +0000"
     },
     "done": true
   },
-  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+  "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
-      "has_goddess_statue": "2024-12-31 01:49:15 +0000"
+      "has_moss_block": "2024-12-31 02:55:29 +0000"
     },
     "done": true
   },
@@ -2411,21 +2425,225 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/spider_leggings": {
+  "artifacts:chest_slayer": {
     "criteria": {
-      "has_spider_eye": "2024-12-31 02:39:00 +0000"
+      "kill_mimic": "2024-12-31 02:56:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
-      "has_rail": "2024-12-31 02:35:15 +0000"
+      "axolotl_bucket": "2024-12-31 03:10:17 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "has_backpack": "2024-12-31 01:34:55 +0000"
+      "cave_tablet": "2024-12-31 03:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-31 03:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-31 03:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-31 03:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-31 03:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-31 03:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-31 03:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2024-12-31 03:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:34:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_helmet": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-31 03:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-31 03:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-31 03:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:36:48 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_leggings": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-31 03:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:36:48 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_chestplate": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-31 03:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:34:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_boots": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-31 03:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-31 03:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:34:10 +0000"
     },
     "done": true
   },

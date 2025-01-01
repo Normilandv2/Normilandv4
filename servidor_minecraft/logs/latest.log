@@ -84,3 +84,35 @@
 [01Jan2025 00:36:54.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
 [01Jan2025 00:37:05.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
 [01Jan2025 00:37:22.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[01Jan2025 00:38:59.381] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24973, l='ServerLevel[world]', x=-769.56, y=68.00, z=-293.77] died, message: 'Unemployed was slain by Vindicator'
+[01Jan2025 00:39:59.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Doglas777) moved wrongly! 0.29202283372956117
+[01Jan2025 00:40:22.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Doglas777) moved wrongly! 0.3278634874359341
+[01Jan2025 00:40:22.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Doglas777) moved wrongly! 0.706764803060878
+[01Jan2025 00:41:31.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Doglas777) moved wrongly! 0.2846990913585614
+[01Jan2025 00:44:42.962] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[01Jan2025 00:45:28.400] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:45:28.400] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:45:28.400] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:45:28.401] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:45:31.048] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:45:31.049] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:45:31.049] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:45:31.050] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:45:31.050] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:46:57.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[01Jan2025 00:47:11.072] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[01Jan2025 00:47:39.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Doglas777) moved wrongly! 0.2685204382400741
+[01Jan2025 00:47:39.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Doglas777) moved wrongly! 0.5957667271667333
+[01Jan2025 00:47:39.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Doglas777) moved wrongly! 0.9701312209534901
+[01Jan2025 00:47:52.855] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[01Jan2025 00:52:35.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the weather to clear]
+[01Jan2025 00:52:45.662] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ruined_portal took 1 ms
+[01Jan2025 00:52:58.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Doglas777) moved wrongly! 0.4334962246558689
+[01Jan2025 00:52:58.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Doglas777) moved wrongly! 0.8919535028764187
+[01Jan2025 00:54:47.258] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ruined_portal took 0 ms
+[01Jan2025 00:55:27.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -1183.500000, 86.850000, -399.500000]
+[01Jan2025 00:55:36.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -895.500000, 79.000000, 16.500000]
+[01Jan2025 00:57:20.538] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ruined_portal took 0 ms
+[01Jan2025 00:57:29.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -1183.500000, 118.817171, -399.500000]
+[01Jan2025 00:57:55.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -1183.500000, 69.000000, -399.500000]
+[01Jan2025 00:58:03.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Spectator Mode]

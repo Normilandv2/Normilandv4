@@ -815,6 +815,7 @@
       "minecraft:vindicator": "2025-01-01 00:31:02 +0000",
       "minecraft:spider": "2024-12-31 00:50:13 +0000",
       "minecraft:creeper": "2024-12-31 01:39:21 +0000",
+      "minecraft:zombified_piglin": "2025-01-01 02:13:53 +0000",
       "minecraft:zombie": "2024-12-31 00:17:03 +0000",
       "minecraft:drowned": "2024-12-31 00:32:08 +0000",
       "minecraft:zombie_villager": "2024-12-31 02:42:45 +0000"
@@ -3246,9 +3247,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-01 02:18:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-01-01 01:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-01 02:13:56 +0000"
     },
     "done": true
   },
@@ -3261,6 +3274,18 @@
   "spartanshields:recipes/obsidian_basic_shield": {
     "criteria": {
       "has_obsidian": "2025-01-01 01:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-01 02:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-01 02:18:10 +0000"
     },
     "done": true
   },
@@ -3285,6 +3310,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-01-01 01:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-01 02:18:10 +0000"
     },
     "done": true
   },

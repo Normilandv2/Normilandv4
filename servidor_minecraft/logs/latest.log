@@ -269,3 +269,10 @@
 [01Jan2025 02:47:46.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> o
 [01Jan2025 02:50:08.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
 [01Jan2025 02:50:08.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[01Jan2025 02:50:44.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:50213] logged in with entity id 60175 at (-234.9054334281509, 11.0, 20.77652506092656)
+[01Jan2025 02:50:44.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[01Jan2025 02:50:44.262] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[01Jan2025 02:51:25.204] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR lost connection: Disconnected
+[01Jan2025 02:51:25.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR left the game
+[01Jan2025 03:00:17.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -156.500000, 69.500000, -35.500000]
+[01Jan2025 03:00:30.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -103.500000, 71.500000, 313.500000]

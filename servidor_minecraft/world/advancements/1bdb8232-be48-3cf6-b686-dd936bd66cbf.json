@@ -816,6 +816,7 @@
       "minecraft:spider": "2024-12-31 00:50:13 +0000",
       "minecraft:creeper": "2024-12-31 01:39:21 +0000",
       "minecraft:zombified_piglin": "2025-01-01 02:13:53 +0000",
+      "minecraft:piglin": "2025-01-01 02:19:19 +0000",
       "minecraft:zombie": "2024-12-31 00:17:03 +0000",
       "minecraft:drowned": "2024-12-31 00:32:08 +0000",
       "minecraft:zombie_villager": "2024-12-31 02:42:45 +0000"
@@ -3237,7 +3238,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-01-01 01:47:39 +0000",
-      "minecraft:soul_sand_valley": "2025-01-01 01:48:50 +0000"
+      "minecraft:soul_sand_valley": "2025-01-01 01:48:50 +0000",
+      "minecraft:basalt_deltas": "2025-01-01 02:20:15 +0000"
     },
     "done": false
   },

@@ -236,3 +236,11 @@
 [01Jan2025 02:16:57.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4483ms or 89 ticks behind
 [01Jan2025 02:17:17.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> no
 [01Jan2025 02:18:10.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [Hidden in the Depths]
+[01Jan2025 02:22:17.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[01Jan2025 02:23:42.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR lost connection: Disconnected
+[01Jan2025 02:23:42.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR left the game
+[01Jan2025 02:24:46.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlanJCR[/100.109.225.113:54533] logged in with entity id 54142 at (-61.30000001192093, 81.0, 218.69999998807907)
+[01Jan2025 02:24:46.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR joined the game
+[01Jan2025 02:24:46.269] [Server thread/INFO] [Jade/]: Syncing config to AlanJCR (690e2115-c513-380b-b061-413c46de03be)
+[01Jan2025 02:26:06.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[01Jan2025 02:26:29.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8709ms or 174 ticks behind

@@ -116,3 +116,6 @@
 [01Jan2025 00:57:29.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -1183.500000, 118.817171, -399.500000]
 [01Jan2025 00:57:55.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -1183.500000, 69.000000, -399.500000]
 [01Jan2025 00:58:03.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Spectator Mode]
+[01Jan2025 00:59:48.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[01Jan2025 01:16:00.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
+[01Jan2025 01:16:00.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game

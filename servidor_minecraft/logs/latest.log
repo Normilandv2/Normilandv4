@@ -50,3 +50,32 @@
 [01Jan2025 00:17:36.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> yo estoy bien lejos
 [01Jan2025 00:17:40.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> o a un lugar seguro
 [01Jan2025 00:17:46.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> perate
+[01Jan2025 00:18:21.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Timed out
+[01Jan2025 00:18:21.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[01Jan2025 00:19:19.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:50047] logged in with entity id 17662 at (359.2787478768036, 109.8500000178814, -769.8504114646968)
+[01Jan2025 00:19:19.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[01Jan2025 00:19:20.083] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[01Jan2025 00:19:37.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -103.500000, 71.500000, 313.500000]
+[01Jan2025 00:19:49.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported AlanJCR to Doglas777]
+[01Jan2025 00:19:52.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya
+[01Jan2025 00:19:57.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to 370.500000, 114.500000, -751.500000]
+[01Jan2025 00:20:13.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR lost connection: Disconnected
+[01Jan2025 00:20:13.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR left the game
+[01Jan2025 00:20:31.638] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:20:31.639] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:20:31.639] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:20:31.639] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:20:45.479] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[01Jan2025 00:21:13.352] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:21:13.353] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:21:13.353] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:21:13.353] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:21:36.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Doglas777) moved wrongly! 0.2911156406776172
+[01Jan2025 00:21:36.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Doglas777) moved wrongly! 0.7208432863295684
+[01Jan2025 00:22:29.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Doglas777) moved wrongly! 0.253657070538452
+[01Jan2025 00:25:05.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[01Jan2025 00:27:39.820] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[01Jan2025 00:27:44.772] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:27:44.773] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:27:44.773] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 00:27:44.773] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:

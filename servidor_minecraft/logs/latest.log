@@ -119,3 +119,6 @@
 [01Jan2025 00:59:48.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
 [01Jan2025 01:16:00.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
 [01Jan2025 01:16:00.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[01Jan2025 01:28:33.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlanJCR[/100.109.225.113:54329] logged in with entity id 36918 at (-101.57125636345427, 67.0, 315.89133802111877)
+[01Jan2025 01:28:33.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR joined the game
+[01Jan2025 01:28:33.561] [Server thread/INFO] [Jade/]: Syncing config to AlanJCR (690e2115-c513-380b-b061-413c46de03be)

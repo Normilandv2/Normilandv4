@@ -3221,15 +3221,33 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-01-01 01:47:39 +0000"
+    },
+    "done": false
+  },
   "spartanshields:recipes/obsidian_tower_shield": {
     "criteria": {
       "has_obsidian": "2025-01-01 01:35:03 +0000"
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-01 01:47:36 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/obsidian_basic_shield": {
     "criteria": {
       "has_obsidian": "2025-01-01 01:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-01 01:47:36 +0000"
     },
     "done": true
   },

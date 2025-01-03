@@ -210,3 +210,304 @@
 [03Jan2025 01:43:20.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> tienes un mechero q me prestres?
 [03Jan2025 01:43:56.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the weather to clear]
 [03Jan2025 01:44:51.853] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37de7651[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:55431) lost connection: Disconnected
+[03Jan2025 01:46:11.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> prende el tnt we
+[03Jan2025 01:48:05.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> no ps ni pta idea
+[03Jan2025 01:48:06.207] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,killers:killers] rejected their client side version number
+[03Jan2025 01:48:06.207] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jan2025 01:48:06.257] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c959dd[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:55677) lost connection: Connection closed - mismatched mod channel list
+[03Jan2025 01:48:11.325] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,killers:killers] rejected their client side version number
+[03Jan2025 01:48:11.326] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jan2025 01:48:11.359] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@404f8b0b[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:55683) lost connection: Connection closed - mismatched mod channel list
+[03Jan2025 01:48:18.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> prende el tnt
+[03Jan2025 01:48:21.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> dame el mechero
+[03Jan2025 01:48:23.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> no me dejes
+[03Jan2025 01:48:43.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> es q vi una estructura
+[03Jan2025 01:49:22.808] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@508869e[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:55734) lost connection: Timed out
+[03Jan2025 01:49:26.247] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,killers:killers] rejected their client side version number
+[03Jan2025 01:49:26.248] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jan2025 01:49:26.258] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7eaef23c[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:55768) lost connection: Connection closed - mismatched mod channel list
+[03Jan2025 01:49:31.080] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,killers:killers] rejected their client side version number
+[03Jan2025 01:49:31.080] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jan2025 01:49:31.106] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@344382da[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:55780) lost connection: Connection closed - mismatched mod channel list
+[03Jan2025 01:49:36.536] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,killers:killers] rejected their client side version number
+[03Jan2025 01:49:36.536] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jan2025 01:49:36.558] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77e15ef3[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:55804) lost connection: Connection closed - mismatched mod channel list
+[03Jan2025 01:49:41.339] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,killers:killers] rejected their client side version number
+[03Jan2025 01:49:41.340] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jan2025 01:49:41.357] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@535933b0[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:55810) lost connection: Connection closed - mismatched mod channel list
+[03Jan2025 01:49:55.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> pasa otra tnt alv
+[03Jan2025 01:50:05.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[03Jan2025 01:50:22.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[03Jan2025 01:51:26.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> tienes awa?
+[03Jan2025 01:51:30.139] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,killers:killers] rejected their client side version number
+[03Jan2025 01:51:30.139] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jan2025 01:51:30.157] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8e5dd0d[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:55925) lost connection: Connection closed - mismatched mod channel list
+[03Jan2025 01:52:26.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KLSC[/100.106.219.65:55151] logged in with entity id 85224 at (-105.22509923041424, 77.0, 288.6242698362249)
+[03Jan2025 01:52:26.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC joined the game
+[03Jan2025 01:52:26.442] [Server thread/INFO] [Jade/]: Syncing config to KLSC (1862d42b-e6d7-3bb2-a1d6-6523f1ac180e)
+[03Jan2025 01:52:26.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[03Jan2025 01:52:50.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[03Jan2025 01:53:10.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[03Jan2025 01:53:52.827] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,killers:killers] rejected their client side version number
+[03Jan2025 01:53:52.827] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jan2025 01:53:52.865] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60b994a4[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:56081) lost connection: Connection closed - mismatched mod channel list
+[03Jan2025 01:54:22.535] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,killers:killers] rejected their client side version number
+[03Jan2025 01:54:22.535] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jan2025 01:54:22.564] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52d5f32b[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:56138) lost connection: Connection closed - mismatched mod channel list
+[03Jan2025 01:55:28.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> xddd
+[03Jan2025 01:55:38.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> dame tp a casa
+[03Jan2025 01:56:03.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> para que sirve esto
+[03Jan2025 01:56:05.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> no amor
+[03Jan2025 01:56:09.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> nos vamos por otro tesoro
+[03Jan2025 01:56:29.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> para hacer un tipo monumento q t permite respirar bajo el awa
+[03Jan2025 01:56:41.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> aa
+[03Jan2025 01:56:45.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> mandame a casa
+[03Jan2025 01:56:47.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> we ya puedo hacer esto con la armadura
+[03Jan2025 01:56:49.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> nono
+[03Jan2025 01:56:53.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> vamonos por otro tesuro
+[03Jan2025 01:56:54.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> w
+[03Jan2025 01:57:02.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> no traje comida
+[03Jan2025 01:57:46.798] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,killers:killers] rejected their client side version number
+[03Jan2025 01:57:46.799] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jan2025 01:57:46.812] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e4eb264[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:56347) lost connection: Connection closed - mismatched mod channel list
+[03Jan2025 01:57:57.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> PERO VEN WE
+[03Jan2025 01:58:09.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[03Jan2025 01:58:20.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> dnd t fuiste
+[03Jan2025 01:58:27.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> AQUI
+[03Jan2025 01:58:35.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> atras tuyo
+[03Jan2025 01:58:59.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> tienes mas awa?
+[03Jan2025 01:59:16.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> tu que le entiendes
+[03Jan2025 01:59:35.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Enchanter]
+[03Jan2025 01:59:40.811] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,killers:killers] rejected their client side version number
+[03Jan2025 01:59:40.811] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jan2025 01:59:40.861] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66d53cc4[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:56471) lost connection: Connection closed - mismatched mod channel list
+[03Jan2025 01:59:41.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> q nos vamos a ir hasta casita de la verga
+[03Jan2025 01:59:46.264] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,killers:killers] rejected their client side version number
+[03Jan2025 01:59:46.265] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jan2025 01:59:46.322] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68f624eb[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:56478) lost connection: Connection closed - mismatched mod channel list
+[03Jan2025 01:59:56.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> no nos vamos de la cas
+[03Jan2025 01:59:57.828] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,killers:killers] rejected their client side version number
+[03Jan2025 01:59:57.829] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jan2025 01:59:57.861] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@62227c99[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:56492) lost connection: Connection closed - mismatched mod channel list
+[03Jan2025 02:00:02.250] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,killers:killers] rejected their client side version number
+[03Jan2025 02:00:02.251] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jan2025 02:00:02.267] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4fb0252c[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:56505) lost connection: Connection closed - mismatched mod channel list
+[03Jan2025 02:00:03.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> hasta que tengamos ese tesoro
+[03Jan2025 02:00:06.294] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,killers:killers] rejected their client side version number
+[03Jan2025 02:00:06.295] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jan2025 02:00:06.314] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22ecb73c[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:56510) lost connection: Connection closed - mismatched mod channel list
+[03Jan2025 02:00:10.466] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,killers:killers] rejected their client side version number
+[03Jan2025 02:00:10.466] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Jan2025 02:00:10.511] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a1df31a[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:56520) lost connection: Connection closed - mismatched mod channel list
+[03Jan2025 02:00:42.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> dame el mapat
+[03Jan2025 02:00:46.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> creo que ya e
+[03Jan2025 02:02:35.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1972, y=59, z=-902} BlockPos{x=-1972, y=58, z=-902}
+[03Jan2025 02:02:59.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> dnde t fuiste
+[03Jan2025 02:03:19.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported tacaz1707 to Doglas777]
+[03Jan2025 02:04:11.108] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[03Jan2025 02:04:18.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlanJCR[/100.109.225.113:51914] logged in with entity id 90627 at (-103.33852368399138, 71.0, 312.14940092325077)
+[03Jan2025 02:04:18.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR joined the game
+[03Jan2025 02:04:18.721] [Server thread/INFO] [Jade/]: Syncing config to AlanJCR (690e2115-c513-380b-b061-413c46de03be)
+[03Jan2025 02:04:45.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KLSC lost connection: Disconnected
+[03Jan2025 02:04:45.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC left the game
+[03Jan2025 02:04:53.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported tacaz1707 to Doglas777]
+[03Jan2025 02:05:03.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported AlanJCR to Doglas777]
+[03Jan2025 02:05:05.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ven perra
+[03Jan2025 02:05:31.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> alan
+[03Jan2025 02:05:35.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> tu eres experto
+[03Jan2025 02:06:15.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> esperemos a maurin
+[03Jan2025 02:06:20.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> va a hacer algo
+[03Jan2025 02:06:25.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ay we
+[03Jan2025 02:06:27.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> miraaaaaa
+[03Jan2025 02:06:35.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> que
+[03Jan2025 02:06:57.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> me hice un full netherita uwu
+[03Jan2025 02:07:06.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> y a mi que me importaXD
+[03Jan2025 02:07:15.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KLSC[/100.106.219.65:55239] logged in with entity id 91836 at (-25.570390089777337, 87.82930405164726, 243.1133241913044)
+[03Jan2025 02:07:15.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC joined the game
+[03Jan2025 02:07:15.033] [Server thread/INFO] [Jade/]: Syncing config to KLSC (1862d42b-e6d7-3bb2-a1d6-6523f1ac180e)
+[03Jan2025 02:07:17.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> puta
+[03Jan2025 02:07:24.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[03Jan2025 02:07:43.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pasate esencia
+[03Jan2025 02:07:46.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> uwu
+[03Jan2025 02:07:47.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pero que te parece
+[03Jan2025 02:07:53.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> el full netherita
+[03Jan2025 02:08:01.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pues que bueno la neta
+[03Jan2025 02:08:01.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> me voy hacer el
+[03Jan2025 02:08:16.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> la armadura de la suerte porque el de resistencia al fuego esta demasiado hard
+[03Jan2025 02:08:19.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> osea we
+[03Jan2025 02:08:24.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> me pide un dildo
+[03Jan2025 02:08:35.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pasate la esencia
+[03Jan2025 02:08:59.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> crema magma
+[03Jan2025 02:09:05.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> un ojo del hombre lol
+[03Jan2025 02:09:09.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> y una verruga de tu abuelita
+[03Jan2025 02:09:11.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> nombre que eso
+[03Jan2025 02:09:23.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ojo de ratman
+[03Jan2025 02:09:44.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ojo de nicolas
+[03Jan2025 02:09:44.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pasate la esenciaaaaaaaaaaaaaaaaaaaaaa
+[03Jan2025 02:09:44.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> jeje
+[03Jan2025 02:09:52.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> en los cofres hay we
+[03Jan2025 02:09:56.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> asi que ponte a buscar
+[03Jan2025 02:09:58.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> es que me hiciste tp
+[03Jan2025 02:10:06.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> que me importa lol
+[03Jan2025 02:10:08.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> tu busca
+[03Jan2025 02:10:57.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 is bleeding. Doglas777 was slain by AlanJCR
+[03Jan2025 02:11:07.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> solo me gana si no le peleo
+[03Jan2025 02:11:08.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> gg
+[03Jan2025 02:11:25.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> perdío con full netherita LOL
+[03Jan2025 02:11:31.362] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@298e17a0[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:57308): Took too long to log in
+[03Jan2025 02:11:31.363] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@298e17a0[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:57308) lost connection: Took too long to log in
+[03Jan2025 02:11:31.414] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 02:11:34.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ni estoy usando el full netherita uwu
+[03Jan2025 02:11:52.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pues que malo
+[03Jan2025 02:11:56.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> valio verga anastacio
+[03Jan2025 02:11:58.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> perdió con hacha de netherita
+[03Jan2025 02:12:08.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> el tipo me ataco mientras me curaba
+[03Jan2025 02:12:14.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> y se fue al agua para salvarse
+[03Jan2025 02:12:21.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> hermano cree que es aquaman
+[03Jan2025 02:12:30.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> que te quedaras paradote como menso no es mi culpa loco
+[03Jan2025 02:12:44.210] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@15cfada6[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:57395): Took too long to log in
+[03Jan2025 02:12:44.210] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15cfada6[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:57395) lost connection: Took too long to log in
+[03Jan2025 02:12:44.266] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 02:12:54.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> gg
+[03Jan2025 02:13:00.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> yiyi
+[03Jan2025 02:13:14.061] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@749bbeb6[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:57463) lost connection: Disconnected
+[03Jan2025 02:13:17.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> we
+[03Jan2025 02:13:25.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> mi armadura del hombre pajaringa se esta rompiendo
+[03Jan2025 02:13:26.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> gg
+[03Jan2025 02:13:33.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[03Jan2025 02:13:50.510] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@b785264[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:57507): Took too long to log in
+[03Jan2025 02:13:50.510] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b785264[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:57507) lost connection: Took too long to log in
+[03Jan2025 02:13:50.560] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 02:13:54.178] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@78c5a8fe[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:57540) lost connection: Disconnected
+[03Jan2025 02:13:54.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[03Jan2025 02:14:08.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TPpa[/100.91.189.123:57568] logged in with entity id 94424 at (-23.5, 75.0, 41.5)
+[03Jan2025 02:14:08.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPpa joined the game
+[03Jan2025 02:14:08.370] [Server thread/INFO] [Jade/]: Syncing config to TPpa (35e65f61-b632-3bb8-9ea2-fd57ed65a2c9)
+[03Jan2025 02:14:15.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> y la fokin esencia
+[03Jan2025 02:14:30.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> doglas detonado
+[03Jan2025 02:14:35.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 hit the ground too hard whilst trying to escape Doglas777
+[03Jan2025 02:14:51.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> ocupo comidita
+[03Jan2025 02:14:52.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> y la esenciaaaaaaaaaaaaaaaaaa
+[03Jan2025 02:15:02.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> vou a comer
+[03Jan2025 02:15:07.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> EY
+[03Jan2025 02:15:08.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TPpa lost connection: Timed out
+[03Jan2025 02:15:08.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPpa left the game
+[03Jan2025 02:15:10.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> PERO DEJANOS EN LA BASE
+[03Jan2025 02:15:14.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> haznos tp a casa desacarao
+[03Jan2025 02:15:19.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pero esa no
+[03Jan2025 02:15:26.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> la verde
+[03Jan2025 02:15:31.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -103.500000, 71.500000, 313.500000]
+[03Jan2025 02:15:48.815] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5252ff97[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:57655): Took too long to log in
+[03Jan2025 02:15:48.816] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5252ff97[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:57655) lost connection: Took too long to log in
+[03Jan2025 02:15:48.871] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 02:15:51.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported tacaz1707 to Doglas777]
+[03Jan2025 02:15:58.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported AlanJCR to Doglas777]
+[03Jan2025 02:16:01.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
+[03Jan2025 02:16:01.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[03Jan2025 02:16:18.960] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5baadb4c[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:57742) lost connection: Disconnected
+[03Jan2025 02:16:26.068] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f78a8ef[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:57764) lost connection: Disconnected
+[03Jan2025 02:16:57.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TPpa[/100.91.189.123:57779] logged in with entity id 95440 at (-23.5, 75.0, 41.5)
+[03Jan2025 02:16:57.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPpa joined the game
+[03Jan2025 02:16:57.362] [Server thread/INFO] [Jade/]: Syncing config to TPpa (35e65f61-b632-3bb8-9ea2-fd57ed65a2c9)
+[03Jan2025 02:17:00.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC is bleeding. KLSC was slain by Zombie
+[03Jan2025 02:17:34.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TPpa lost connection: Disconnected
+[03Jan2025 02:17:34.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPpa left the game
+[03Jan2025 02:17:38.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC was slain by Zombie
+[03Jan2025 02:18:01.509] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@388447e2[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:57862) lost connection: Disconnected
+[03Jan2025 02:18:39.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 was slain by Zombie
+[03Jan2025 02:18:45.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 was slain by Zombie
+[03Jan2025 02:19:53.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TPpa[/100.91.189.123:58009] logged in with entity id 96608 at (-23.5, 75.0, 41.5)
+[03Jan2025 02:19:53.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPpa joined the game
+[03Jan2025 02:19:53.707] [Server thread/INFO] [Jade/]: Syncing config to TPpa (35e65f61-b632-3bb8-9ea2-fd57ed65a2c9)
+[03Jan2025 02:20:53.821] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TPpa lost connection: Timed out
+[03Jan2025 02:20:53.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPpa left the game
+[03Jan2025 02:21:15.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 was pummeled by Spider
+[03Jan2025 02:21:22.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 was pummeled by Spider
+[03Jan2025 02:21:30.311] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2d6c92a8[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:58104): Took too long to log in
+[03Jan2025 02:21:30.312] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d6c92a8[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:58104) lost connection: Took too long to log in
+[03Jan2025 02:21:30.368] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 02:22:25.014] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@765b4212[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:58187) lost connection: Disconnected
+[03Jan2025 02:22:40.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:49943] logged in with entity id 97677 at (-103.78617747637662, 71.0, 313.7200554698339)
+[03Jan2025 02:22:40.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[03Jan2025 02:22:40.127] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[03Jan2025 02:22:43.463] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24253ca[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:58212) lost connection: Disconnected
+[03Jan2025 02:23:08.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> puedo follar con vosotros?
+[03Jan2025 02:23:15.415] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@24769448[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:58227): Took too long to log in
+[03Jan2025 02:23:15.416] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24769448[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:58227) lost connection: Took too long to log in
+[03Jan2025 02:23:15.468] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 02:23:34.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 was slain by Zombie
+[03Jan2025 02:23:37.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TPpa[/100.91.189.123:58268] logged in with entity id 97999 at (-23.5, 75.0, 41.5)
+[03Jan2025 02:23:37.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPpa joined the game
+[03Jan2025 02:23:37.670] [Server thread/INFO] [Jade/]: Syncing config to TPpa (35e65f61-b632-3bb8-9ea2-fd57ed65a2c9)
+[03Jan2025 02:23:39.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 was slain by Zombie
+[03Jan2025 02:24:01.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPpa> cagada de server
+[03Jan2025 02:24:03.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TPpa lost connection: Disconnected
+[03Jan2025 02:24:03.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPpa left the game
+[03Jan2025 02:24:26.062] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26c880c1[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:58321) lost connection: Disconnected
+[03Jan2025 02:24:52.868] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2017d4c2[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:58351) lost connection: Disconnected
+[03Jan2025 02:25:12.114] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45cfd8b7[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:58381) lost connection: Disconnected
+[03Jan2025 02:25:16.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the weather to clear]
+[03Jan2025 02:25:18.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 was slain by Spider
+[03Jan2025 02:25:24.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 was slain by Spider
+[03Jan2025 02:25:25.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[03Jan2025 02:25:26.413] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ebdd06a[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:58402) lost connection: Disconnected
+[03Jan2025 02:25:46.663] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@609a9d30[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:58419) lost connection: Disconnected
+[03Jan2025 02:25:54.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[03Jan2025 02:25:54.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 was slain by Spider
+[03Jan2025 02:26:00.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 was slain by Spider
+[03Jan2025 02:26:13.215] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2ce6371[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:58440) lost connection: Disconnected
+[03Jan2025 02:26:44.811] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1b24e93f[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:58468): Took too long to log in
+[03Jan2025 02:26:44.811] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b24e93f[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:58468) lost connection: Took too long to log in
+[03Jan2025 02:26:44.865] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 02:26:47.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 was slain by Drowned
+[03Jan2025 02:26:54.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 was slain by Drowned
+[03Jan2025 02:27:39.159] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36493f17[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:58528) lost connection: Disconnected
+[03Jan2025 02:27:50.369] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1875d433[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:58565) lost connection: Disconnected
+[03Jan2025 02:28:07.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> aalna
+[03Jan2025 02:28:11.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> te lo doy
+[03Jan2025 02:28:21.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> donde pongo la mesa de encantamientos
+[03Jan2025 02:28:56.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[03Jan2025 02:29:29.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacaz1707 lost connection: Disconnected
+[03Jan2025 02:29:29.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 left the game
+[03Jan2025 02:29:48.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[03Jan2025 02:29:49.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> alan
+[03Jan2025 02:29:55.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ven que te doy esencia en la cara
+[03Jan2025 02:30:28.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> like cumshots bro
+[03Jan2025 02:30:46.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> lco
+[03Jan2025 02:30:52.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> tienes cañas de azucar?
+[03Jan2025 02:30:53.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> o papel
+[03Jan2025 02:30:58.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> esperate
+[03Jan2025 02:31:02.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> solo hago una armadura
+[03Jan2025 02:31:06.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> si me sobra te la doy
+[03Jan2025 02:31:14.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> es para las estanterias
+[03Jan2025 02:35:15.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> me sobro 7 we
+[03Jan2025 02:35:51.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported AlanJCR to Doglas777]
+[03Jan2025 02:35:55.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> hijo de tu mais
+[03Jan2025 02:37:17.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> zzzz
+[03Jan2025 02:37:21.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> KLSC
+[03Jan2025 02:37:50.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -1179.500000, -14.500000, -399.500000]
+[03Jan2025 02:37:54.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> al rato vengo
+[03Jan2025 02:37:55.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR lost connection: Disconnected
+[03Jan2025 02:37:55.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR left the game
+[03Jan2025 02:38:11.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[03Jan2025 02:38:28.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Cover Me with Diamonds]
+[03Jan2025 02:38:39.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> e we
+[03Jan2025 02:38:45.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> w
+[03Jan2025 02:38:50.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> echa paro con un diamante
+[03Jan2025 02:38:52.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> pal casco
+[03Jan2025 02:38:59.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -103.500000, 71.500000, 313.500000]
+[03Jan2025 02:39:36.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> qye reverenda porqueria de casa la mera neta
+[03Jan2025 02:39:45.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> son bromis
+[03Jan2025 02:40:06.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> gracias
+[03Jan2025 02:40:17.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -1179.500000, -14.500000, -399.500000]
+[03Jan2025 02:40:59.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> e w para q sirven los cosos verdes
+[03Jan2025 02:41:08.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> el alma
+[03Jan2025 02:41:13.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> para hacer esencias
+[03Jan2025 02:41:24.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ve a la cueva donde estoy
+[03Jan2025 02:41:29.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ahi hay algo para llenar
+[03Jan2025 02:41:42.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> llenalo completo y despues usa un caliz
+[03Jan2025 02:41:53.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> eso te sirve para hacer armaduras con habilidades
+[03Jan2025 02:41:58.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [Chest Slayer]
+[03Jan2025 02:42:51.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> y q e eso del caliz w
+[03Jan2025 02:43:36.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> para hacer armaduras
+[03Jan2025 02:43:53.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> llena los caliz pero para eso tienes que llenar el caliz grande

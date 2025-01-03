@@ -592,6 +592,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-03 02:12:45 +0000",
       "sweet_berries": "2025-01-02 23:50:57 +0000",
       "cooked_beef": "2024-12-31 00:30:21 +0000",
       "beef": "2024-12-31 00:28:53 +0000",
@@ -2886,12 +2887,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-01-03 01:34:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-01-03 01:19:38 +0000"
@@ -2904,9 +2899,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-03 01:34:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-01-03 01:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-03 01:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-03 02:38:28 +0000"
     },
     "done": true
   },

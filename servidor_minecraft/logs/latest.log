@@ -971,3 +971,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jan2025 23:10:31.106] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/723, l='ServerLevel[world]', x=244.37, y=112.00, z=-325.29] died, message: 'Unemployed was slain by Doglas777'
 [03Jan2025 23:14:27.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [What a Deal!]
 [03Jan2025 23:19:46.149] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/762, l='ServerLevel[world]', x=181.70, y=76.97, z=-271.61] died, message: 'Unemployed was slain by Zombie'
+[03Jan2025 23:26:15.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[03Jan2025 23:29:16.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -3.500000, 80.500000, 33.500000]
+[03Jan2025 23:29:53.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[03Jan2025 23:30:52.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to 237.500000, 108.500000, -327.500000]

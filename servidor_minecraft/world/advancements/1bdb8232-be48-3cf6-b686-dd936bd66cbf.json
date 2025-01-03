@@ -667,6 +667,7 @@
       "cooked_mutton": "2024-12-31 00:13:27 +0000",
       "cooked_beef": "2025-01-03 00:10:13 +0000",
       "apple": "2024-12-31 00:12:33 +0000",
+      "potato": "2025-01-03 00:59:20 +0000",
       "bread": "2024-12-31 03:24:43 +0000",
       "rotten_flesh": "2024-12-31 00:37:20 +0000",
       "cooked_chicken": "2024-12-31 23:47:10 +0000",
@@ -3737,6 +3738,36 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-01-03 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-03 00:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-03 00:53:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-03 00:57:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-03 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-03 00:53:49 +0000"
     },
     "done": true
   },

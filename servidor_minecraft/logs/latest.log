@@ -113,3 +113,14 @@
 [03Jan2025 00:51:57.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> como me encantan los femboys
 [03Jan2025 00:53:01.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> vrg douglas m aparecio tu tio
 [03Jan2025 00:53:02.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> un diamante
+[03Jan2025 00:54:05.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya
+[03Jan2025 00:54:28.342] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-725, y=1, z=780} but found not block entity block Block{minecraft:water}[level=1] at location
+[03Jan2025 00:54:28.342] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-725, y=1, z=780}
+[03Jan2025 00:54:59.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[03Jan2025 00:55:06.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [It Belongs in a Museum]
+[03Jan2025 00:56:03.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-789, y=53, z=728} BlockPos{x=-788, y=53, z=728}
+[03Jan2025 00:56:08.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 has made the advancement [Not Today, Thank You]
+[03Jan2025 00:57:08.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [Alex's Caves]
+[03Jan2025 00:57:23.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> we toma
+[03Jan2025 00:57:49.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 is bleeding. Doglas777 died because of Vapor
+[03Jan2025 00:58:12.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> que loco

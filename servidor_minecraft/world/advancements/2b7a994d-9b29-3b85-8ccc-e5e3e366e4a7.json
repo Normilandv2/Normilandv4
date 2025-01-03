@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-31 23:23:56 +0000",
+      "minecraft:sunflower_plains": "2025-01-03 01:13:22 +0000",
       "minecraft:river": "2024-12-31 02:07:20 +0000",
       "minecraft:stony_shore": "2024-12-31 23:23:45 +0000",
       "minecraft:cold_ocean": "2024-12-31 03:27:01 +0000",
@@ -2225,15 +2226,33 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_green_leggings": {
+    "criteria": {
+      "has_bamboo": "2025-01-03 01:12:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-01-03 00:56:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-03 01:05:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-03 00:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-03 01:05:47 +0000"
     },
     "done": true
   },
@@ -2297,6 +2316,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-03 01:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-01-03 01:05:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 00:55:43 +0000"
@@ -2318,6 +2349,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 00:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-03 01:05:47 +0000"
     },
     "done": true
   },
@@ -2387,6 +2424,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_green_helmet": {
+    "criteria": {
+      "has_bamboo": "2025-01-03 01:12:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 00:55:43 +0000"
@@ -2402,6 +2445,12 @@
   "knightquest:recipes/misc/polar_helmet": {
     "criteria": {
       "has_iron_axe": "2025-01-03 01:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-03 01:05:47 +0000"
     },
     "done": true
   },
@@ -2429,15 +2478,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-03 01:05:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 00:55:43 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_green_boots": {
+    "criteria": {
+      "has_bamboo": "2025-01-03 01:12:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 00:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-01-03 01:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-01-03 01:05:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-03 01:12:18 +0000"
     },
     "done": true
   },
@@ -2459,6 +2538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-03 01:12:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 00:55:43 +0000"
@@ -2471,9 +2556,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_green_chestplate": {
+    "criteria": {
+      "has_bamboo": "2025-01-03 01:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-03 01:12:18 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/deepslate_leggings": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 00:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-03 01:05:47 +0000"
     },
     "done": true
   },

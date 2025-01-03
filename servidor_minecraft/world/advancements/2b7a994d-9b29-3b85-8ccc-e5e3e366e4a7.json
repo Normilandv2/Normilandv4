@@ -1839,6 +1839,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-01-03 00:02:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-01-02 23:55:26 +0000"
@@ -1872,6 +1878,12 @@
   "spartanshields:recipes/diamond_basic_shield": {
     "criteria": {
       "has_diamond": "2025-01-02 23:55:26 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-01-03 00:02:48 +0000"
     },
     "done": true
   },
@@ -2007,6 +2019,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-03 00:02:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-01-02 23:47:38 +0000"
@@ -2052,6 +2070,12 @@
   "knightquest:recipes/misc/husk_chestplate": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-02 23:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-03 00:02:48 +0000"
     },
     "done": true
   },

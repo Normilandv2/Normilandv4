@@ -169,3 +169,44 @@
 [03Jan2025 01:20:21.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> me quedo por las orillas
 [03Jan2025 01:21:43.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya porfin lo estoy revelando
 [03Jan2025 01:22:27.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[03Jan2025 01:27:11.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
+[03Jan2025 01:27:11.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[03Jan2025 01:27:32.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> e we
+[03Jan2025 01:27:35.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> eo
+[03Jan2025 01:27:37.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> tienes obsidiana
+[03Jan2025 01:27:42.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> si w pq
+[03Jan2025 01:27:53.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> dame una w
+[03Jan2025 01:27:58.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> pa la mesa
+[03Jan2025 01:27:59.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> vente w
+[03Jan2025 01:28:33.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> onde andas ps
+[03Jan2025 01:28:49.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> deja salgo a la superficie w
+[03Jan2025 01:30:36.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> -184 72 356
+[03Jan2025 01:31:04.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> w pq beo gris?
+[03Jan2025 01:31:13.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> la comida
+[03Jan2025 01:31:25.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> tienes q m regales?
+[03Jan2025 01:33:58.421] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:49873] logged in with entity id 80093 at (-1907.7571720991346, 58.0, -641.9122364069945)
+[03Jan2025 01:33:58.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[03Jan2025 01:33:58.438] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[03Jan2025 01:39:28.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> y la puerta mi arqui?
+[03Jan2025 01:39:38.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> tengo el salto w
+[03Jan2025 01:39:42.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> yo no ocupo
+[03Jan2025 01:39:43.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> xd
+[03Jan2025 01:39:46.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[03Jan2025 01:40:07.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KLSC lost connection: Disconnected
+[03Jan2025 01:40:07.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC left the game
+[03Jan2025 01:40:20.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[03Jan2025 01:40:34.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> porque miro todo grisl
+[03Jan2025 01:40:47.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> traes hambre mijo
+[03Jan2025 01:40:52.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> WE
+[03Jan2025 01:40:59.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> no encuentro el mendigo tesosor
+[03Jan2025 01:41:10.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> nmx
+[03Jan2025 01:42:11.436] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [thirst:main,alexscaves:main_channel,killers:killers,bwrtherain:bwrtherain,enhancedvisuals:main,sophisticatedbackpacks:channel,citadel:main_channel,dayzombierebooted:dayzombierebooted,curios:main,forge:tier_sorting,spartanshields:network,alexsmobs:main_channel,playerrevive:main,paraglider:master,creativecore:main,sophisticatedcore:channel,geckolib:main] rejected vanilla connections
+[03Jan2025 01:42:11.436] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.91.189.123:55191] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[03Jan2025 01:42:12.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported tacaz1707 to Doglas777]
+[03Jan2025 01:42:38.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> q vrga
+[03Jan2025 01:42:52.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[03Jan2025 01:42:57.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ES QUE NO LO ENCUENTRO
+[03Jan2025 01:42:59.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> yo se como resolver esto
+[03Jan2025 01:43:20.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> tienes un mechero q me prestres?
+[03Jan2025 01:43:56.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the weather to clear]
+[03Jan2025 01:44:51.853] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37de7651[id=<null>,name=TPpa,properties={},legacy=false] (/100.91.189.123:55431) lost connection: Disconnected

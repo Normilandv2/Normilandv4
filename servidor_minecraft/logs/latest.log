@@ -599,3 +599,79 @@
 [03Jan2025 03:05:38.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4681ms or 93 ticks behind
 [03Jan2025 03:05:59.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6277ms or 125 ticks behind
 [03Jan2025 03:06:23.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8832ms or 176 ticks behind
+[03Jan2025 03:06:53.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved too quickly! -9.314233320929532,0.3143724773875576,4.085456456042847
+[03Jan2025 03:06:54.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16536ms or 330 ticks behind
+[03Jan2025 03:07:23.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13960ms or 279 ticks behind
+[03Jan2025 03:07:31.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR lost connection: Disconnected
+[03Jan2025 03:07:31.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR left the game
+[03Jan2025 03:07:41.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlanJCR[/100.109.225.113:52226] logged in with entity id 114307 at (-306.15141957509445, 69.0, 781.5678596908633)
+[03Jan2025 03:07:41.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR joined the game
+[03Jan2025 03:07:41.845] [Server thread/INFO] [Jade/]: Syncing config to AlanJCR (690e2115-c513-380b-b061-413c46de03be)
+[03Jan2025 03:07:54.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16062ms or 321 ticks behind
+[03Jan2025 03:08:23.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13158ms or 263 ticks behind
+[03Jan2025 03:08:48.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> cual es lo maximo que pueden dar los piglins
+[03Jan2025 03:08:48.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10619ms or 212 ticks behind
+[03Jan2025 03:09:13.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9989ms or 199 ticks behind
+[03Jan2025 03:09:29.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> como que maximo
+[03Jan2025 03:09:39.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10609ms or 212 ticks behind
+[03Jan2025 03:09:40.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR moved too quickly! -6.168003700474088,4.22445434781406,-6.793671713985418
+[03Jan2025 03:09:43.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> el objeto de mas valor que te puedne dar
+[03Jan2025 03:09:47.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> eso a lo que me refiero
+[03Jan2025 03:09:55.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> supongo que ender pearls
+[03Jan2025 03:10:00.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pociones de resistencia al fuego
+[03Jan2025 03:10:05.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10857ms or 217 ticks behind
+[03Jan2025 03:10:11.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR moved too quickly! 1.318134648929572,-0.07840000152587834,-10.073754370772463
+[03Jan2025 03:10:16.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR moved too quickly! 4.200232352315794,-0.9551875796009881,-9.214167363385059
+[03Jan2025 03:10:31.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR moved too quickly! -8.43525650448774,4.771637315883808,-3.813800130458617
+[03Jan2025 03:10:34.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14644ms or 292 ticks behind
+[03Jan2025 03:11:03.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13640ms or 272 ticks behind
+[03Jan2025 03:11:14.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR moved too quickly! -3.8298770728062834,2.0,9.262426376660073
+[03Jan2025 03:11:32.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14743ms or 294 ticks behind
+[03Jan2025 03:11:35.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR moved too quickly! -8.38139651298269,4.35163732899683,-5.119892814219611
+[03Jan2025 03:11:36.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> que perdida de tiempo entonces
+[03Jan2025 03:11:52.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> lo maximo es velocidad de alma 3
+[03Jan2025 03:11:55.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7468ms or 149 ticks behind
+[03Jan2025 03:12:02.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved too quickly! 1.32107081281913,1.8803032203286243,-10.329511958659602
+[03Jan2025 03:12:10.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> we
+[03Jan2025 03:12:14.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3935ms or 78 ticks behind
+[03Jan2025 03:12:16.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> la rosemary
+[03Jan2025 03:12:19.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> velocidad de almas es bueno
+[03Jan2025 03:12:19.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> en la lava
+[03Jan2025 03:12:35.173] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[03Jan2025 03:12:38.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9398ms or 187 ticks behind
+[03Jan2025 03:12:45.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[03Jan2025 03:13:05.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11416ms or 228 ticks behind
+[03Jan2025 03:13:20.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR moved too quickly! 3.943506521237751,-0.2522033402537289,-9.217526541083316
+[03Jan2025 03:13:24.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> checa el grupo
+[03Jan2025 03:13:28.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> que rancio es ver esto
+[03Jan2025 03:13:30.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> voy
+[03Jan2025 03:13:31.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11283ms or 225 ticks behind
+[03Jan2025 03:13:40.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[03Jan2025 03:13:46.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved too quickly! 8.083531655902306,0.0,6.449570792577063
+[03Jan2025 03:13:51.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5534ms or 110 ticks behind
+[03Jan2025 03:13:57.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved too quickly! 10.34739997325542,0.0,-0.016078077362148946
+[03Jan2025 03:14:02.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR moved too quickly! -3.031340363865695,-1.2481359985909393,-9.680573112096738
+[03Jan2025 03:14:10.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3281ms or 65 ticks behind
+[03Jan2025 03:14:14.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved too quickly! 0.0028260892611911004,-8.315421096095077,-6.520802752580188
+[03Jan2025 03:14:17.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved too quickly! 1.3515704342093215,0.0,-10.041834167092247
+[03Jan2025 03:14:33.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR moved too quickly! 2.250109661013937,-10.806526110008996,0.23558612252014655
+[03Jan2025 03:14:36.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR is bleeding. AlanJCR fell from a high place
+[03Jan2025 03:14:36.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11160ms or 223 ticks behind
+[03Jan2025 03:14:39.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved too quickly! 1.7179719389271781,2.395256228571217,9.772591983876147
+[03Jan2025 03:14:44.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> no te putisimo mames
+[03Jan2025 03:14:48.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> por ver el puto grupo
+[03Jan2025 03:14:54.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3516ms or 70 ticks behind
+[03Jan2025 03:15:03.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> aaaaaaaaaa
+[03Jan2025 03:15:05.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> mis 35 niveles
+[03Jan2025 03:15:10.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved too quickly! -8.484119221555943,-5.779659070429068,-0.36197600742823965
+[03Jan2025 03:15:11.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR fell from a high place
+[03Jan2025 03:15:17.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8299ms or 165 ticks behind
+[03Jan2025 03:15:31.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> creo que voy apagar el server
+[03Jan2025 03:15:46.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13217ms or 264 ticks behind
+[03Jan2025 03:15:55.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[03Jan2025 03:16:03.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> JAJA
+[03Jan2025 03:16:03.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2432ms or 48 ticks behind
+[03Jan2025 03:16:09.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> tengo 6 niveles ahora
+[03Jan2025 03:16:17.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[03Jan2025 03:16:22.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3733ms or 74 ticks behind
+[03Jan2025 03:16:50.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ALGO QUE TENGAS QUE HACER ANTES DE APAGAR EL SERVER

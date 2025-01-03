@@ -3877,15 +3877,15 @@
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-01-03 02:41:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-01-03 02:32:37 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-03 02:41:58 +0000"
     },
     "done": true
   },
@@ -3898,6 +3898,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2025-01-03 02:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-03 23:14:27 +0000"
     },
     "done": true
   },

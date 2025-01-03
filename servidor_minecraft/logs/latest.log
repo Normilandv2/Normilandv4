@@ -12,3 +12,104 @@
 [03Jan2025 00:13:10.972] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [03Jan2025 00:13:10.972] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [03Jan2025 00:13:10.972] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:25.948] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:25.949] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:25.949] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:25.950] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:27.352] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2435, y=38, z=1138} but found not block entity block Block{minecraft:water}[level=0] at location
+[03Jan2025 00:13:27.352] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-2435, y=38, z=1138}
+[03Jan2025 00:13:35.551] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:35.557] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:35.558] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:35.558] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:35.558] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:35.558] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:35.559] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:35.559] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:35.559] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:35.569] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:35.570] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:35.570] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:35.570] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:35.571] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:35.571] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:40.385] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:40.386] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:40.386] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:40.386] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:13:58.917] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[03Jan2025 00:15:05.275] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:18:25.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> e we
+[03Jan2025 00:18:27.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> donde estas
+[03Jan2025 00:18:28.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> e
+[03Jan2025 00:18:32.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> no c
+[03Jan2025 00:18:43.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> por?
+[03Jan2025 00:19:09.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> para buscarte
+[03Jan2025 00:19:31.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> ando en -2295 1254
+[03Jan2025 00:20:03.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> te busco
+[03Jan2025 00:20:08.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> primero a dormir
+[03Jan2025 00:21:33.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -696.500000, 76.500000, -354.500000]
+[03Jan2025 00:21:38.807] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35914, l='ServerLevel[world]', x=-736.44, y=64.00, z=-326.06] died, message: 'Unemployed was shot by Pillager'
+[03Jan2025 00:21:58.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -1647.500000, 75.500000, -557.500000]
+[03Jan2025 00:22:07.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> como por
+[03Jan2025 00:22:15.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> en una aldea estas o en que lugar
+[03Jan2025 00:22:30.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> en un coso de pillagers
+[03Jan2025 00:22:37.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> pero no es la oupost
+[03Jan2025 00:23:37.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> estas bien lejos
+[03Jan2025 00:23:39.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pero ahi llego
+[03Jan2025 00:26:22.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> smn
+[03Jan2025 00:26:36.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> y no puedes hacer tp o khe
+[03Jan2025 00:26:55.843] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:32:02.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> si puedo
+[03Jan2025 00:32:06.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pero quiero explorar lol
+[03Jan2025 00:32:13.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> xd
+[03Jan2025 00:32:15.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> me salgo para que durmas
+[03Jan2025 00:32:16.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
+[03Jan2025 00:32:16.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[03Jan2025 00:32:59.418] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:50103] logged in with entity id 43547 at (-2375.259469304915, 62.073264324665075, 99.3125)
+[03Jan2025 00:32:59.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[03Jan2025 00:33:00.008] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[03Jan2025 00:35:18.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> Pasa cordenadas otra vez
+[03Jan2025 00:36:08.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> -2348 1328
+[03Jan2025 00:36:50.877] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacaz1707[/100.102.237.7:53263] logged in with entity id 46458 at (-304.30000001192093, 64.0, 511.3763187707758)
+[03Jan2025 00:36:50.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 joined the game
+[03Jan2025 00:36:50.891] [Server thread/INFO] [Jade/]: Syncing config to tacaz1707 (2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7)
+[03Jan2025 00:37:13.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[03Jan2025 00:37:33.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[03Jan2025 00:38:20.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> loko hasme tp
+[03Jan2025 00:38:36.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> consegui 18 de caña
+[03Jan2025 00:38:39.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> estoy bien lejos we
+[03Jan2025 00:38:41.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya regreso
+[03Jan2025 00:38:46.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> xd
+[03Jan2025 00:40:01.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> vamonos we
+[03Jan2025 00:40:04.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> o te quedas aqui
+[03Jan2025 00:40:04.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> logre llegar loko
+[03Jan2025 00:40:09.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> vamo
+[03Jan2025 00:40:16.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> donde hay mesa
+[03Jan2025 00:40:41.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Ol' Betsy]
+[03Jan2025 00:41:56.688] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[03Jan2025 00:42:20.242] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:42:20.243] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:42:20.243] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:42:20.243] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 00:42:21.791] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
+[03Jan2025 00:42:27.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 has made the advancement [Isn't It Iron Pick]
+[03Jan2025 00:42:35.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[03Jan2025 00:43:53.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the weather to clear]
+[03Jan2025 00:45:41.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> gafas de vision nocturna gg
+[03Jan2025 00:46:59.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 has made the advancement [Fishy Business]
+[03Jan2025 00:48:07.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacaz1707 lost connection: Timed out
+[03Jan2025 00:48:07.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 left the game
+[03Jan2025 00:48:07.235] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 00:48:21.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Ice Bucket Challenge]
+[03Jan2025 00:48:28.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacaz1707[/100.102.237.7:53657] logged in with entity id 54311 at (-209.73201713264314, 63.0, 334.56953915707226)
+[03Jan2025 00:48:28.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 joined the game
+[03Jan2025 00:48:28.580] [Server thread/INFO] [Jade/]: Syncing config to tacaz1707 (2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7)
+[03Jan2025 00:49:31.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Timed out
+[03Jan2025 00:49:31.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[03Jan2025 00:51:39.374] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:50136] logged in with entity id 55128 at (-1042.5734849578625, 49.61061518630231, 823.1413265991188)
+[03Jan2025 00:51:39.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[03Jan2025 00:51:39.433] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[03Jan2025 00:51:57.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> como me encantan los femboys
+[03Jan2025 00:53:01.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> vrg douglas m aparecio tu tio
+[03Jan2025 00:53:02.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> un diamante

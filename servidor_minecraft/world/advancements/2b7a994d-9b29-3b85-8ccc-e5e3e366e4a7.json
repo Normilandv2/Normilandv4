@@ -12,6 +12,7 @@
       "minecraft:stony_shore": "2024-12-31 23:23:45 +0000",
       "minecraft:cold_ocean": "2024-12-31 03:27:01 +0000",
       "minecraft:forest": "2024-12-31 02:03:21 +0000",
+      "minecraft:meadow": "2025-01-02 23:53:37 +0000",
       "minecraft:plains": "2024-12-31 02:04:43 +0000"
     },
     "done": false
@@ -1790,6 +1791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-02 23:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-01-02 23:37:04 +0000"
@@ -1832,15 +1839,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-02 23:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-02 23:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-01-02 23:34:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-02 23:55:26 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/husk_boots": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-02 23:36:47 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2025-01-02 23:55:26 +0000"
     },
     "done": true
   },
@@ -1853,6 +1884,18 @@
   "knightquest:recipes/misc/husk_leggings": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-02 23:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-02 23:55:26 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2025-01-02 23:55:26 +0000"
     },
     "done": true
   },
@@ -1874,15 +1917,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-02 23:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-02 23:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-02 23:34:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-02 23:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-01-02 23:28:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/uchigatana_katana": {
+    "criteria": {
+      "has_diamond": "2025-01-02 23:55:26 +0000"
     },
     "done": true
   },
@@ -1895,6 +1962,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-01-02 23:36:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador3_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-02 23:55:26 +0000"
     },
     "done": true
   },
@@ -1922,6 +1995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-02 23:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-01-02 23:34:59 +0000"
@@ -1940,9 +2019,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/uchigatana": {
+    "criteria": {
+      "has_diamond": "2025-01-02 23:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-02 23:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-01-02 23:55:26 +0000"
     },
     "done": true
   },
@@ -1961,6 +2052,24 @@
   "knightquest:recipes/misc/husk_chestplate": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-02 23:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-02 23:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-02 23:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-02 23:53:04 +0000"
     },
     "done": true
   },

@@ -467,6 +467,7 @@
       "baked_potato": "2024-12-31 23:19:15 +0000",
       "cooked_cod": "2025-01-03 00:53:15 +0000",
       "bread": "2025-01-02 23:36:26 +0000",
+      "golden_apple": "2025-01-03 01:22:03 +0000",
       "rotten_flesh": "2024-12-31 02:10:35 +0000",
       "cookie": "2024-12-31 03:24:29 +0000",
       "cooked_chicken": "2024-12-31 03:17:52 +0000",
@@ -2202,6 +2203,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/enderman_helmet": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 01:17:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-01-03 00:56:08 +0000"
@@ -2256,6 +2263,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/enderman_leggings": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 01:17:22 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/polar_chestplate": {
     "criteria": {
       "has_iron_axe": "2025-01-03 01:03:23 +0000"
@@ -2289,6 +2302,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 00:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 01:17:22 +0000"
     },
     "done": true
   },
@@ -2364,6 +2383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 01:17:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-03 00:59:38 +0000"
@@ -2376,9 +2401,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 01:17:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 00:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-03 01:18:54 +0000"
     },
     "done": true
   },
@@ -2391,6 +2428,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 00:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-03 01:18:54 +0000"
     },
     "done": true
   },
@@ -2415,6 +2458,12 @@
   "knightquest:recipes/misc/deepslate_helmet": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 00:55:43 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_boots": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 01:17:22 +0000"
     },
     "done": true
   },
@@ -2472,6 +2521,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/enderman_chestplate": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 01:17:22 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/apple_chestplate": {
     "criteria": {
       "has_golden_apple": "2025-01-03 01:03:19 +0000"
@@ -2487,6 +2542,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 00:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 01:17:22 +0000"
     },
     "done": true
   },
@@ -2565,6 +2626,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-01-03 01:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-03 01:18:54 +0000"
     },
     "done": true
   },

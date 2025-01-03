@@ -142,3 +142,30 @@
 [03Jan2025 01:12:04.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved too quickly! -0.9586485131999325,-0.016584114466311917,10.144581691374697
 [03Jan2025 01:12:22.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -2415.500000, 78.500000, 1368.500000]
 [03Jan2025 01:13:15.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[03Jan2025 01:14:49.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -2251.500000, 63.500000, -323.500000]
+[03Jan2025 01:15:54.368] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[03Jan2025 01:16:13.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -2187.500000, 71.500000, 60.500000]
+[03Jan2025 01:16:32.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -2675.500000, 63.500000, -503.500000]
+[03Jan2025 01:17:03.815] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 01:17:03.815] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 01:17:03.815] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 01:17:03.816] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 01:17:20.559] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[03Jan2025 01:17:23.306] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 01:18:12.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> we
+[03Jan2025 01:18:18.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ustedes entienden los mapas
+[03Jan2025 01:18:18.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> eo
+[03Jan2025 01:18:25.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> algo pq w
+[03Jan2025 01:18:39.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KLSC lost connection: Disconnected
+[03Jan2025 01:18:39.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC left the game
+[03Jan2025 01:19:12.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> es que ando buscando un pinche tesoror
+[03Jan2025 01:19:16.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KLSC[/100.106.219.65:54371] logged in with entity id 73006 at (-26.5482957601, 86.0, 245.31202438891873)
+[03Jan2025 01:19:16.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC joined the game
+[03Jan2025 01:19:16.474] [Server thread/INFO] [Jade/]: Syncing config to KLSC (1862d42b-e6d7-3bb2-a1d6-6523f1ac180e)
+[03Jan2025 01:19:19.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> y nada mas no lo encuentro
+[03Jan2025 01:19:39.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> ps por lo general esta enterrado
+[03Jan2025 01:20:06.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> va pero
+[03Jan2025 01:20:18.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> no mas no logro completar el mapa
+[03Jan2025 01:20:21.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> me quedo por las orillas
+[03Jan2025 01:21:43.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya porfin lo estoy revelando
+[03Jan2025 01:22:27.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]

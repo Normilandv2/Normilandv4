@@ -391,3 +391,12 @@
 [04Jan2025 02:42:12.796] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/45875, l='ServerLevel[world]', x=203.40, y=87.00, z=-298.12] died, message: 'Weaponsmith hit the ground too hard'
 [04Jan2025 02:43:12.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
 [04Jan2025 02:43:34.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[04Jan2025 02:46:06.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[04Jan2025 02:46:16.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[04Jan2025 02:51:44.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Timed out
+[04Jan2025 02:51:44.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[04Jan2025 02:52:27.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:50442] logged in with entity id 61875 at (246.2292116136852, 104.0, -335.2906983198651)
+[04Jan2025 02:52:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[04Jan2025 02:52:27.570] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[04Jan2025 02:53:16.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -183.500000, 84.500000, 337.500000]
+[04Jan2025 02:53:56.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]

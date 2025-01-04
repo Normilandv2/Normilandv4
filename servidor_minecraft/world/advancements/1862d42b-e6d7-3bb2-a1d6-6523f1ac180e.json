@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-04 01:38:25 +0000",
       "minecraft:taiga": "2024-12-31 00:25:02 +0000",
+      "minecraft:sunflower_plains": "2025-01-04 02:28:00 +0000",
       "minecraft:birch_forest": "2024-12-31 02:19:40 +0000",
       "minecraft:windswept_hills": "2024-12-31 02:17:24 +0000",
       "minecraft:beach": "2024-12-31 02:20:51 +0000",
@@ -600,6 +601,7 @@
       "sweet_berries": "2025-01-02 23:50:57 +0000",
       "cooked_beef": "2024-12-31 00:30:21 +0000",
       "beef": "2024-12-31 00:28:53 +0000",
+      "porkchop": "2025-01-04 02:24:48 +0000",
       "apple": "2024-12-31 01:24:46 +0000",
       "bread": "2024-12-31 00:34:45 +0000",
       "golden_apple": "2024-12-31 03:01:40 +0000",
@@ -2988,6 +2990,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bat_leggings": {
+    "criteria": {
+      "has_ink_sac": "2025-01-04 02:13:19 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/shinobi_leggings": {
     "criteria": {
       "has_diamond_sword": "2025-01-04 01:55:14 +0000"
@@ -3012,6 +3020,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/cleaver_heavy_axe": {
+    "criteria": {
+      "has_ink_sac": "2025-01-04 02:13:19 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/shinobi_chestplate": {
     "criteria": {
       "has_diamond_sword": "2025-01-04 01:55:14 +0000"
@@ -3030,9 +3044,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bat_helmet": {
+    "criteria": {
+      "has_ink_sac": "2025-01-04 02:13:19 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/shinobi_helmet": {
     "criteria": {
       "has_diamond_sword": "2025-01-04 01:55:14 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2025-01-04 02:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-04 02:13:19 +0000"
     },
     "done": true
   },
@@ -3057,6 +3089,24 @@
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-01-04 01:50:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-01-04 02:11:51 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/cleaver": {
+    "criteria": {
+      "has_ink_sac": "2025-01-04 02:13:19 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_boots": {
+    "criteria": {
+      "has_ink_sac": "2025-01-04 02:13:19 +0000"
     },
     "done": true
   },

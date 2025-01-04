@@ -137,3 +137,68 @@
 [04Jan2025 01:32:49.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> joder
 [04Jan2025 01:32:53.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> gracias
 [04Jan2025 01:32:54.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacaz1707 moved too quickly! 0.005435653015183561,-10.006670387949427,-1.11472731371191
+[04Jan2025 01:32:58.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> smn
+[04Jan2025 01:33:01.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7070ms or 141 ticks behind
+[04Jan2025 01:33:01.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 was doomed to fall
+[04Jan2025 01:33:07.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 was doomed to fall
+[04Jan2025 01:33:09.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> e w
+[04Jan2025 01:33:11.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> tacaz
+[04Jan2025 01:33:16.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> que te parecio la casa simple
+[04Jan2025 01:33:23.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6877ms or 137 ticks behind
+[04Jan2025 01:33:27.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> esta aca bn rika
+[04Jan2025 01:33:37.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacaz1707 was kicked for floating too long!
+[04Jan2025 01:33:37.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacaz1707 lost connection: Disconnected
+[04Jan2025 01:33:37.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 left the game
+[04Jan2025 01:33:37.194] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jan2025 01:33:40.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> el server esta lag o soy yo?
+[04Jan2025 01:33:49.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10816ms or 216 ticks behind
+[04Jan2025 01:33:51.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> neta esta lag?
+[04Jan2025 01:34:03.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> yo voy lag w
+[04Jan2025 01:34:12.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> por eso me mataron w
+[04Jan2025 01:34:19.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15544ms or 310 ticks behind
+[04Jan2025 01:34:23.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> Pues no lo se
+[04Jan2025 01:34:25.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> no voy lag
+[04Jan2025 01:34:38.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4050ms or 81 ticks behind
+[04Jan2025 01:34:49.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacaz1707[/100.102.237.7:52535] logged in with entity id 34991 at (-174.2906932510458, 70.7531999805212, 322.0395476294423)
+[04Jan2025 01:34:49.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 joined the game
+[04Jan2025 01:34:49.323] [Server thread/INFO] [Jade/]: Syncing config to tacaz1707 (2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7)
+[04Jan2025 01:35:03.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
+[04Jan2025 01:35:44.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[04Jan2025 01:36:07.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7771ms or 155 ticks behind
+[04Jan2025 01:36:30.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7678ms or 153 ticks behind
+[04Jan2025 01:36:57.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12311ms or 246 ticks behind
+[04Jan2025 01:37:20.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7882ms or 157 ticks behind
+[04Jan2025 01:37:24.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KLSC moved too quickly! 3.3595830483213973,-9.331492944105811,-2.0680123080443025
+[04Jan2025 01:37:39.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3619ms or 72 ticks behind
+[04Jan2025 01:37:57.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[04Jan2025 01:38:17.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4628ms or 92 ticks behind
+[04Jan2025 01:38:30.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [Into Fire]
+[04Jan2025 01:38:30.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 was slain by Zombie
+[04Jan2025 01:38:36.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 was slain by Zombie
+[04Jan2025 01:38:38.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
+[04Jan2025 01:39:03.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[04Jan2025 01:39:13.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> estp es hard
+[04Jan2025 01:39:16.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> e tacaz
+[04Jan2025 01:39:20.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 was doomed to fall by Creeper
+[04Jan2025 01:39:22.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> donde estas
+[04Jan2025 01:39:22.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3614ms or 72 ticks behind
+[04Jan2025 01:39:25.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 was doomed to fall by Creeper
+[04Jan2025 01:39:33.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> en el spawn
+[04Jan2025 01:39:40.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> movi mi cama y no cargue
+[04Jan2025 01:39:42.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4746ms or 94 ticks behind
+[04Jan2025 01:40:02.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5613ms or 112 ticks behind
+[04Jan2025 01:40:25.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8092ms or 161 ticks behind
+[04Jan2025 01:40:47.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6802ms or 136 ticks behind
+[04Jan2025 01:41:09.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7238ms or 144 ticks behind
+[04Jan2025 01:41:17.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> yo dio que si aguanto mas en este lugar
+[04Jan2025 01:41:23.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KLSC lost connection: Disconnected
+[04Jan2025 01:41:23.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC left the game
+[04Jan2025 01:41:37.698] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KLSC[/100.106.219.65:59715] logged in with entity id 38262 at (272.69999998807907, -41.0, 135.6748432843892)
+[04Jan2025 01:41:37.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC joined the game
+[04Jan2025 01:41:37.712] [Server thread/INFO] [Jade/]: Syncing config to KLSC (1862d42b-e6d7-3bb2-a1d6-6523f1ac180e)
+[04Jan2025 01:41:38.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> zzzz
+[04Jan2025 01:41:38.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13829ms or 276 ticks behind
+[04Jan2025 01:41:42.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> ya en casa
+[04Jan2025 01:42:04.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10621ms or 212 ticks behind
+[04Jan2025 01:42:27.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8149ms or 162 ticks behind
+[04Jan2025 01:42:59.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17607ms or 352 ticks behind

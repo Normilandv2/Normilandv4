@@ -826,6 +826,7 @@
       "minecraft:spider": "2024-12-31 00:50:13 +0000",
       "minecraft:creeper": "2024-12-31 01:39:21 +0000",
       "minecraft:zombified_piglin": "2025-01-01 02:13:53 +0000",
+      "minecraft:wither_skeleton": "2025-01-04 01:37:36 +0000",
       "minecraft:piglin": "2025-01-01 02:19:19 +0000",
       "minecraft:zombie": "2024-12-31 00:17:03 +0000",
       "minecraft:drowned": "2024-12-31 00:32:08 +0000",
@@ -3902,6 +3903,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-01-04 01:39:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-03 23:59:29 +0000"
@@ -3920,6 +3927,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-04 01:38:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-01-04 00:01:44 +0000"
@@ -3929,6 +3942,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-03 23:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-04 01:30:26 +0000"
     },
     "done": true
   },
@@ -3971,6 +3990,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-03 23:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-04 01:30:26 +0000"
     },
     "done": true
   },
@@ -4022,9 +4047,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-04 01:38:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-03 23:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-04 01:38:30 +0000"
     },
     "done": true
   },

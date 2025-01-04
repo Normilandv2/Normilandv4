@@ -821,6 +821,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-01 00:31:10 +0000",
       "minecraft:skeleton": "2024-12-31 00:14:23 +0000",
+      "minecraft:hoglin": "2025-01-04 01:10:42 +0000",
       "minecraft:vindicator": "2025-01-01 00:31:02 +0000",
       "minecraft:spider": "2024-12-31 00:50:13 +0000",
       "minecraft:creeper": "2024-12-31 01:39:21 +0000",

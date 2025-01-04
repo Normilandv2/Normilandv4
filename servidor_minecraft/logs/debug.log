@@ -12176,3 +12176,168 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Jan2025 01:42:04.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10621ms or 212 ticks behind
 [04Jan2025 01:42:27.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8149ms or 162 ticks behind
 [04Jan2025 01:42:59.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17607ms or 352 ticks behind
+[04Jan2025 01:43:16.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved too quickly! -0.08264685572737562,-10.991611610168377,-1.448875518757319
+[04Jan2025 01:43:26.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11887ms or 237 ticks behind
+[04Jan2025 01:43:49.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7446ms or 148 ticks behind
+[04Jan2025 01:44:04.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -742.500000, 86.500000, -219.500000]
+[04Jan2025 01:44:16.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11944ms or 238 ticks behind
+[04Jan2025 01:44:27.095] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=289.67, y=-41.00, z=7.66]
+[04Jan2025 01:44:31.406] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=287.29, y=-39.41, z=2.34], dimensionLocationPath overworld
+[04Jan2025 01:44:31.407] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=287.29, y=-39.41, z=2.34] in list []
+[04Jan2025 01:44:32.225] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=287.09, y=-38.48, z=1.54]
+[04Jan2025 01:44:33.704] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=288.67, y=-42.00, z=-0.96], dimensionLocationPath overworld
+[04Jan2025 01:44:33.704] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=288.67, y=-42.00, z=-0.96] in list []
+[04Jan2025 01:44:34.610] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=289.25, y=-39.89, z=-1.88]
+[04Jan2025 01:44:39.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8183ms or 163 ticks behind
+[04Jan2025 01:44:40.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved too quickly! -10.358658891842424,0.0,1.1593241498669897
+[04Jan2025 01:45:05.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11487ms or 229 ticks behind
+[04Jan2025 01:45:12.647] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=294.82, y=-41.00, z=7.33], dimensionLocationPath overworld
+[04Jan2025 01:45:12.647] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=294.82, y=-41.00, z=7.33] in list []
+[04Jan2025 01:45:23.265] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=308.36, y=-41.00, z=-6.72]
+[04Jan2025 01:45:29.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9265ms or 185 ticks behind
+[04Jan2025 01:45:32.660] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=327.04, y=-44.00, z=6.00], dimensionLocationPath overworld
+[04Jan2025 01:45:32.660] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=327.04, y=-44.00, z=6.00] in list []
+[04Jan2025 01:45:38.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=326.30, y=-39.54, z=-5.09]
+[04Jan2025 01:45:43.701] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=324.47, y=-39.00, z=-4.30], dimensionLocationPath overworld
+[04Jan2025 01:45:43.701] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=324.47, y=-39.00, z=-4.30] in list []
+[04Jan2025 01:45:54.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9557ms or 191 ticks behind
+[04Jan2025 01:46:02.679] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=347.42, y=-46.01, z=-1.13]
+[04Jan2025 01:46:03.345] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/39618, l='ServerLevel[world]', x=347.13, y=-46.03, z=-0.36], dimensionLocationPath overworld
+[04Jan2025 01:46:03.346] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/39618, l='ServerLevel[world]', x=347.13, y=-46.03, z=-0.36] in list []
+[04Jan2025 01:46:03.450] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Torch'/39618, l='ServerLevel[world]', x=347.13, y=-46.14, z=-0.34]
+[04Jan2025 01:46:07.133] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=349.53, y=-51.20, z=-1.71], dimensionLocationPath overworld
+[04Jan2025 01:46:07.133] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=349.53, y=-51.20, z=-1.71] in list []
+[04Jan2025 01:46:07.133] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=349.54, y=-51.43, z=-1.72]
+[04Jan2025 01:46:07.625] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=350.12, y=-52.41, z=-2.89], dimensionLocationPath overworld
+[04Jan2025 01:46:07.625] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=350.12, y=-52.41, z=-2.89] in list []
+[04Jan2025 01:46:08.438] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=351.62, y=-53.34, z=-6.02]
+[04Jan2025 01:46:08.480] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=351.62, y=-53.47, z=-6.02], dimensionLocationPath overworld
+[04Jan2025 01:46:08.480] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=351.62, y=-53.47, z=-6.02] in list []
+[04Jan2025 01:46:20.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11299ms or 225 ticks behind
+[04Jan2025 01:46:27.138] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.52, y=-54.23, z=-23.05]
+[04Jan2025 01:46:27.139] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.52, y=-54.44, z=-23.05], dimensionLocationPath overworld
+[04Jan2025 01:46:27.139] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.52, y=-54.44, z=-23.05] in list []
+[04Jan2025 01:46:27.181] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.53, y=-54.83, z=-23.40]
+[04Jan2025 01:46:27.181] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.53, y=-55.00, z=-23.40], dimensionLocationPath overworld
+[04Jan2025 01:46:27.181] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.53, y=-55.00, z=-23.40] in list []
+[04Jan2025 01:46:27.212] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.53, y=-54.83, z=-23.40]
+[04Jan2025 01:46:27.212] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.53, y=-54.85, z=-23.40], dimensionLocationPath overworld
+[04Jan2025 01:46:27.212] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.53, y=-54.85, z=-23.40] in list []
+[04Jan2025 01:46:27.253] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.51, y=-54.80, z=-23.43]
+[04Jan2025 01:46:27.253] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.51, y=-54.83, z=-23.43], dimensionLocationPath overworld
+[04Jan2025 01:46:27.254] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.51, y=-54.83, z=-23.43] in list []
+[04Jan2025 01:46:27.291] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.49, y=-54.77, z=-23.46]
+[04Jan2025 01:46:27.292] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.49, y=-54.80, z=-23.46], dimensionLocationPath overworld
+[04Jan2025 01:46:27.292] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.49, y=-54.80, z=-23.46] in list []
+[04Jan2025 01:46:27.326] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.48, y=-54.73, z=-23.50]
+[04Jan2025 01:46:27.327] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.48, y=-54.77, z=-23.50], dimensionLocationPath overworld
+[04Jan2025 01:46:27.327] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.48, y=-54.77, z=-23.50] in list []
+[04Jan2025 01:46:27.834] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.48, y=-54.73, z=-23.50]
+[04Jan2025 01:46:27.834] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.48, y=-54.77, z=-23.50], dimensionLocationPath overworld
+[04Jan2025 01:46:27.834] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.48, y=-54.77, z=-23.50] in list []
+[04Jan2025 01:46:27.889] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.49, y=-53.23, z=-23.70]
+[04Jan2025 01:46:27.889] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.49, y=-53.27, z=-23.70], dimensionLocationPath overworld
+[04Jan2025 01:46:27.889] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=352.49, y=-53.27, z=-23.70] in list []
+[04Jan2025 01:46:49.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13830ms or 276 ticks behind
+[04Jan2025 01:46:56.324] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=414.75, y=-42.00, z=-81.70]
+[04Jan2025 01:46:58.811] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/39972, l='ServerLevel[world]', x=415.65, y=-41.65, z=-83.62], dimensionLocationPath overworld
+[04Jan2025 01:46:58.811] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/39972, l='ServerLevel[world]', x=415.65, y=-41.65, z=-83.62] in list []
+[04Jan2025 01:46:59.833] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/39972, l='ServerLevel[world]', x=414.98, y=-41.89, z=-83.81, removed=DISCARDED]
+[04Jan2025 01:47:00.983] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=415.31, y=-42.00, z=-83.65], dimensionLocationPath overworld
+[04Jan2025 01:47:00.983] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KLSC'/38262, l='ServerLevel[world]', x=415.31, y=-42.00, z=-83.65] in list []
+[04Jan2025 01:47:18.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13804ms or 276 ticks behind
+[04Jan2025 01:47:48.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15442ms or 308 ticks behind
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[04Jan2025 01:48:13.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[04Jan2025 01:48:13.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[04Jan2025 01:48:13.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[04Jan2025 01:48:13.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[04Jan2025 01:48:13.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 01:48:13.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 01:48:17.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13552ms or 271 ticks behind
+[04Jan2025 01:48:33.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Sneak 100]
+[04Jan2025 01:48:48.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15727ms or 314 ticks behind
+[04Jan2025 01:49:11.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8764ms or 175 ticks behind
+[04Jan2025 01:49:42.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15400ms or 308 ticks behind
+[04Jan2025 01:49:56.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to tacaz1707]
+[04Jan2025 01:50:00.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2945ms or 58 ticks behind
+[04Jan2025 01:51:24.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[04Jan2025 01:51:36.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[04Jan2025 01:52:12.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[04Jan2025 01:52:14.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> we
+[04Jan2025 01:52:18.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> casi muero
+[04Jan2025 01:52:19.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> eo
+[04Jan2025 01:52:22.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> xd
+[04Jan2025 01:53:00.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pero se nota que si funciona la armadura de la suerte
+[04Jan2025 01:53:01.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> gg
+[04Jan2025 01:53:09.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> me dieron un vergo de barras de blaze
+[04Jan2025 01:53:10.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> pq loko
+[04Jan2025 01:53:13.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> xd
+[04Jan2025 01:53:15.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> 4 diamantes
+[04Jan2025 01:53:18.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has completed the challenge [It Spreads]

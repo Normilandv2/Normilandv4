@@ -400,3 +400,29 @@
 [04Jan2025 02:52:27.570] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
 [04Jan2025 02:53:16.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -183.500000, 84.500000, 337.500000]
 [04Jan2025 02:53:56.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[04Jan2025 02:54:55.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[04Jan2025 02:55:57.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Timed out
+[04Jan2025 02:55:57.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[04Jan2025 02:58:06.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:50479] logged in with entity id 63290 at (-169.35584579773118, 69.0, 328.23071420945246)
+[04Jan2025 02:58:06.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[04Jan2025 02:58:06.246] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[04Jan2025 02:58:07.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KLSC lost connection: Disconnected
+[04Jan2025 02:58:07.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC left the game
+[04Jan2025 02:58:07.547] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jan2025 02:59:20.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[04Jan2025 02:59:49.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[04Jan2025 03:00:27.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[04Jan2025 03:00:33.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KLSC[/100.106.219.65:59940] logged in with entity id 63698 at (-30.697355648427333, 93.0, 252.20231139638636)
+[04Jan2025 03:00:33.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC joined the game
+[04Jan2025 03:00:33.303] [Server thread/INFO] [Jade/]: Syncing config to KLSC (1862d42b-e6d7-3bb2-a1d6-6523f1ac180e)
+[04Jan2025 03:00:50.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> aveces digo que rico estan los femboys
+[04Jan2025 03:00:58.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pero me recuerdo del fzst y se me quitan las ganas
+[04Jan2025 03:01:24.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[04Jan2025 03:02:32.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> joder
+[04Jan2025 03:03:06.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[04Jan2025 03:03:19.698] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KLSC lost connection: Disconnected
+[04Jan2025 03:03:19.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC left the game
+[04Jan2025 03:03:27.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[04Jan2025 03:03:53.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[04Jan2025 03:04:17.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved wrongly!
+[04Jan2025 03:04:29.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to 231.500000, 107.500000, -319.500000]

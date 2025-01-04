@@ -2980,9 +2980,33 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-04 01:48:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-01-04 01:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-04 01:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-04 01:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-01-04 01:53:18 +0000"
     },
     "done": true
   },
@@ -2992,27 +3016,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/bat_leggings": {
-    "criteria": {
-      "has_ink_sac": "2025-01-04 02:13:19 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/shinobi_leggings": {
     "criteria": {
       "has_diamond_sword": "2025-01-04 01:55:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-01-04 02:51:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_lantern": {
-    "criteria": {
-      "has_soul_torch": "2025-01-04 01:58:25 +0000"
     },
     "done": true
   },
@@ -3028,12 +3034,6 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/cleaver_heavy_axe": {
-    "criteria": {
-      "has_ink_sac": "2025-01-04 02:13:19 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/shinobi_chestplate": {
     "criteria": {
       "has_diamond_sword": "2025-01-04 01:55:14 +0000"
@@ -3046,57 +3046,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-01-04 01:50:29 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bat_helmet": {
-    "criteria": {
-      "has_ink_sac": "2025-01-04 02:13:19 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/shinobi_helmet": {
     "criteria": {
       "has_diamond_sword": "2025-01-04 01:55:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2025-01-04 02:42:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-01-04 02:51:04 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bat_chestplate": {
-    "criteria": {
-      "has_ink_sac": "2025-01-04 02:13:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-01-04 02:51:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-01-04 02:13:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-01-04 01:53:18 +0000"
     },
     "done": true
   },
@@ -3106,21 +3058,45 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
-      "avoid_vibration": "2025-01-04 01:48:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-01-04 01:50:29 +0000"
+      "has_soul_torch": "2025-01-04 01:58:25 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-01-04 02:11:51 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_leggings": {
+    "criteria": {
+      "has_ink_sac": "2025-01-04 02:13:19 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/cleaver_heavy_axe": {
+    "criteria": {
+      "has_ink_sac": "2025-01-04 02:13:19 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_helmet": {
+    "criteria": {
+      "has_ink_sac": "2025-01-04 02:13:19 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2025-01-04 02:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-04 02:13:19 +0000"
     },
     "done": true
   },
@@ -3133,6 +3109,42 @@
   "knightquest:recipes/misc/bat_boots": {
     "criteria": {
       "has_ink_sac": "2025-01-04 02:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-01-04 02:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-04 02:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-04 02:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-01-04 02:51:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-01-04 03:01:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2025-01-04 03:01:42 +0000"
     },
     "done": true
   },

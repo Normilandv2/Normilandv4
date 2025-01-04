@@ -3027,5 +3027,11 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-04 02:07:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

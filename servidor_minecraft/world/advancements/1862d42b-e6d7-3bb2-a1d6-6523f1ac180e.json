@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-04 01:38:25 +0000",
       "minecraft:taiga": "2024-12-31 00:25:02 +0000",
+      "minecraft:cherry_grove": "2025-01-04 02:40:32 +0000",
       "minecraft:sunflower_plains": "2025-01-04 02:28:00 +0000",
       "minecraft:birch_forest": "2024-12-31 02:19:40 +0000",
       "minecraft:windswept_hills": "2024-12-31 02:17:24 +0000",
@@ -3053,6 +3054,12 @@
   "knightquest:recipes/misc/shinobi_helmet": {
     "criteria": {
       "has_diamond_sword": "2025-01-04 01:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-01-04 02:42:13 +0000"
     },
     "done": true
   },

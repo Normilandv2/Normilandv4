@@ -384,3 +384,10 @@
 [04Jan2025 02:26:27.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> entonces alan sabe
 [04Jan2025 02:27:09.748] [Worker-Main-70/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [04Jan2025 02:32:54.317] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[04Jan2025 02:34:20.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> we
+[04Jan2025 02:34:30.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> las mochilas pueden tener mejora de horno ?
+[04Jan2025 02:34:34.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> osea pa cocinar
+[04Jan2025 02:34:34.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> si
+[04Jan2025 02:42:12.796] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/45875, l='ServerLevel[world]', x=203.40, y=87.00, z=-298.12] died, message: 'Weaponsmith hit the ground too hard'
+[04Jan2025 02:43:12.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[04Jan2025 02:43:34.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]

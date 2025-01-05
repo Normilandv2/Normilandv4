@@ -3453,5 +3453,29 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/nail_sword": {
+    "criteria": {
+      "has_iron_block": "2025-01-05 02:41:09 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_glaive": {
+    "criteria": {
+      "has_iron_block": "2025-01-05 02:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-05 02:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-05 02:41:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -325,3 +325,40 @@
 [05Jan2025 02:23:03.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> entonces we
 [05Jan2025 02:23:23.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> eo
 [05Jan2025 02:23:39.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> y mi chichona?
+[05Jan2025 02:24:19.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -2223.500000, 64.500000, 28.500000]
+[05Jan2025 02:25:24.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> Solo tu y yo we
+[05Jan2025 02:26:26.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacaz1707 lost connection: Timed out
+[05Jan2025 02:26:26.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 left the game
+[05Jan2025 02:27:03.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacaz1707[/100.102.237.7:53890] logged in with entity id 51144 at (-157.78165978098494, 71.0, 331.59302412167915)
+[05Jan2025 02:27:03.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 joined the game
+[05Jan2025 02:27:03.256] [Server thread/INFO] [Jade/]: Syncing config to tacaz1707 (2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7)
+[05Jan2025 02:27:09.993] [Worker-Main-174/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[05Jan2025 02:27:34.128] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/51592, l='ServerLevel[world]', x=-2128.08, y=123.94, z=420.20] died, message: 'Unemployed was slain by Tiger'
+[05Jan2025 02:27:51.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> ocupo full diamante
+[05Jan2025 02:27:56.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> boy a minar
+[05Jan2025 02:28:11.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> w
+[05Jan2025 02:28:20.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> w
+[05Jan2025 02:28:27.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> eo
+[05Jan2025 02:28:31.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[05Jan2025 02:28:32.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> que
+[05Jan2025 02:28:35.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> so
+[05Jan2025 02:29:53.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-153, y=72, z=328} BlockPos{x=-38, y=69, z=39}
+[05Jan2025 02:29:53.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-153, y=72, z=328} BlockPos{x=-37, y=69, z=38}
+[05Jan2025 02:29:54.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-153, y=72, z=328} BlockPos{x=-37, y=68, z=38}
+[05Jan2025 02:30:16.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-153, y=72, z=328} BlockPos{x=-36, y=69, z=39}
+[05Jan2025 02:30:20.144] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-153, y=72, z=328} BlockPos{x=-37, y=69, z=38}
+[05Jan2025 02:30:29.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacaz1707 lost connection: Disconnected
+[05Jan2025 02:30:29.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 left the game
+[05Jan2025 02:30:44.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacaz1707[/100.102.237.7:53944] logged in with entity id 54122 at (-33.903311442496324, 72.0, 36.0858728339528)
+[05Jan2025 02:30:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 joined the game
+[05Jan2025 02:30:44.532] [Server thread/INFO] [Jade/]: Syncing config to tacaz1707 (2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7)
+[05Jan2025 02:30:56.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [Eye Spy]
+[05Jan2025 02:31:02.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> no mames
+[05Jan2025 02:31:12.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> q suerte
+[05Jan2025 02:32:11.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -1612.500000, 34.500000, 846.500000]
+[05Jan2025 02:32:38.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -1646.500000, 31.500000, 835.500000]
+[05Jan2025 02:32:57.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -1641.500000, 13.500000, 836.500000]
+[05Jan2025 02:33:07.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacaz1707> w pa q m sirve un mapache
+[05Jan2025 02:33:55.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 is bleeding. tacaz1707 fell from a high place
+[05Jan2025 02:33:58.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -1591.500000, 7.500000, 817.500000]
+[05Jan2025 02:34:01.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 fell from a high place

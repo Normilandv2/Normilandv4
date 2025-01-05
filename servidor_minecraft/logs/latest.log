@@ -557,3 +557,42 @@
 [05Jan2025 03:34:06.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> apurate tortuga
 [05Jan2025 03:34:58.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> ya
 [05Jan2025 03:35:14.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported KLSC to Doglas777]
+[05Jan2025 03:37:54.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> bro
+[05Jan2025 03:37:57.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> e
+[05Jan2025 03:37:57.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> se cree jesus
+[05Jan2025 03:38:01.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[05Jan2025 03:38:03.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> xd
+[05Jan2025 03:40:06.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> cava abajo
+[05Jan2025 03:40:23.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has reached the goal [The Cave That Time Forgot]
+[05Jan2025 03:40:23.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Town of Bedrock]
+[05Jan2025 03:40:42.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> aca hay algo
+[05Jan2025 03:40:46.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has reached the goal [The Cave That Time Forgot]
+[05Jan2025 03:41:23.688] [Worker-Main-156/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
+[05Jan2025 03:41:23.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> nmms
+[05Jan2025 03:41:24.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 is bleeding. Doglas777 fell from a high place
+[05Jan2025 03:41:27.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> wtf
+[05Jan2025 03:41:38.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported KLSC to Doglas777]
+[05Jan2025 03:42:03.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> q mamalon
+[05Jan2025 03:42:06.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> LASTIMA WE
+[05Jan2025 03:42:10.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya me tengo que ir
+[05Jan2025 03:42:27.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya me vi un video de esta mamada
+[05Jan2025 03:42:34.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> yo te explico como conseguir a godzilla
+[05Jan2025 03:42:35.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Life Finds A Way]
+[05Jan2025 03:42:36.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> peroooooooooo
+[05Jan2025 03:42:56.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KLSC moved too quickly! -9.783950136571193,0.45580455214479443,9.064100126335575
+[05Jan2025 03:43:01.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> nmms
+[05Jan2025 03:43:10.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
+[05Jan2025 03:43:10.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[05Jan2025 03:43:12.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KLSC lost connection: Disconnected
+[05Jan2025 03:43:12.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC left the game
+[05Jan2025 03:44:03.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Jan2025 03:44:03.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Jan2025 03:44:03.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Jan2025 03:44:03.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Jan2025 03:44:03.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Jan2025 03:44:03.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Jan2025 03:44:03.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Jan2025 03:44:03.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Jan2025 03:44:03.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Jan2025 03:44:03.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Jan2025 03:44:03.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

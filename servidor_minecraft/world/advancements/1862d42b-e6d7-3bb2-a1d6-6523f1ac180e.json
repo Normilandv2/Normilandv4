@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-04 01:38:25 +0000",
       "minecraft:taiga": "2024-12-31 00:25:02 +0000",
+      "minecraft:frozen_river": "2025-01-05 03:39:09 +0000",
       "minecraft:cherry_grove": "2025-01-04 02:40:32 +0000",
       "minecraft:sunflower_plains": "2025-01-04 02:28:00 +0000",
       "minecraft:birch_forest": "2024-12-31 02:19:40 +0000",
@@ -17,6 +18,7 @@
       "minecraft:dark_forest": "2024-12-31 02:50:34 +0000",
       "minecraft:river": "2024-12-31 00:21:31 +0000",
       "minecraft:stony_shore": "2024-12-31 03:22:42 +0000",
+      "minecraft:snowy_plains": "2025-01-05 03:39:36 +0000",
       "minecraft:dripstone_caves": "2025-01-05 01:37:24 +0000",
       "minecraft:swamp": "2024-12-31 01:48:53 +0000",
       "minecraft:cold_ocean": "2025-01-04 01:45:52 +0000",
@@ -3674,6 +3676,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-01-05 03:40:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-01-05 03:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-01-05 02:58:29 +0000"
@@ -3722,6 +3736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-05 03:40:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-05 02:58:29 +0000"
@@ -3731,6 +3751,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-01-05 03:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-05 03:40:47 +0000"
     },
     "done": true
   },
@@ -3755,6 +3781,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-05 02:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-05 03:40:47 +0000"
     },
     "done": true
   },
@@ -3791,6 +3823,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-05 02:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-05 03:40:47 +0000"
     },
     "done": true
   },
@@ -3866,6 +3904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-01-05 03:40:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-05 02:58:29 +0000"
@@ -3884,6 +3928,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-01-05 03:40:23 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_cracked_stone_bricks": "2025-01-05 02:45:35 +0000"
@@ -3896,6 +3946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-05 03:40:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-01-05 02:43:51 +0000"
@@ -3905,6 +3961,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-05 03:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-05 03:40:47 +0000"
     },
     "done": true
   },
@@ -3926,9 +3988,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-01-05 03:40:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-01-05 02:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-05 03:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-05 03:40:47 +0000"
     },
     "done": true
   },
@@ -3989,6 +4069,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-01-05 03:30:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-01-05 03:40:47 +0000"
     },
     "done": true
   },

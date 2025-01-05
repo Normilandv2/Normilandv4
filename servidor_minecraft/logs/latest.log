@@ -977,3 +977,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jan2025 23:21:20.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
 [05Jan2025 23:34:28.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [Tree Stars!!!]
 [05Jan2025 23:35:27.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [Re-Extinct]
+[05Jan2025 23:41:53.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [Law of Club and Fang]
+[05Jan2025 23:45:36.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has reached the goal [Prehistoric Elytra]
+[05Jan2025 23:45:42.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 was kicked for floating a vehicle too long!
+[05Jan2025 23:45:42.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Disconnected
+[05Jan2025 23:45:42.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[05Jan2025 23:45:42.947] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jan2025 23:45:59.849] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:49911] logged in with entity id 5677 at (-173.22296130630457, -12.00176539578082, -933.229788204658)
+[05Jan2025 23:45:59.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[05Jan2025 23:46:00.559] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[05Jan2025 23:46:08.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 was kicked for floating a vehicle too long!
+[05Jan2025 23:46:08.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Flying is not enabled on this server
+[05Jan2025 23:46:08.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[05Jan2025 23:46:16.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglas777[/100.84.208.122:49913] logged in with entity id 5952 at (-173.22296130630457, -5.505995287587712, -933.229788204658)
+[05Jan2025 23:46:16.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 joined the game
+[05Jan2025 23:46:16.780] [Server thread/INFO] [Jade/]: Syncing config to Doglas777 (1bdb8232-be48-3cf6-b686-dd936bd66cbf)
+[05Jan2025 23:46:27.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 was kicked for floating a vehicle too long!
+[05Jan2025 23:46:27.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 lost connection: Flying is not enabled on this server
+[05Jan2025 23:46:27.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 left the game
+[05Jan2025 23:47:23.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Jan2025 23:47:23.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Jan2025 23:47:23.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Jan2025 23:47:23.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Jan2025 23:47:23.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Jan2025 23:47:23.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Jan2025 23:47:23.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Jan2025 23:47:23.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Jan2025 23:47:23.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Jan2025 23:47:23.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Jan2025 23:47:23.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

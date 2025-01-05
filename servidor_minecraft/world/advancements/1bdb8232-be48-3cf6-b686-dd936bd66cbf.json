@@ -4092,15 +4092,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2025-01-05 01:50:44 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2025-01-05 01:48:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-01-05 01:50:44 +0000"
     },
     "done": true
   },

@@ -14,6 +14,7 @@
       "minecraft:dark_forest": "2025-01-03 01:50:21 +0000",
       "minecraft:river": "2024-12-31 02:07:20 +0000",
       "minecraft:stony_shore": "2024-12-31 23:23:45 +0000",
+      "minecraft:dripstone_caves": "2025-01-05 01:37:55 +0000",
       "minecraft:cold_ocean": "2024-12-31 03:27:01 +0000",
       "minecraft:forest": "2024-12-31 02:03:21 +0000",
       "minecraft:ocean": "2025-01-03 01:44:16 +0000",
@@ -3232,6 +3233,12 @@
   "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-01-04 23:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-05 01:36:30 +0000"
     },
     "done": true
   },

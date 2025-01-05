@@ -1031,3 +1031,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Jan2025 23:51:31.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacaz1707 lost connection: Timed out
 [04Jan2025 23:51:31.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 left the game
 [04Jan2025 23:51:32.029] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jan2025 23:54:56.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[04Jan2025 23:56:38.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacaz1707[/100.102.237.7:49929] logged in with entity id 9437 at (-156.69999998807907, 49.0, 239.56634941432384)
+[04Jan2025 23:56:38.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacaz1707 joined the game
+[04Jan2025 23:56:38.608] [Server thread/INFO] [Jade/]: Syncing config to tacaz1707 (2b7a994d-9b29-3b85-8ccc-e5e3e366e4a7)
+[04Jan2025 23:57:13.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -416.500000, 7.500000, 221.500000]
+[04Jan2025 23:57:34.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[04Jan2025 23:58:08.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[04Jan2025 23:58:35.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]

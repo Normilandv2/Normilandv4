@@ -4386,5 +4386,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-01-05 23:16:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-01-05 23:19:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

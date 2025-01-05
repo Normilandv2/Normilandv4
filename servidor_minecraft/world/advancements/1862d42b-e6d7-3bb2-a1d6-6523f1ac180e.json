@@ -3222,5 +3222,449 @@
     },
     "done": true
   },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-05 02:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_lime_dye": "2025-01-05 02:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 02:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-05 02:07:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nether_boots": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-05 02:07:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_sword": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-05 02:08:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_chestplate": {
+    "criteria": {
+      "has_shield": "2025-01-05 02:09:34 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_leggings": {
+    "criteria": {
+      "has_shield": "2025-01-05 02:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-05 02:07:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/paladin_sword": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk3_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/dragon_boots": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador2_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-05 02:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2025-01-05 02:12:57 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-05 02:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-05 02:12:40 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nether_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_glaive": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-01-05 02:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-05 02:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 02:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 02:12:57 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk2_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_boots": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nether_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/misc/netherite_basic_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-05 02:07:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-05 02:07:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_boots": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-01-05 02:12:53 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-05 02:07:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/misc/netherite_tower_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-05 02:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-05 02:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-05 02:07:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk4_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_boots": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_helmet": {
+    "criteria": {
+      "has_shield": "2025-01-05 02:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-05 02:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-05 02:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-05 02:07:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/dragon_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-05 02:07:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_boots": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_helmet3": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/pirate2_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-01-05 02:12:53 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/dragon_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-05 02:07:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tengu_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nether_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk_boots": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_boots": {
+    "criteria": {
+      "has_shield": "2025-01-05 02:09:34 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/dragon_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_boots": {
+    "criteria": {
+      "has_filled_goblet": "2025-01-05 02:12:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

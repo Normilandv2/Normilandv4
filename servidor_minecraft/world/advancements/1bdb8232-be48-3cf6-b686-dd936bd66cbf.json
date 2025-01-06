@@ -18,19 +18,25 @@
       "minecraft:beach": "2025-01-01 00:44:00 +0000",
       "minecraft:dark_forest": "2025-01-01 00:49:48 +0000",
       "minecraft:river": "2024-12-31 00:09:36 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-06 03:18:51 +0000",
       "minecraft:stony_shore": "2024-12-31 01:50:44 +0000",
       "minecraft:snowy_plains": "2025-01-05 03:39:06 +0000",
       "minecraft:dripstone_caves": "2025-01-01 00:12:41 +0000",
       "minecraft:grove": "2025-01-01 00:27:46 +0000",
+      "minecraft:swamp": "2025-01-06 00:48:26 +0000",
       "minecraft:cold_ocean": "2024-12-31 00:50:25 +0000",
       "minecraft:forest": "2024-12-31 00:05:18 +0000",
       "minecraft:windswept_forest": "2025-01-03 00:24:54 +0000",
       "minecraft:ocean": "2024-12-31 01:50:53 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-01 00:21:04 +0000",
+      "minecraft:windswept_savanna": "2025-01-06 03:14:57 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-06 03:15:11 +0000",
       "minecraft:flower_forest": "2024-12-31 02:41:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-01 00:43:55 +0000",
       "minecraft:deep_dark": "2025-01-04 02:00:10 +0000",
       "minecraft:meadow": "2024-12-31 00:26:11 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-01-06 00:48:22 +0000",
+      "minecraft:savanna": "2025-01-06 03:19:25 +0000",
       "minecraft:plains": "2024-12-31 00:08:46 +0000"
     },
     "done": false
@@ -4419,6 +4425,130 @@
   "alexscaves:alexscaves/tame_subterranodon": {
     "criteria": {
       "killed": "2025-01-05 23:45:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2025-01-05 23:54:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_tremorsaurus": {
+    "criteria": {
+      "killed": "2025-01-06 00:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-01-06 00:56:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-01-06 00:56:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-06 00:58:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-01-06 01:06:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "shirt": "2025-01-06 01:09:32 +0000",
+      "pants": "2025-01-06 01:09:45 +0000",
+      "helmet": "2025-01-06 01:09:26 +0000",
+      "boots": "2025-01-06 01:09:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-01-06 01:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-06 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-06 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-06 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "slam": "2025-01-06 01:24:59 +0000",
+      "spelunkie": "2025-01-06 01:24:53 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2025-01-06 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/polymer_plate": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-01-06 02:07:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-06 02:09:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-01-06 02:14:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-01-06 02:23:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-01-06 02:25:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-01-06 03:26:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-01-06 03:26:26 +0000"
     },
     "done": true
   },

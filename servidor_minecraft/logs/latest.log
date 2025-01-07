@@ -2544,3 +2544,27 @@
 [07Jan2025 01:11:32.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
 [07Jan2025 01:11:33.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved too quickly! -1.4731335328046953,3.8190571549294887,9.232614427382941
 [07Jan2025 01:11:50.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3864ms or 77 ticks behind
+[07Jan2025 01:12:53.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3125ms or 62 ticks behind
+[07Jan2025 01:13:43.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
+[07Jan2025 01:14:02.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2681ms or 53 ticks behind
+[07Jan2025 01:14:26.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9843ms or 196 ticks behind
+[07Jan2025 01:15:18.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36891ms or 737 ticks behind
+[07Jan2025 01:15:41.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[07Jan2025 01:15:43.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[07Jan2025 01:17:53.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[07Jan2025 01:18:17.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[07Jan2025 01:18:38.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[07Jan2025 01:19:00.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> e
+[07Jan2025 01:19:01.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC is bleeding. KLSC drowned
+[07Jan2025 01:19:10.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC drowned
+[07Jan2025 01:19:21.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> cffffff
+[07Jan2025 01:19:23.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KLSC lost connection: Timed out
+[07Jan2025 01:19:23.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC left the game
+[07Jan2025 01:20:32.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pense que matar al we rompe cascos me daria un logro
+[07Jan2025 01:20:37.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> solo me dio el embrion
+[07Jan2025 01:21:08.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -2493.500000, 71.500000, 8709.500000]
+[07Jan2025 01:21:18.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> luser
+[07Jan2025 01:21:47.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KLSC[/100.106.219.65:55814] logged in with entity id 110567 at (-22.69999998807907, 88.0, 250.30000001192093)
+[07Jan2025 01:21:47.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC joined the game
+[07Jan2025 01:21:47.404] [Server thread/INFO] [Jade/]: Syncing config to KLSC (1862d42b-e6d7-3bb2-a1d6-6523f1ac180e)
+[07Jan2025 01:22:39.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]

@@ -4558,9 +4558,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/ride_submarine": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-01-07 00:09:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_weathered_copper_from_honeycomb": {
     "criteria": {
       "has_weathered_copper": "2025-01-06 23:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-01-07 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-07 00:18:07 +0000"
     },
     "done": true
   },
@@ -4585,6 +4603,18 @@
   "alexscaves:alexscaves/deep_ones_become_neutral": {
     "criteria": {
       "stalked_by_deep_one": "2025-01-07 00:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-01-07 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-01-07 00:17:27 +0000"
     },
     "done": true
   },
@@ -4648,6 +4678,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-01-07 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_ones_become_helpful": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-01-07 00:13:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-01-06 23:53:36 +0000"
@@ -4690,9 +4732,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-01-07 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-07 00:18:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/weathered_cut_copper_from_weathered_copper_stonecutting": {
     "criteria": {
       "has_weathered_copper": "2025-01-06 23:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-07 00:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-01-07 00:17:27 +0000"
     },
     "done": true
   },

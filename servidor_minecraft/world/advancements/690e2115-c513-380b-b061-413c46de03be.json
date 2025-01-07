@@ -3470,9 +3470,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_bone_meal": "2025-01-06 03:02:28 +0000"
+      "traded": "2025-01-06 02:26:30 +0000"
     },
     "done": true
   },
@@ -3482,27 +3482,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-01-06 02:34:16 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2025-01-06 02:49:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-01-06 02:27:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-01-06 02:26:30 +0000"
     },
     "done": true
   },
@@ -3521,12 +3503,6 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-06 02:27:23 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2025-01-06 02:43:47 +0000"
     },
     "done": true
   },
@@ -3551,6 +3527,30 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-01-06 02:27:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-06 02:34:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-01-06 02:43:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-01-06 02:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-06 03:02:28 +0000"
     },
     "done": true
   },

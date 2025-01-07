@@ -17,6 +17,7 @@
       "minecraft:windswept_hills": "2025-01-01 00:41:42 +0000",
       "minecraft:beach": "2025-01-01 00:44:00 +0000",
       "minecraft:dark_forest": "2025-01-01 00:49:48 +0000",
+      "minecraft:sparse_jungle": "2025-01-07 00:24:44 +0000",
       "minecraft:river": "2024-12-31 00:09:36 +0000",
       "minecraft:lukewarm_ocean": "2025-01-06 03:18:51 +0000",
       "minecraft:stony_shore": "2024-12-31 01:50:44 +0000",
@@ -26,6 +27,7 @@
       "minecraft:swamp": "2025-01-06 00:48:26 +0000",
       "minecraft:cold_ocean": "2024-12-31 00:50:25 +0000",
       "minecraft:forest": "2024-12-31 00:05:18 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-07 00:27:42 +0000",
       "minecraft:windswept_forest": "2025-01-03 00:24:54 +0000",
       "minecraft:ocean": "2024-12-31 01:50:53 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-01 00:21:04 +0000",
@@ -4761,6 +4763,12 @@
       "has_prismarine": "2025-01-07 00:17:27 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/deep_one_items": {
+    "criteria": {
+      "magic_conch": "2025-01-07 00:19:24 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
     "criteria": {

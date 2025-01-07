@@ -4163,9 +4163,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-07 00:23:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-01-07 00:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-01-07 00:23:56 +0000"
     },
     "done": true
   },

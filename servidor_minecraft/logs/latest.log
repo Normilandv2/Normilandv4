@@ -140,3 +140,67 @@
 [07Jan2025 00:17:23.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> smn
 [07Jan2025 00:17:43.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> solo termino aca
 [07Jan2025 00:17:48.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> me dan algo y ya voy
+[07Jan2025 00:19:42.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya me lo dieron
+[07Jan2025 00:19:51.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -2493.500000, 71.500000, 8709.500000]
+[07Jan2025 00:20:03.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[07Jan2025 00:21:01.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> we
+[07Jan2025 00:21:06.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> e
+[07Jan2025 00:21:07.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> me queda a 10 mil bloques
+[07Jan2025 00:21:08.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> me esperas
+[07Jan2025 00:21:15.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> Dios
+[07Jan2025 00:21:18.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> ps smn
+[07Jan2025 00:23:46.731] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:23:46.731] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:23:46.731] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:23:46.731] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:23:55.979] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:23:56.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-406, y=-52, z=-872} BlockPos{x=-407, y=-52, z=-872}
+[07Jan2025 00:24:23.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> 7 mil bloques
+[07Jan2025 00:24:27.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya voy
+[07Jan2025 00:24:31.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.075997371384119,9.842282004273386,-4.456621088909742
+[07Jan2025 00:24:32.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 0.9482724971826428,10.806117017658153,-3.9276036553328595
+[07Jan2025 00:24:32.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.1382962886598307,13.017497902751956,-4.714653939109667
+[07Jan2025 00:24:32.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.3284133322679281,15.244074206950813,-5.5020904593447995
+[07Jan2025 00:24:32.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.518613538128875,17.485244191942172,-6.2898714252633
+[07Jan2025 00:24:32.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 0.9505346361934244,11.129871846902418,-3.9369730986873037
+[07Jan2025 00:24:32.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.1408751456992832,13.39851835022391,-4.7253351814370035
+[07Jan2025 00:24:34.124] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
+[07Jan2025 00:24:34.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.331656351384936,-1.1923673603161546,-9.657373841260778
+[07Jan2025 00:24:34.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.543942762361894,-1.3011492420439197,-10.536632584088693
+[07Jan2025 00:24:47.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.3382680845911636,-1.196647213729591,-9.684758656904705
+[07Jan2025 00:24:52.844] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:24:52.845] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:24:52.845] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:24:52.845] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:25:01.310] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:25:01.310] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:25:01.310] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:25:01.311] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:25:02.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.3382680845911636,-1.196647213729591,-9.684758656904705
+[07Jan2025 00:25:02.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.5508379104630876,-1.3054333240686447,-10.56519126207786
+[07Jan2025 00:25:02.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.7634077363350116,-1.4142194344076984,-11.445623867251015
+[07Jan2025 00:25:02.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.9759775622069355,-1.523005544746752,-12.32605647242417
+[07Jan2025 00:25:29.681] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:25:40.519] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[07Jan2025 00:25:53.248] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:25:53.248] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:25:53.248] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:25:53.249] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:25:59.979] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[07Jan2025 00:26:01.900] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:26:09.526] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:26:09.526] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:26:09.526] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:26:09.527] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:26:32.537] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[07Jan2025 00:27:53.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.486956984294011,8.03529236054544,-5.824780760870453
+[07Jan2025 00:28:08.538] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[07Jan2025 00:28:08.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.464343797671745,-1.196647213729591,-9.65344827890749
+[07Jan2025 00:28:22.274] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[07Jan2025 00:28:45.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Enchanter]
+[07Jan2025 00:28:54.221] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[07Jan2025 00:28:57.731] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:28:57.732] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:28:57.733] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:28:57.733] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jan2025 00:29:28.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Re-Extinct]

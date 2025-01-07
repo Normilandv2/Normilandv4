@@ -4157,6 +4157,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2025-01-07 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-01-07 00:38:29 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tame_subterranodon": {
     "criteria": {
       "killed": "2025-01-07 00:10:30 +0000"
@@ -4175,6 +4187,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-01-07 00:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-01-07 00:10:30 +0000"
@@ -4184,6 +4202,12 @@
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2025-01-07 00:23:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-01-07 00:38:34 +0000"
     },
     "done": true
   },

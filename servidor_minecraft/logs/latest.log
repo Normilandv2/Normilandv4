@@ -2683,3 +2683,9 @@
 [07Jan2025 02:13:56.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved wrongly!
 [07Jan2025 02:13:56.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved wrongly!
 [07Jan2025 02:13:56.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved wrongly!
+[07Jan2025 02:14:43.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[07Jan2025 02:20:54.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[07Jan2025 02:21:08.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[07Jan2025 02:22:17.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[07Jan2025 02:22:21.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[07Jan2025 02:22:41.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has reached the goal [King of Monsters]

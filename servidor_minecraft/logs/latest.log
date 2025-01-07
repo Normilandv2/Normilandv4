@@ -2627,3 +2627,36 @@
 [07Jan2025 01:29:04.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.861661494804139,-1.3054333240686447,-10.485272504116438
 [07Jan2025 01:31:15.142] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
 [07Jan2025 01:31:32.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> zzz
+[07Jan2025 01:33:08.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.589893078684412,-1.196647213729591,-9.617751558566198
+[07Jan2025 01:33:52.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 3.697729647689343,-1.196647213729591,-9.276496757177938
+[07Jan2025 01:33:52.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 3.9583525348770507,-1.3054333240686447,-10.14172723662
+[07Jan2025 01:33:52.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 4.210337004987167,-1.4142194344076984,-11.009367760925102
+[07Jan2025 01:35:04.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 0.297414291932256
+[07Jan2025 01:35:04.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 0.6404060645412812
+[07Jan2025 01:35:04.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 1.0006661801291443
+[07Jan2025 01:35:07.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 0.3098813459332348
+[07Jan2025 01:35:07.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 0.6774727265502918
+[07Jan2025 01:35:07.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 1.0965299175816199
+[07Jan2025 01:35:07.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 0.5058855360757093
+[07Jan2025 01:35:07.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 1.0486422636821828
+[07Jan2025 01:35:07.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 1.625494008000203
+[07Jan2025 01:40:12.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has reached the goal [Suspicious Looking Item]
+[07Jan2025 01:40:36.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -164.500000, -20.500000, -1036.500000]
+[07Jan2025 01:41:35.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [The Beginning of the End]
+[07Jan2025 01:42:09.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> doglas
+[07Jan2025 01:42:13.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> porque el cielo es rojo
+[07Jan2025 01:42:29.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> que invocaste
+[07Jan2025 01:45:48.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[07Jan2025 01:46:27.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[07Jan2025 01:46:45.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[07Jan2025 01:47:05.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[07Jan2025 01:47:12.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[07Jan2025 01:47:20.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[07Jan2025 01:47:27.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[07Jan2025 01:47:28.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has completed the challenge [The End... of the Beginning]
+[07Jan2025 01:48:06.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[07Jan2025 01:48:30.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> destruyo la mitad de mi armadura del nether
+[07Jan2025 01:48:31.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> X
+[07Jan2025 01:50:00.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR lost connection: Disconnected
+[07Jan2025 01:50:00.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR left the game
+[07Jan2025 01:52:38.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]

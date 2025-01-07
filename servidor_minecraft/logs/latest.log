@@ -204,3 +204,68 @@
 [07Jan2025 00:28:57.733] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [07Jan2025 00:28:57.733] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [07Jan2025 00:29:28.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Re-Extinct]
+[07Jan2025 00:30:03.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[07Jan2025 00:30:18.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.540158856803032,-1.196647213729591,-9.633776038191172
+[07Jan2025 00:30:18.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.771082389239723,-1.3054333240686447,-10.509573859845034
+[07Jan2025 00:30:18.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.5401588568036004,-1.196647213729591,-9.633776038192877
+[07Jan2025 00:30:18.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.7710823892402914,-1.3054333240686447,-10.509573859846796
+[07Jan2025 00:30:18.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! -3.694776518987055,1.7405777654248595,14.012765146462584
+[07Jan2025 00:30:18.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! -3.694776518987055,1.7405777654248595,14.012765146462584
+[07Jan2025 00:30:18.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! -3.463852986550364,1.6317916550858058,13.136967324808609
+[07Jan2025 00:30:18.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! -3.2329294541136733,1.523005544746752,12.261169503154633
+[07Jan2025 00:30:18.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! -3.0020059216769823,1.4142194344076984,11.385371681500658
+[07Jan2025 00:30:45.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> mil bloques
+[07Jan2025 00:30:47.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya llego
+[07Jan2025 00:32:20.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 9.338861690514577,2.6139611253633745,3.7421645030290165
+[07Jan2025 00:32:20.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 10.181999452327602,2.515018826542274,3.9596100080848373
+[07Jan2025 00:32:20.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 11.02940766665182,2.411905114262723,4.17552205240986
+[07Jan2025 00:32:20.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 11.879198653845108,2.3063876666450938,4.395529739470248
+[07Jan2025 00:32:20.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 12.726304353337937,2.1994850905493024,4.632175037397701
+[07Jan2025 00:32:20.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 13.56936091779177,2.0917843480037135,4.887126101812328
+[07Jan2025 00:32:20.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 14.408806463513741,1.9836236700141399,5.158402249250685
+[07Jan2025 00:32:20.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 15.244913493152538,1.8751979588191716,5.444472140742164
+[07Jan2025 00:32:20.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 16.079605220801028,1.7666195248869485,5.740493316565562
+[07Jan2025 00:32:20.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 16.9174582538202,1.657953086002891,6.03391136377536
+[07Jan2025 00:32:20.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 17.760942717997025,1.5492359351444094,6.313814991498475
+[07Jan2025 00:32:20.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 18.609680588814598,1.4404895620172198,6.580400196613937
+[07Jan2025 00:32:20.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 10.96220763304629,-1.3739380534802876,3.3132633756545147
+[07Jan2025 00:32:20.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 11.820693059686619,-1.4827109689767894,3.5518634937905063
+[07Jan2025 00:32:20.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 12.683293496586856,-1.5914894759196159,3.7785804128343443
+[07Jan2025 00:32:35.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 0.25448904958329877
+[07Jan2025 00:32:35.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 0.5793144704171027
+[07Jan2025 00:32:35.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 0.9668386428484155
+[07Jan2025 00:32:35.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 1.4089963426088161
+[07Jan2025 00:32:35.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 1.8970187922934656
+[07Jan2025 00:32:35.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 2.42052460549894
+[07Jan2025 00:32:35.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 2.9659893605005436
+[07Jan2025 00:32:35.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 3.517919755291814
+[07Jan2025 00:32:35.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 1.7278277531527237
+[07Jan2025 00:32:35.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 1.7278277531527237
+[07Jan2025 00:32:35.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 1.7278277531527237
+[07Jan2025 00:32:35.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 1.7278277531527237
+[07Jan2025 00:32:35.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 1.704334819787391
+[07Jan2025 00:32:35.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 1.6242383358012376
+[07Jan2025 00:32:35.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 1.4760909875838024
+[07Jan2025 00:32:35.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 1.2591716728979918
+[07Jan2025 00:32:35.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved wrongly! 0.9757352238023032
+[07Jan2025 00:32:49.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya llegue
+[07Jan2025 00:33:37.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> donde estas we
+[07Jan2025 00:33:43.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> ni idea
+[07Jan2025 00:33:54.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ve donde este sigma
+[07Jan2025 00:35:48.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> ya tengo 4 de este dino w
+[07Jan2025 00:35:53.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> los 4 a la primera
+[07Jan2025 00:35:53.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> lol
+[07Jan2025 00:36:39.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Strictly Medicinal Purposes]
+[07Jan2025 00:36:51.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pegale con esto we
+[07Jan2025 00:37:54.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> se hace con eso
+[07Jan2025 00:38:02.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> y esto we
+[07Jan2025 00:38:29.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Tree Stars!!!]
+[07Jan2025 00:38:30.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Fronds Like These]
+[07Jan2025 00:38:34.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Law of Club and Fang]
+[07Jan2025 00:39:27.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> y ya
+[07Jan2025 00:39:35.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> lo que te di es para ayudarte a ahacer la ensalada
+[07Jan2025 00:39:39.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> me falta algo pero no lo encuentro
+[07Jan2025 00:40:19.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> yo ire a matar un boss we
+[07Jan2025 00:40:22.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> nos vemso
+[07Jan2025 00:40:23.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [We Need to Go Deeper]
+[07Jan2025 00:40:26.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> smn

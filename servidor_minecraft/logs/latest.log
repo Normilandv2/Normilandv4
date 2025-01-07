@@ -2660,3 +2660,26 @@
 [07Jan2025 01:50:00.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR lost connection: Disconnected
 [07Jan2025 01:50:00.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR left the game
 [07Jan2025 01:52:38.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[07Jan2025 01:57:04.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[07Jan2025 01:58:25.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [Once Upon a Cave]
+[07Jan2025 02:02:50.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[07Jan2025 02:05:08.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[07Jan2025 02:05:15.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [Tastes Like Chicken]
+[07Jan2025 02:05:21.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[07Jan2025 02:07:59.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [The Parrots and the Bats]
+[07Jan2025 02:09:03.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[07Jan2025 02:09:19.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[07Jan2025 02:10:41.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [Century Egg]
+[07Jan2025 02:10:54.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[07Jan2025 02:10:59.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Teleported Doglas777 to -103.500000, 71.500000, 313.500000]
+[07Jan2025 02:11:02.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the weather to clear]
+[07Jan2025 02:12:03.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set the time to 1000]
+[07Jan2025 02:12:41.586] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/153032, l='ServerLevel[world]', x=264.50, y=49.00, z=300.50]
+[07Jan2025 02:12:52.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Survival Mode]
+[07Jan2025 02:13:39.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [The Big Red Button]
+[07Jan2025 02:13:54.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglas777 has made the advancement [The Folly of Man]
+[07Jan2025 02:13:55.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved wrongly!
+[07Jan2025 02:13:55.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved wrongly!
+[07Jan2025 02:13:56.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved wrongly!
+[07Jan2025 02:13:56.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved wrongly!
+[07Jan2025 02:13:56.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglas777 moved wrongly!

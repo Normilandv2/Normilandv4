@@ -4158,45 +4158,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/fiddlehead": {
-    "criteria": {
-      "fiddlehead": "2025-01-07 00:38:30 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/tree_star": {
-    "criteria": {
-      "tree_star": "2025-01-07 00:38:29 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/tame_subterranodon": {
     "criteria": {
       "killed": "2025-01-07 00:10:30 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rocky_roller": {
-    "criteria": {
-      "killed_by": "2025-01-07 00:58:59 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/serene_salad": {
-    "criteria": {
-      "serene_salad": "2025-01-07 00:36:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-01-07 00:23:54 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/dinosaur_nugget": {
-    "criteria": {
-      "cooked_dinosaur_chop": "2025-01-07 00:48:44 +0000"
     },
     "done": true
   },
@@ -4206,9 +4170,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_pointed_dripstone": "2025-01-07 00:59:27 +0000"
+      "has_coal_block": "2025-01-07 00:23:54 +0000"
     },
     "done": true
   },
@@ -4218,15 +4182,57 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_tremorsaurus": "2025-01-07 00:29:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2025-01-07 00:36:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-01-07 00:38:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2025-01-07 00:38:30 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/primitive_club": {
     "criteria": {
       "limestone": "2025-01-07 00:38:34 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_big_dinosaur": {
+  "alexscaves:alexscaves/dinosaur_nugget": {
     "criteria": {
-      "killed_tremorsaurus": "2025-01-07 00:29:28 +0000"
+      "cooked_dinosaur_chop": "2025-01-07 00:48:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-01-07 00:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-07 00:59:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-01-07 01:26:15 +0000"
     },
     "done": true
   },

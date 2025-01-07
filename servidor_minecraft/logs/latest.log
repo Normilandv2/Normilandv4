@@ -2568,3 +2568,62 @@
 [07Jan2025 01:21:47.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC joined the game
 [07Jan2025 01:21:47.404] [Server thread/INFO] [Jade/]: Syncing config to KLSC (1862d42b-e6d7-3bb2-a1d6-6523f1ac180e)
 [07Jan2025 01:22:39.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglas777: Set own game mode to Creative Mode]
+[07Jan2025 01:23:14.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.2496228227837491,7.624610677213326,-7.135651456192136
+[07Jan2025 01:23:14.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.3970458391759166,7.949555202446916,-7.974063431787727
+[07Jan2025 01:23:14.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.5455588564709615,8.184799929059764,-8.818266243344624
+[07Jan2025 01:23:14.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.6950439365987222,8.333896967400591,-9.667633322562324
+[07Jan2025 01:23:26.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> Dios
+[07Jan2025 01:23:29.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KLSC lost connection: Disconnected
+[07Jan2025 01:23:29.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC left the game
+[07Jan2025 01:23:34.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Best Friends Forever]
+[07Jan2025 01:23:43.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> naah
+[07Jan2025 01:23:47.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> lentisimo
+[07Jan2025 01:23:58.511] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@267c907d[id=<null>,name=KLSC,properties={},legacy=false] (/100.106.219.65:55852) lost connection: Disconnected
+[07Jan2025 01:24:06.352] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@13270a75[id=<null>,name=KLSC,properties={},legacy=false] (/100.106.219.65:55853) lost connection: Disconnected
+[07Jan2025 01:24:38.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KLSC[/100.106.219.65:55895] logged in with entity id 125388 at (-26.30000001192093, 89.0, 248.67947559371993)
+[07Jan2025 01:24:38.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC joined the game
+[07Jan2025 01:24:38.573] [Server thread/INFO] [Jade/]: Syncing config to KLSC (1862d42b-e6d7-3bb2-a1d6-6523f1ac180e)
+[07Jan2025 01:25:18.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.1338214260642872,9.211269268231447,-4.79063908162334
+[07Jan2025 01:25:18.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.3222262693141147,10.888440451748934,-5.586690015651584
+[07Jan2025 01:25:18.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.5105138557005375,12.601961748568428,-6.38224551424446
+[07Jan2025 01:25:18.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.6986968724131657,14.350393694882627,-7.177359183502631
+[07Jan2025 01:25:18.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.1295081308846875,10.374567422212152,-4.772414482949898
+[07Jan2025 01:25:18.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.3174405607660447,12.219653364417454,-5.566469369016886
+[07Jan2025 01:25:18.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.5053068488982717,14.094439998619393,-6.360244791986588
+[07Jan2025 01:25:18.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.6954165677339006,15.818153115655122,-7.163499191588926
+[07Jan2025 01:25:18.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 1.1399200708731314,10.275645110150151,-4.816407165991222
+[07Jan2025 01:25:18.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! -1.887526978128335,-17.396775223980555,7.975206942796831
+[07Jan2025 01:25:18.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! -1.887526978128335,-17.396775223980555,7.975206942796831
+[07Jan2025 01:25:18.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! -1.887526978128335,-17.396775223980555,7.975206942796831
+[07Jan2025 01:25:18.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! -1.887526978128335,-17.396775223980555,7.975206942796831
+[07Jan2025 01:25:32.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> oye w
+[07Jan2025 01:25:34.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> doglas
+[07Jan2025 01:25:36.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.2946044337577405,-1.196647213729591,-9.695196637254412
+[07Jan2025 01:25:36.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.503204836826626,-1.3054333240686447,-10.576578149732086
+[07Jan2025 01:25:38.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> que
+[07Jan2025 01:25:41.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> desaparecieron mis botas w
+[07Jan2025 01:25:55.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> porque
+[07Jan2025 01:25:59.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> ni idea
+[07Jan2025 01:26:03.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pues
+[07Jan2025 01:26:04.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> entonces
+[07Jan2025 01:26:05.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> que
+[07Jan2025 01:26:10.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> pasa
+[07Jan2025 01:26:15.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC has made the advancement [Tastes Like Chicken]
+[07Jan2025 01:26:21.175] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[07Jan2025 01:26:32.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KLSC> es q lit desaparecieron w
+[07Jan2025 01:26:47.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> pues entonces
+[07Jan2025 01:26:53.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> ya llego supongo
+[07Jan2025 01:26:59.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglas777> voy a invocar al jefe se ese lugar
+[07Jan2025 01:27:14.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.446754878526008,-1.196647213729591,-9.657920960328738
+[07Jan2025 01:27:14.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.669187141580551,-1.3054333240686447,-10.53591378186502
+[07Jan2025 01:28:14.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.497647410064701,-1.196647213729591,-9.644885061255081
+[07Jan2025 01:28:14.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.7247062655251284,-1.3054333240686447,-10.521692794096452
+[07Jan2025 01:28:38.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.559985586545281,-1.196647213729591,-9.628383251467767
+[07Jan2025 01:28:38.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.7945523394989777,-1.3054333240686447,-10.503204352829925
+[07Jan2025 01:28:48.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KLSC moved too quickly! 9.054783862630075,1.060779213548983,-4.353555029857375
+[07Jan2025 01:29:00.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KLSC lost connection: Disconnected
+[07Jan2025 01:29:00.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KLSC left the game
+[07Jan2025 01:29:04.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.6231897035704606,-1.196647213729591,-9.611499795440068
+[07Jan2025 01:29:04.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Doglas777) moved too quickly! 2.861661494804139,-1.3054333240686447,-10.485272504116438
+[07Jan2025 01:31:15.142] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[07Jan2025 01:31:32.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> zzz
